@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="28" height="29" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="map_bed_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_bed_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="129" name="map_border_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_border_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="257" name="map_bridge_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_bridge_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="385" name="map_broken_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_broken_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="513" name="map_cavewall_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_cavewall_1.png" width="576" height="192"/>
+ </tileset>
+ <tileset firstgid="621" name="map_cavewall_2" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_cavewall_2.png" width="576" height="192"/>
+ </tileset>
+ <tileset firstgid="729" name="map_cavewall_3" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_cavewall_3.png" width="576" height="192"/>
+ </tileset>
+ <tileset firstgid="837" name="map_chair_table_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_chair_table_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="965" name="map_crate_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_crate_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="1093" name="map_cupboard_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_cupboard_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="1221" name="map_curtain_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_curtain_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="1349" name="map_entrance_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_entrance_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="1477" name="map_fence_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_fence_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="1605" name="map_fence_2" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_fence_2.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="1733" name="map_ground_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_ground_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="1861" name="map_ground_2" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_ground_2.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="1989" name="map_ground_3" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_ground_3.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="2117" name="map_ground_4" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_ground_4.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="2245" name="map_ground_5" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_ground_5.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="2373" name="map_ground_6" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_ground_6.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="2501" name="map_ground_7" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_ground_7.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="2629" name="map_ground_8" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_ground_8.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="2757" name="map_indoor_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_indoor_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="2885" name="map_kitchen_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_kitchen_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="3013" name="map_outdoor_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_outdoor_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="3141" name="map_pillar_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_pillar_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="3269" name="map_plant_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_plant_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="3397" name="map_rock_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_rock_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="3525" name="map_roof_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_roof_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="3653" name="map_roof_2" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_roof_2.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="3781" name="map_shop_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_shop_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="3909" name="map_sign_ladder_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_sign_ladder_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="4037" name="map_table_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_table_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="4165" name="map_trail_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_trail_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="4293" name="map_tree_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_tree_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="4421" name="map_wall_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_wall_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="4549" name="map_wall_2" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_wall_2.png" width="480" height="256"/>
+ </tileset>
+ <tileset firstgid="4669" name="map_wall_3" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_wall_3.png" width="480" height="256"/>
+ </tileset>
+ <tileset firstgid="4789" name="map_window_1" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_window_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="4917" name="map_window_2" tilewidth="32" tileheight="32">
+  <image source="../../Stoutford area/drawable/map_window_2.png" width="512" height="256"/>
+ </tileset>
+ <layer name="Ground" width="28" height="29">
+  <data encoding="base64" compression="zlib">
+   eJytlsFOAjEQhpc9aCAx+gC8AuAL6LKH1cANyELgvKtPoz6FMZqoZ30CH8tp6MR/x+m0Rg7fAWjnm06nLeM8y8YRpgljDkVJLIlCeA+Zw9TjXCuiIRbgxRxCc1Pz4VhL7/o6+oG9mEORd/NbAlo+yARiNd511u86JQuRXwO430YRH8eZ9vecR3y8bsfdIMvugYdB3HdC8U8THBqvFP8NeE/wjcg18b6Kxl95rokL+v6SKPzape/p+DeWz+33cy/LXnr7+TU51p6td3LsSnwOEeoZ7pUPcn0qPnbyendKDqF+0pzcK9wnlY+5jrAVNQ85ZV3LvFurmGtG3HjmgZojI6WWWKuY4xbiYt03iT4r/jwSy+orrW803wzWUCs+PCuyHryn6JV7KH0Yu1Zyl72rIfOzaspjZe9w7vydrLlcp8vPxW+Fz/Xn3Igb65s24OT3o4R68jvHczCezB33VSKdbiy/Hyvv47OAc2S81s8f5nus+6RW8uK3Tb5BGuyQ99Ew1/1aL+P5s3y4v9Z/BI6BvWX5Qncfjnk03hf3O7q0PcbxobujSPQ5sI83g269tfy0e4jfkjLBNzbia77QGvn/WIrvL1j3caiH/kvK+TqUyzpfqfuSwjdPyEAZ
+  </data>
+ </layer>
+ <layer name="Objects" width="28" height="29">
+  <data encoding="base64" compression="zlib">
+   eJzNVr1OAkEQPiiodg09Ee3lVbTESmPjWZnQCJWExChqoiEWxqOxQy1EGi3VN7FH4iMYd3I7ublxd9klYviSy/7M7PzP7kXR4uGq8L/6EpGOZ3PUe61l14pR9KD0rakx0Xv9QmYDx7nmOQ6wDc7ciFQXYFdG0YtIP9BLbQB0ieyh2n9S38hiDwfIArn3jL8p0xFiCvOeXqNOPPuqzr2p713kaS5gLBtaZktmtIT4MhZ5vliktsB5sKvu6WMIJlpmR+b3k8DaOpB22gmjof+nIos7rl24ddi059APOGR0l70IrMdnYtfQ4xxFj/FPq5mPKTF4DNDfNtSwDVuKd1vzDxw6uD+Aask8p6h59kqDyC8zWV1CuyNzXl8UJnsBO4b9FYvtJvRZLW6Wf/M0Lbo7Iq+P9t7I0CvVov9d44KPf5Viet8sW/TRPltX8w2y5rW5qvVxn2YFrVGOWO0vlbK+bjE+WtNfhnuE1yf2DuamQugYG6z1tsM/yNt3IS8f5peGMxXPHKN+qKN9mfUMjq67Dd+QeA5vCcfAkotZYcoFgPbekc7tZ6B/VIZvHhCmPr+Q2Xv+l8D81QP+P2YBxoO/R/g/Nplj/UB9xzqmNI+heVkE/AB+kkyQ
+  </data>
+ </layer>
+ <layer name="Above" width="28" height="29">
+  <data encoding="base64" compression="zlib">
+   eJzdlVEOgjAMhhcTeQLDu/E6vumjngC9gifRJ42XABIPp25xTeoyaMsaMH7JEiDQv11/OmN+j2M5rtYhoqeZA44FWlUQP5YD/vZR8LXCWO5Zbb9vim/dMAfIo2FqOfb2/dbHhdVVC8U65+k5xvII6FE1Qe2YU95/36c3FJxDXcR7DMS8chP0XgrU1vbkdWXoP+fGvPwyGa3n2Ni4Wx/7LKxxkcWvMV1zZCgXIsdUn0jR0rsz934109GTQM2ULm9yawrR7CHlaW1/Tq21RP7A+8g5Q1IBPekcwUjOL45PduVnpcQAOP8epSf9f2E/oH9hH7XnHRVP279TzLN/5A0SvytA
+  </data>
+ </layer>
+ <layer name="Walkable" width="28" height="29">
+  <data encoding="base64" compression="zlib">
+   eJztklEKwCAMQz3CLuX9r7SvwRDbJi4tyBT6UzQvtulXa/3UKWHNztPPZERnfMfyGE/eHFS8iKn+HzL76nxV8N7MKk0Vj9nRam4sBqLFMBH/qI7i3h94aG6iPpo9hOn1Eb8Mf6Y19lmW9QadtedJ4QOZ5yqP2QOb1y9My0cWb9TP5CH73KVu0yDdeA==
+  </data>
+ </layer>
+ <objectgroup name="Mapevents" width="28" height="29">
+  <object name="up" type="mapchange" x="320" y="704" width="64" height="32">
+   <properties>
+    <property name="map" value="soulpartdungeon3"/>
+    <property name="place" value="down"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="Spawn" width="28" height="29"/>
+ <objectgroup name="Keys" width="28" height="29"/>
+</map>
