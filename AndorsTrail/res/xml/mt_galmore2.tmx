@@ -179,26 +179,25 @@
  </tileset>
  <layer name="Ground" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztljEOwyAMRREbQ++/9ApNhLhEjlVVKopl+cM3dTNl+AsBHrY/OPmRUr51K1hHSamVmL1qOcVwpSKYV3FZZiunropVMlsAU7OZWJn5et3quVhun9O/6zxF5UeyNbMqH0SwK4hJe2WVizynxy1J/8mxf3JRDphaoz0Zrswv4iI2y7X2R1xPrUdc/XZ5zrPSWxjuzGu/cJFvGb+t3GXGuzou9i6Peo71Tnm4oxx7euzozbLqivaz+qys4YiP7h4j1ONnXL12xS+W/7zn9/K6XjmlLcdyZ33rENw9x/xTofoj7hbEZfuI5H70/OoNw8Q9gQ==
+   eJzt1DsOgCAQBFBC5/1bryDGExiPYLyQUtAYwf0NxEgx9cvssgTvXLhlvrIMtpkenBruSnA3gLv7cufY9QC4MbVnTNlvqzeF2C2lK2K3Le7nzUS4lL2mtHItbY5pMe+R6VncksTT3pLU5HaN80zRmNyuGkvynrT9JDdk7VE6c/+BL7ilWaPdXGekmXPRXXOzrmGmWPxFPf/MCX+ceRI=
   </data>
  </layer>
  <layer name="Objects" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzlVkFOw0AMXPVIOZuI8gLgx6jvSd/Q3COa3qMgOJAVsTqZzKabgHrB0kpNuvHY47F3Q/hf9m4/62S3xe16vKpfhxvjxlzPf4Bb24W7HP6q4f/mF3zXQ+xHy+evHfau5RsxP+zyzH6YD/5+KW4JmOoZfaOdbBrzUtzGxn449lL4bDIwkSOufzvUZ84P46Z0wLVAjpT+UCMqdsZ1LMUVxlYJX43lax/jwtiYK8SMe1wrHcVwTYOPRQg7Wk/FeI+qAfcFc3EN9+th+u6ecBUXiIO6yZk1MddtMX1/J3JmS3HA71WtVa5umLPqFa4r6pCNOc/BrYlDj7+k3weKBzXGOT/3vl/69TlTY48/+m0hN9Y5951rooLv2Rwf1yvhqtzUTMD9OFeWzvbWxhrF3Hh28fxyU2fB3HlcJ3xxLZHPnBnC33H9uSfdWFuKT+SJ5/sZsFAn0U/sba9bK7BdW3gv8JiQc+YY+wyxU3cL1if6R4zO9JxP1YzjTOlP5X609DlXJ+KKPt42Iew3Yz9zd4vU2cVYiIc15Lwd2/9fY3heIA+lyBdN9cESKwGT9YR9n6rzWlN3Rsb1PSn7BoqPcko=
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
   </data>
  </layer>
  <layer name="Above" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzt0kENADAMxLBTQYz9AI7FYLSqbAR5JAEAmOud7gIm8gUb3OouSD4HtQKe
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
   </data>
  </layer>
  <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztzgENAAAIA6CnsH8FGxrD6SABCQAA3NK1PYAfBp4sAMg=
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
   </data>
  </layer>
- <objectgroup name="Mapevents" width="0" height="0"/>
- <objectgroup name="Spawn" width="0" height="0"/>
- <objectgroup name="Keys" width="0" height="0"/>
- <objectgroup name="Replace" width="0" height="0"/>
+ <objectgroup name="Mapevents" width="30" height="30"/>
+ <objectgroup name="Spawn" width="30" height="30"/>
+ <objectgroup name="Keys" width="30" height="30"/>
 </map>
