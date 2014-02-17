@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" width="17" height="15" tilewidth="32" tileheight="32">
+<map version="1.0" orientation="orthogonal" width="30" height="30" tilewidth="32" tileheight="32">
  <tileset firstgid="1" name="map_bed_1" tilewidth="32" tileheight="32">
   <image source="../drawable/map_bed_1.png" width="512" height="256"/>
  </tileset>
@@ -177,27 +177,27 @@
  <tileset firstgid="7321" name="map_window_2" tilewidth="32" tileheight="32">
   <image source="../drawable/map_window_2.png" width="512" height="256"/>
  </tileset>
- <layer name="Ground" width="17" height="15">
+ <layer name="Ground" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJyNk9ENwyAMRJH4ahfo0CHdIIENEqJM0Mkaq3fiZIHSj1PIYT8wmPMRwhJDmC+dGK+Xkngq817PpgUx2/UtyLXxHn9zGSzmJ3jK2MQ7kGveB98KVootvzqGsen5WlbEG2tCXT7flDHPNVjXDlV4U6cG0yR7nSWeZ6OMMthDkb0WxzjkTCv+bc4z6M+IIYPaOl6PwzqOTuxIeh9cK//J8OvrXHV9dJfbY7B/2AM8I/7f5ZtW1MN7YL+kAUP7jb3DPtDeJvc9YPg3lGI7kyRvrg4Y+m6Y8wXeiIo1
+   eJydl8Fu2zAMhgPrtL3AHtp2jjvVqW/dDrVTY5c2A7q72wHdA/S0B5mI8od+/2EcYwdCsiLxIymKUrq02zVZbrP8+PQhHX3vva2DeTV9j7k9po+xNstDlrtqt/tWlfbJWxOb3/s86DNp/dt+M3bn3IdU7NrTui+flzbbOBiPWU5ZXrxvYzZ3orVYD+7kdrF9o7e9cE1G8fVnljnLa5Z37z9WSx+xtkmFC7bpm1wnYj6l87Xgwq/fFFvILFyTJtjHKS1bzGHbOAdsfKaYRhJxkRccd8jo+3sQ27C3PD5TTn3N8t37p2rJ4j6Yyh5TyV3sbS85zTl6534/Oe/ke81+cl+5ymb9U8CtU+HOnsuvLnUq+nS/lM37av1jsP9qe5uKry/k5xqX2aqP+eDiu6Z+k4qvERe6G+GuSSP6Oad13ruf3cbPfJfO46g+b2FrPKK5qGOIjeYM+xDpXbPhEMzFetQTnLOtsV2rE6gzx1TquNp+cK7NualKrd/KjnzhOjMSW22yOfeZOVTnNTGqURFb9fKZG+n8tuLX4Fy9y65xlak1FWuZi3Xw1do+8JXXajyiPY/sje4X5kZ3WXSH9xdy8FJdQ8sxfnbuc3AfsSD3dS85fhi/VH84zm/u69sVLvM6idml3L52BhDrLcwtuX2Jo2MW41/Vee7WG3hbzrnebRDz9a9wra91/X+51+KkdzveiLXYjPesjq/tzxqbmaYTb0bEyvJg9POGd3TEbak+tml5Dq5xUUO4XiD/+B29T+c+3qZSm7XO2D0AibioIR3ZDO5INab3ccxFbeEzD85QLbn4btJy/Eb+uwzEha1TKmPggAvdEJwb1jOsiK7ns846OM/ug7VWm/5UpUaC+w8FbDvx
   </data>
  </layer>
- <layer name="Objects" width="17" height="15">
+ <layer name="Objects" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJyVUkEOwiAQNNk/yBv7BEpf4zOUS4sn9QXqC6iPkE0hDOumwUlItpQZhtmd6fAXHuZ3z4HGqvy/wN451R/4fkI9g46lVjeaTUfyGd5sXOaMaV3TWoDL/waqZ8sbAlUPd8W3BtaK2UOAO3zmDzt5Fn945g33eqhdZ1/Yw81UnSjeJr1jLiFnVcC5cBYvJQ+px1raHazhlSynjvdwb9ecrRdzYTN/hLmYqM4Jchk9PbXCkzZX2C95XsNybJcGB3pan0+mXQWBWg8j1Hvzghysv6QqSIc=
+   eJytVsttwkAQRXYP2RrTQTC0kRMit4RIqSDAxcAJqABzyDmkiHiEn/z8mDGg5EkIe3d23vzXg0EXZT64wFjW1vX7yJH7K4x7n/y9x4DP5Fe095yd/z8fYg6D+TCvzy5SqyfC0PG3Tz7CptGxrc/u0pn/J3X3PBj3ms5W9a9wbHqtfX/L2mcPzMnguNyDL+JBzI3b7GMbOV6nJu7wOfJd6w66lU9hMTqm7jP8+qac3wOzJYrpkOw0P0eUK84RuE3e6zPWh/gZ+nptIX4CzA19VSNT5t2agswuXcoa2G+rL5NZNntePW2b+tyJPdDJdkHmkNpnjduQYoEYbkXXNUC+INsNy8B2r7+WTqw5V5Et8J3ju0u+LMPyxHFh+6rU/Xn8bJvFDX3HmMsa92I0c9W3o+i0OOl85L5DzcAmw4Rq7J6cci0p7yqomVugcfG4C8oPeNFT6G/UDPZX1Hc6vxAXnBkGdeXdH4ZDUwtl3uXVmQ5erMM27QVDxM8zle317IrAfeHB6y2er8vUnUU6Nxh99ytg/qjcnnTz/NC+1HqP7ib2Df1d0Vm+53V+R7nA2kfW/Ve+gvhge5lf1kc0v5UfueDe1Z4Z5/05vgUaW9TNU2p95dqdN882v/TbzewZO+sK24/umFm99t7wY4adgpq32EyD7wYGbGIfo/tt1tMv9yCS51q/NoujvlKfX7J+TtTgRM5N6Rx/E10Df1+pLaXDpf2K94MTa+hTWzeOXq4zlf8vmD2Rbr1rrs2lXxK4BUw=
   </data>
  </layer>
- <layer name="Above" width="17" height="15">
+ <layer name="Above" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgeoJIZwa5mRpXLQOMT0j8cAC7/HCHSn8SqG86AnDQxSRwVUxNkUjlOADXpB3g=
+   eJzdlm0KgzAMhos7RI8oO8Km1xCE4WHGbtF6GBERNKQxadrqfP7oD5uPt/nQGDmvR8QhJj+h7W/g+77Sx3JVcupfK2xvNffWmNHq46Ho/uCOQxo0hM7OLvp5pX6rbwdsvRHfzuLvsXBip/xA3dqMNY/5ztVj8C6OwOoEO4/VmSvQg1pC85vLmfnF+v5U+2dpJH4lfZdibkDm+pfsEm09cPoem58QrsbU/w6c3yEdcvQAd8bcGWpHY6TcGU+BrZK78a7Afh1OntGpWfMYDvKZAETbMzY=
   </data>
  </layer>
- <layer name="Walkable" width="17" height="15">
+ <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjEQAAAP8AAE=
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
   </data>
  </layer>
- <objectgroup name="Mapevents" width="17" height="15"/>
- <objectgroup name="Spawn" width="17" height="15"/>
- <objectgroup name="Keys" width="17" height="15"/>
+ <objectgroup name="Mapevents" width="30" height="30"/>
+ <objectgroup name="Spawn" width="30" height="30"/>
+ <objectgroup name="Keys" width="30" height="30"/>
 </map>
