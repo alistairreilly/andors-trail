@@ -89,7 +89,7 @@
 	<string name="inventory_item_equipped">%1$s angelegt.</string>
 
 	<string name="dialog_loot_pickall">Alles einsammeln</string>
-	<string name="dialog_loot_foundgold">Du findest %1$d Goldmünzen. </string>
+	<string name="dialog_loot_foundgold">Du findest %1$d Goldmünzen.</string>
 	<string name="dialog_loot_pickedupitem">Du hebst einen Gegenstand auf.</string>
 	<string name="dialog_loot_pickedupitems">Du hebst %1$d Gegenstände auf.</string>
 	<string name="dialog_groundloot_title">Gegenstände</string>
@@ -196,7 +196,7 @@
 		&lt;br /&gt;
 		&lt;a href="http://andorstrail.com/"&gt;Forum auf andorstrail.com für Fragen und Diskussionen.&lt;/a&gt;&lt;br /&gt;
 		&lt;br /&gt;
-		&lt;a href="http://andorstrail.com/wiki"&gt;Game wiki for info about the Andor\'s Trail world, among other things.&lt;/a&gt;&lt;br /&gt;
+		&lt;a href="http://andorstrail.com/wiki"&gt;Game Wiki über die Welt von Andor\'s Trail und weitergehende Informationen.&lt;/a&gt;&lt;br /&gt;
 		&lt;br /&gt;
 		&lt;a href="http://code.google.com/p/andors-trail/"&gt;Projekt Homepage auf code.google.com für Entwickler.&lt;/a&gt;&lt;br /&gt;
 		&lt;br /&gt;
@@ -251,9 +251,13 @@
 	<string name="preferences_combat_speed_title">Kampfgeschwindigkeit</string>
 	<string name="preferences_combat_speed">Bestimmt, wie schnell Gegner angreifen.</string>
 
-	<string name="preferences_display_loot_dialog">Beute-Dialog anzeigen</string>
+	<string name="preferences_display_loot_dialog">Beute-Dialog immer anzeigen</string>
+	<string name="preferences_display_loot_dialog_on_items">Beute-Dialog beim Fund von Gegenständen</string>
+	<string name="preferences_display_loot_dialog_on_items_or_toast">Dialog bei Gegenständen, sonst Nachricht</string>
 	<string name="preferences_display_loot_toast">Kurze Nachricht</string>
+	<string name="preferences_display_loot_toast_on_items"> Kurze Nachricht, nur beim Fund von Gegenstd.</string>
 	<string name="preferences_display_loot_never">Nicht anzeigen</string>
+
 	<string name="preferences_attackspeed_instant">Sofort (keine Animation)</string>
 	<string name="preferences_attackspeed_fast">Schnell</string>
 	<string name="preferences_attackspeed_normal">Normal</string>
@@ -342,7 +346,7 @@
 	<string name="skill_title_speed">Kampfgeschwindigkeit</string>
 	<string name="skill_title_coinfinder">Schatzjäger</string>
 	<string name="skill_title_more_exp">Guter Lehrling</string>
-	<string name="skill_title_cleave">Cleave</string>
+	<string name="skill_title_cleave">Bresche</string>
 	<string name="skill_title_eater">Leichenesser</string>
 	<string name="skill_title_fortitude">wachsende Standhaftigkeit</string>
 	<string name="skill_title_evasion">Umgehen</string>
@@ -433,7 +437,7 @@
 
 	<string name="skill_title_shadow_bless">Dunkler Segen des Schattens</string>
 	<string name="skill_shortdescription_shadow_bless">Widerstand gegen Effekte aller Art</string>
-	<string name="skill_longdescription_shadow_bless">Verringert die Chance von Effekten aller Art geplagt zu werden um %1$d %%. Das beeinhaltet alle von Gegnern hinzugefügten Effekte wie beispielsweise Vergiftung, Benommen und Ermüdung.</string>
+	<string name="skill_longdescription_shadow_bless">Verringert die Chance von Effekten aller Art geplagt zu werden um %1$d %%. Das beinhaltet alle von Gegnern hinzugefügten Effekte wie beispielsweise Vergiftung, Benommen und Ermüdung.</string>
 
 	<string name="inventory_movetop">Nach ganz oben verschieben</string>
 	<string name="inventory_movebottom">Nach ganz unten verschieben</string>
@@ -507,6 +511,107 @@
 	<!-- =========================================== -->
 	<!-- Added in v0.7.0 -->
 
+	<string name="heroinfo_reequip_cost">Ausrüstungskosten (AP):</string>
+	<string name="heroinfo_useitem_cost">Benutzungskosten (AP):</string>
+	<string name="combat_result_monstermoved">%1$s bewegt sich.</string>
+	<string name="combat_log_title">Kampflogbuch</string>
 	<string name="localize_resources_from_mo_filename">de.mo</string>
+	<string name="conversation_reward_quest_finished">[Quest abgeschlossen: \"%1$s\"]</string>
+	<string name="conversation_reward_quest_updated">[Quest aktualisiert: \"%1$s\"]</string>
+
+	<string name="skill_title_weapon_prof_dagger">Fertigkeit: Dolch</string>
+	<string name="skill_title_weapon_prof_1hsword">Fertigkeit: Einhandschwert</string>
+	<string name="skill_title_weapon_prof_2hsword">Fertigkeit: Zweihandschwert</string>
+	<string name="skill_title_weapon_prof_axe">Fertigkeit: Axt</string>
+	<string name="skill_title_weapon_prof_blunt">Fertigkeit: Stumpfe Waffen</string>
+	<string name="skill_title_weapon_prof_unarmed">Unbewaffneter Kampf</string>
+	<string name="skill_title_armor_prof_shield">Fertigkeit: Schild</string>
+	<string name="skill_title_armor_prof_unarmored">Kampf ohne Rüstung</string>
+	<string name="skill_title_armor_prof_light">Fertigkeit: Leichte Rüstung</string>
+	<string name="skill_title_armor_prof_heavy">Fertigkeit: Schwere Rüstung</string>
+	<string name="skill_title_fightstyle_dualwield">Kampftechnik: Beidhändig</string>
+	<string name="skill_title_fightstyle_2hand">Kampftechnik: Zweihändige Waffen</string>
+	<string name="skill_title_fightstyle_weapon_shield">Kampftechnik: Waffe und Schild</string>
+	<string name="skill_title_specialization_dualwield">Spezialisierung: Beidhändig</string>
+	<string name="skill_title_specialization_2hand">Spezialisierung: Zweihändige Waffen</string>
+	<string name="skill_title_specialization_weapon_shield">Spezialisierung: Waffe und Schild</string>
+
+	<string name="skill_shortdescription_weapon_prof_dagger">Verbesserter Kampf mit Dolchen</string>
+	<string name="skill_shortdescription_weapon_prof_1hsword">Verbesserter Kampf mit Einhandschwertern</string>
+	<string name="skill_shortdescription_weapon_prof_2hsword">Verbesserter Kampf mit Zweihandschwertern</string>
+	<string name="skill_shortdescription_weapon_prof_axe">Verbesserter Kampf mit Äxten</string>
+	<string name="skill_shortdescription_weapon_prof_blunt">Verbesserter Kampf mit stumpfen Waffen</string>
+	<string name="skill_shortdescription_weapon_prof_unarmed">Verbesserter Kampf ohne Waffen</string>
+	<string name="skill_shortdescription_armor_prof_shield">Besserer Umgang mit Schilden</string>
+	<string name="skill_shortdescription_armor_prof_unarmored">Verbesserter Kampf ohne Rüstung</string>
+	<string name="skill_shortdescription_armor_prof_light">Besserer Umgang mit leichter Rüstung</string>
+	<string name="skill_shortdescription_armor_prof_heavy">Besserer Umgang mit schwerer Rüstung</string>
+	<string name="skill_shortdescription_fightstyle_dualwield">Kämpfe mit zwei Waffen gleichzeitig</string>
+	<string name="skill_shortdescription_fightstyle_2hand">Besserer Umgang mit zweihändigen Waffen</string>
+	<string name="skill_shortdescription_fightstyle_weapon_shield">Verbesserter Kampf mit Waffe und Schild</string>
+	<string name="skill_shortdescription_specialization_dualwield">Experte im Umgang mit zwei Waffen</string>
+	<string name="skill_shortdescription_specialization_2hand">Experte für zweihändige Waffen</string>
+	<string name="skill_shortdescription_specialization_weapon_shield">Experte im Kampf mit Waffe und Schild</string>
+
+	<string name="skill_longdescription_weapon_prof_dagger">Erhöht die Angriffschance von Dolchen und Kurzschwertern um %1$d %% der Basisangriffschance des Gegenstands, erhöht die Abwehrchance um %2$d %% der Basisabwehrchance des Gegensstands und erhöht die Kritische Fähigkeit um %3$d %% der ursprünglichen Kritischen Fähigkeit des Gegenstands je Level des Skills.</string>
+	<string name="skill_longdescription_weapon_prof_1hsword">Erhöht die Angriffschance von Rapieren, Lang- und Breitschwertern um %1$d %% der Basisangriffschance des Gegenstands, erhöht die Abwehrchance um %2$d %% der Basisabwehrchance des Gegensstands und erhöht die Kritische Fähigkeit um %3$d %% der ursprünglichen Kritischen Fähigkeit des Gegenstands je Level des Skills.</string>
+	<string name="skill_longdescription_weapon_prof_2hsword">Erhöht die Angriffschance von Zweihandschwertern um %1$d %% der Basisangriffschance des Gegenstands, erhöht die Abwehrchance um %2$d %% der Basisabwehrchance des Gegensstands und erhöht die Kritische Fähigkeit um %3$d %% der ursprünglichen Kritischen Fähigkeit des Gegenstands je Level des Skills.</string>
+	<string name="skill_longdescription_weapon_prof_axe">Erhöht die Angriffschance von Äxten und Großäxten um %1$d %% der Basisangriffschance des Gegenstands, erhöht die Abwehrchance um %2$d %% der Basisabwehrchance des Gegensstands und erhöht die Kritische Fähigkeit um %3$d %% der ursprünglichen Kritischen Fähigkeit des Gegenstands je Level des Skills.</string>
+	<string name="skill_longdescription_weapon_prof_blunt">Erhöht die Angriffschance stumpfen Waffen um %1$d %% der Basisangriffschance des Gegenstands, erhöht die Abwehrchance um %2$d %% der Basisabwehrchance des Gegensstands und erhöht die Kritische Fähigkeit um %3$d %% der ursprünglichen Kritischen Fähigkeit des Gegenstands je Level des Skills. Dies umfasst Keulen, Kampfstäbe, Streitkolben, Scepter, Kriegshämmer  und Riesenhämmer.</string>
+	<string name="skill_longdescription_weapon_prof_unarmed">Beim Kampf ohne Rüstung und Schild erhältst du %1$d %% Angriffschance, %2$d Schadenspotential und %3$d %% Abwehrchance je Level des Skills.</string>
+	<string name="skill_longdescription_armor_prof_shield">Erhöht die Schadensresistenz um %1$d je Level des Skills, solange du mit einem Schild ausgerüstet bist.</string>
+	<string name="skill_longdescription_armor_prof_unarmored">Beim Kampf ohne Benutzung irgendeines Rüstungsteils erhältst du %1$d %% Abwehrchance je Level des Skills. Gegenstände aus Stoff gelten nicht als Rüstung.</string>
+	<string name="skill_longdescription_armor_prof_light">Erhöht die Abwehrchance jedes getragenen Teils leichter Rüstung um %1$d %% seiner ursprünglichen Abwehrchance je Level des Skills. Leichte Rüstung umfasst Leder, leichtes Metall und Häute.</string>
+	<string name="skill_longdescription_armor_prof_heavy">Erhöht die Abwehrchance jedes getragenen Teils schwerer Rüstung um %1$d %% seiner ursprünglichen Abwehrchance je Level des Skills. Die Bewegungsstrafe für schwere Rüstungsteile reduziert sich um %2$d %% je Level des Skills und ihre Strafe bzgl. Angriffsgeschwindigkeit reduziert sich um %3$d %% je Level des Skills. Schwere Rüstung umfasst Metallrüstungen, Kettenrüstungen und Plattenpanzer.</string>
+	<string name="skill_longdescription_fightstyle_dualwield">"Bringt Vorteile, wenn mit zwei Waffen gleichzeitig gekämpft wird, einer in der Haupthand und einer in der Nebenhand.
+
+Ohne diesen Skill können nur %1$d %% des Potentials einer Waffe genutzt werden, die mit der Nebenhand geführt wird. Dies umfasst Angriffschance, Kritische Fähigkeit, Schadenspotential und Abwehrchance. Ohne diesen Skill  ergibt sich die Angriffsgeschwindigkeit (AP Kosten) für eine Attacke aus der Summe der Angriffsgeschwindigkeiten der Hauptwaffe und der Waffe in der Nebenhand.
+
+Mit einem Level dieses Skills können %2$d %% des Potentials einer Waffe in der Nebenhand genutzt werden und die  Angriffsgeschwindigkeit ergibt sich aus der Angriffsgeschwindigkeit der Waffe in der Haupthand plus %3$d %% der Angriffsgeschwindigkeit der Waffe in der Nebenhand.
+
+Mit zwei Leveln dieses Skills können %4$d %% des Potentials einer Waffe in der Nebenhand genutzt werden und die Angriffsgeschwindigkeit ergibt sich aus dem höheren der beiden Werte der getragenen Waffen."</string>
+
+	<string name="skill_longdescription_fightstyle_2hand">"Bringt Vorteile im Umgang mit Waffen, die mit beiden Händen geführt werden müssen, wie zum Beispiel Zweihandschwerter, Großäxte oder Riesenhämmer.
+
+Jeder Level des Skills erhöht das Schadenspotential von zweihändigen Waffen um %1$d %% ihres ursprünglichen Schadenspotentials."</string>
+	<string name="skill_longdescription_fightstyle_weapon_shield">"Bringt Vorteile, wenn mit einer Waffe in der Haupthand gekämpft wird und ein Schild in der Nebenhand getragen wird.
+
+Jeder Level des Skills erhöht die Angriffschance von Waffen um %1$d %% ihrer ursprünglichen Angriffschance und die Abwehrchance von Schilden um %2$d %% ihrer ursprünglichen Abwehrchance."</string>
+	<string name="skill_longdescription_specialization_dualwield">Erhöht die Angriffschance beider getragener Waffen um weitere %1$d %% ihrer ursprünglichen Angriffschancen, zusätzlich zu den Vorteilen, die durch den Kampftechnik-Skill gewährt werden. Die Abwehrchancen beider getragener Waffen werden ebenso um %2$d %% ihrer ursprünglichen Abwehrchancen erhöht.</string>
+	<string name="skill_longdescription_specialization_2hand">Erhöht das Schadenspotential zweihändiger Waffen um weitere %1$d %% ihres ursprünglichen Schadenspotentials, zusätzlich zu den Vorteilen, die durch den Kampftechnik-Skill gewährt werden. Die Angriffschancen zweihändiger Waffen werden ebenso um %2$d %% ihrer ursprünglichen Angriffschancen erhöht.</string>
+	<string name="skill_longdescription_specialization_weapon_shield">Erhöht sowohl Angriffschance als auch Schadenspotential von Waffen. Die Angriffschance erhöht sich um %1$d %% der ursprünglichen Angriffschance und das Schadenspotential erhöht sich um %2$d %% des ursprünglichen Schadenspotentials.</string>
+
+	<string name="preferences_quickslots_placement">Position der Schnellzugriffsleiste</string>
+	<string name="preferences_quickslots_placement_summary">Wo soll die Schnellzugriffsleiste positioniert werden?</string>
+	<string name="preferences_quickslots_placements_horizontal_center_bottom">Zentriert unten</string>
+	<string name="preferences_quickslots_placements_vertical_center_left">Links in der Mitte</string>
+	<string name="preferences_quickslots_placements_vertical_center_right">Rechts in der Mitte</string>
+	<string name="preferences_quickslots_placements_vertical_bottom_left">Links unten, am linken Rand</string>
+	<string name="preferences_quickslots_placements_horizontal_bottom_left">Links unten, am unteren Rand</string>
+	<string name="preferences_quickslots_placements_horizontal_bottom_right">Rechts unten, am unteren Rand</string>
+	<string name="preferences_quickslots_placements_vertical_bottom_right">Rechts unten, am rechten Rand</string>
+	<string name="preferences_ui_show_quickslots_when_toolbox_is_visible_title">Zeige Schnellzugriffsleiste wenn die Werkzeugskiste geöffnet wird</string>
+	<string name="preferences_ui_show_quickslots_when_toolbox_is_visible">Die Buttons der Schnellzugriffsleiste werden angezeigt, sobald die Werkzeugskiste geöffnet wird.</string>
+	<string name="startscreen_incompatible_savegames">Dies ist eine Entwicklungsversion von Andor\'s Trail. Gespeicherte Spielstände, die mit dieser Version angelegt werden sind inkompatibel zur Releaseversion.</string>
+	<string name="startscreen_non_release_version">Dies ist eine Vorabversion von Andor\'s Trail. Gespeicherte Spielstände, die mit dieser Version angelegt werden sind möglicherweise nicht mit der Releaseversion kompatibel.</string>
+	<string name="heroinfo_gamestats">Spielstatistiken</string>
+	<string name="heroinfo_gamestats_quests">Abgeschlossene Quests</string>
+	<string name="heroinfo_gamestats_deaths">... mal bewusstlos geworden</string>
+	<string name="heroinfo_gamestats_spent_gold">In Geschäften ausgegebenes Gold</string>
+	<string name="heroinfo_gamestats_bonemeals">Benutzte Knochenmehltränke</string>
+	<string name="heroinfo_gamestats_num_used_items">Benutzte Gegenstände</string>
+	<string name="heroinfo_gamestats_visited_maps">Besuchte Orte</string>
+	<string name="heroinfo_gamestats_fav_item">Meistbenutzer Gegenstand</string>
+	<string name="heroinfo_gamestats_num_killed_monsters">Getötete Monster</string>
+	<string name="heroinfo_gamestats_top_boss">Mächtigstes getötetes Monster</string>
+	<string name="heroinfo_gamestats_fav_monsters">Zumeist getötete Monster</string>
+	<string name="heroinfo_gamestats_name_and_qty">%1$s (%2$d)</string>
+
+	<!-- =========================================== -->
+	<!-- Added in v0.7.1 -->
+
+	<string name="preferences_ui_use_localized_resources_title">Benutze lokalisierte Ressourcen</string>
+	<string name="preferences_ui_use_localized_resources">Verwende Übersetzungen von Oberfläche und Inhalt, sofern verfügbar. (Erfordert Neustart)</string>
+	<string name="change_locale_requires_restart">Änderung der Lokalisierung erfordert Neustart. Andor\'s Trail wurde beendet.</string>
 
 </resources>
