@@ -8,19 +8,15 @@ Translated by toudi5-bełchatów
 	<string name="app_name">Andor\'s Trail</string>
 	<string name="app_description">Quest-driven fantasy RPG</string>
 
-	<string name="exit">Wyjście</string>
 	<string name="exit_to_menu">Wyjście do menu</string>
-	<string name="menu_pause">Pauza</string>
 	<string name="menu_settings">Opcje</string>
 	<string name="menu_save">Zapisz</string>
-	<string name="menu_load">Wczytaj</string>
 	<string name="menu_save_gamesaved">Gra została zapisana na slocie %1$d</string>
 	<string name="menu_save_failed">Błąd zapisu! Czy karta sd jest zamontowana i zapisywalna?</string>
 
 	<string name="loadsave_title_save">Zapisz Grę</string>
 	<string name="loadsave_title_load">Wczytaj Grę</string>
 	<string name="loadsave_selectslot">Wybierz slot</string>
-	<string name="loadsave_slot_empty">(pusty)</string>
 	<string name="savegame_currenthero_displayinfo">poziom %1$d, %2$d dośw, %3$d złoto</string>
 
 	<string name="dialog_loading_message">Wczytywanie zasobów...</string>
@@ -30,27 +26,17 @@ Translated by toudi5-bełchatów
 
 	<string name="dialog_close">Zamknij</string>
 
-	<string name="dialog_confirmexit_title">Wyjście</string>
-	<string name="dialog_confirmexit_message">Czy na pewno chcesz wyjść?</string>
-
-	<string name="dialog_paused_title">Pauza</string>
-	<string name="dialog_paused_message">Gra wstrzymana</string>
-	<string name="dialog_paused_resume">Kontynuuj</string>
-
 	<string name="dialog_monsterencounter_title">Potyczka</string>
 	<string name="dialog_monsterencounter_message">Czy chcesz zaatakować?\nTrudność: %1$s</string>
 	<string name="dialog_monsterencounter_info">Info</string>
 
 	<string name="status_hp">PŻ:</string>
-	<string name="status_mp">PM:</string>
 	<string name="status_ap">WT:</string>
 	<string name="status_exp">Poziom:</string>
 
 	<string name="heroinfo_char">Przegląd</string>
 	<string name="heroinfo_inv">Inwentarz</string>
-	<string name="heroinfo_wear">Wyposażenie</string>
 	<string name="heroinfo_skill">Umiejętności</string>
-	<string name="heroinfo_spell">Czary</string>
 	<string name="heroinfo_levelup">Nowy Poziom</string>
 	<string name="heroinfo_level">Poziom</string>
 	<string name="heroinfo_totalexperience">Doświadczenie całkowite</string>
@@ -63,7 +49,6 @@ Translated by toudi5-bełchatów
 	<string name="combat_attack">Atak (%1$d WT)</string>
 	<string name="combat_move">Ruch (%1$d WT)</string>
 	<string name="combat_use">Użyj przedmiotu</string>
-	<string name="combat_spell">Czary</string>
 	<string name="combat_endturn">Koniec tury</string>
 	<!-- <string name="combat_endcombat">End combat</string>-->
 	<string name="combat_flee">Ucieknij</string>
@@ -112,10 +97,7 @@ Translated by toudi5-bełchatów
 	<string name="actorinfo_class">Klasa:</string>
 	<string name="actorinfo_difficulty">Trudność:</string>
 	<string name="actorinfo_health">Życia:</string>
-	<string name="actorinfo_attacksperturn">Atak/tura:</string>
-	<string name="actorinfo_movesperturn">Ruch/tura:</string>
 	<string name="actorinfo_attack">Atak:</string>
-	<string name="actorinfo_criticalhit">Cios krytyczny:</string>
 	<string name="actorinfo_defense">Obrona:</string>
 	<string name="actorinfo_movecost">Koszt ruchu (WT):</string>
 	<string name="actorinfo_basetraits">Podstawowe statystyki walki (bez ekwipunku i umiejętności)</string>
@@ -138,18 +120,6 @@ Translated by toudi5-bełchatów
 	<string name="iteminfo_action_use_ap">Użyj (%1$d WT)</string>
 	<string name="iteminfo_action_equip_ap">Załóż (%1$d WT)</string>
 	<string name="iteminfo_action_unequip_ap">Zdejmij (%1$d WT)</string>
-
-	<string name="itemcategory_money">Pieniądze</string>
-	<string name="itemcategory_weapon">Broń</string>
-	<string name="itemcategory_shield">Tarcza</string>
-	<string name="itemcategory_wearable_head">Można założyć (głowa)</string>
-	<string name="itemcategory_wearable_body">Można założyć (ciało)</string>
-	<string name="itemcategory_wearable_hand">Można założyć (ręce)</string>
-	<string name="itemcategory_wearable_feet">Można założyć (stopy)</string>
-	<string name="itemcategory_wearable_neck">Można założyć (szyja)</string>
-	<string name="itemcategory_wearable_ring">Można założyć (pierścień)</string>
-	<string name="itemcategory_potion">Napój</string>
-	<string name="itemcategory_other">Inne</string>
 
 	<string name="startscreen_continue">Kontynuuj obecną gre</string>
 	<string name="startscreen_newgame">Nowa Gra</string>
@@ -230,7 +200,6 @@ Translated by toudi5-bełchatów
 		Dziękujemy za całe wasze wsparcie!
 	</string>
 
-	<string name="questlog_title">Zadania</string>
 	<string name="questlog_includecompleted_prompt">Wybierz zadanie, żeby rozwinąć</string>
 	<string name="questlog_includecompleted_hidecompleted">Schowaj ukończone zadania</string>
 	<string name="questlog_includecompleted_includecompleted">Pokazuj ukończone zadania</string>

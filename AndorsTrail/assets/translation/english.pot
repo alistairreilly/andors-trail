@@ -26563,3 +26563,44 @@ msgstr ""
 #: questlist_v070_misc.json:antifoodp:40
 msgid "I can bring him more ingredients if I want him to create more antidote potions in the future."
 msgstr ""
+
+#: worldmap.xml::blackwater:prim
+msgid "Prim"
+msgstr ""
+
+#: worldmap.xml::world1:charwoodh
+msgid "Charwood"
+msgstr ""
+
+#: worldmap.xml::world1:crossglen
+msgid "Crossglen"
+msgstr ""
+
+#: worldmap.xml::world1:crossroads
+msgid "Crossroads Guardhouse"
+msgstr ""
+
+#: worldmap.xml::world1:fallhaven
+msgid "Fallhaven"
+msgstr ""
+
+#: worldmap.xml::world1:flagstone
+msgid "Flagstone Prison"
+msgstr ""
+
+#: worldmap.xml::world1:fflask
+msgid "Foaming Flask Tavern"
+msgstr ""
+
+#: worldmap.xml::world1:loneford
+msgid "Loneford"
+msgstr ""
+
+#: worldmap.xml::world1:remgard
+msgid "Remgard"
+msgstr ""
+
+#: worldmap.xml::world1:vilegard
+msgid "Vilegard"
+msgstr ""
+

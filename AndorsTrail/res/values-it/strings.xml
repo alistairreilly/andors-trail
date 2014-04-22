@@ -3,19 +3,15 @@
 <resources>
 	<string name="app_name">Andor\'s Trail</string>
 
-	<string name="exit">Esci</string>
 	<string name="exit_to_menu">Menu</string>
-	<string name="menu_pause">Pausa</string>
 	<string name="menu_settings">Opzioni</string>
 	<string name="menu_save">Salva</string>
-	<string name="menu_load">Carica</string>
 	<string name="menu_save_gamesaved">Partita salvata sullo slot %1$d</string>
 	<string name="menu_save_failed">Impossibile salvare! La sceda SD è caricata e scrivibile?</string>
 
 	<string name="loadsave_title_save">Salva gioco</string>
 	<string name="loadsave_title_load">Carica salvataggio</string>
 	<string name="loadsave_selectslot">Scegli Slot</string>
-	<string name="loadsave_slot_empty">(Vuoto)</string>
 	<string name="savegame_currenthero_displayinfo">Livello %1$d, %2$d esp, %3$d oro</string>
 
 	<string name="dialog_loading_message">Carica risorse...</string>
@@ -25,27 +21,17 @@
 
 	<string name="dialog_close">Chiudi</string>
 
-	<string name="dialog_confirmexit_title">Esci</string>
-	<string name="dialog_confirmexit_message">Sei sicuro di voler uscire?</string>
-
-	<string name="dialog_paused_title">Pausa</string>
-	<string name="dialog_paused_message">Il gioco è in pausa</string>
-	<string name="dialog_paused_resume">Riprendi</string>
-
 	<string name="dialog_monsterencounter_title">Combattimento</string>
 	<string name="dialog_monsterencounter_message">Vuoi attaccare? Difficoltà: %1$s</string>
 	<string name="dialog_monsterencounter_info">Info</string>
 
 	<string name="status_hp">HP:</string>
-	<string name="status_mp">MP:</string>
 	<string name="status_ap">AP:</string>
 	<string name="status_exp">Livello:</string>
 
 	<string name="heroinfo_char">Panoramica</string>
 	<string name="heroinfo_inv">Inventario</string>
-	<string name="heroinfo_wear">Equipaggiamento</string>
 	<string name="heroinfo_skill">Abilità</string>
-	<string name="heroinfo_spell">Incantesimi</string>
 	<string name="heroinfo_levelup">Nuovo Livello</string>
 	<string name="heroinfo_level">Livello</string>
 	<string name="heroinfo_totalexperience">Esperienza Totale</string>
@@ -58,7 +44,6 @@
 	<string name="combat_attack">Attacco (%1$d AP)</string>
 	<string name="combat_move">Movimento (%1$d AP)</string>
 	<string name="combat_use">Usare oggetti</string>
-	<string name="combat_spell">Incantesimo</string>
 	<string name="combat_endturn">Fine turno</string>
 	<!-- <string name="combat_endcombat">End combat</string>-->
 	<string name="combat_flee">Fuggi</string>
@@ -106,10 +91,7 @@
 	<string name="actorinfo_class">Classe:</string>
 	<string name="actorinfo_difficulty">Difficoltà:</string>
 	<string name="actorinfo_health">Salute:</string>
-	<string name="actorinfo_attacksperturn">Attacchi/turno:</string>
-	<string name="actorinfo_movesperturn">Movementi/turno:</string>
 	<string name="actorinfo_attack">Attacco:</string>
-	<string name="actorinfo_criticalhit">Colpo critico:</string>
 	<string name="actorinfo_defense">Difesa:</string>
 	<string name="actorinfo_movecost">Costo mossa (AP):</string>
 	<string name="actorinfo_basetraits">Statistiche oggetti non indossati (base)</string>
@@ -132,18 +114,6 @@
 	<string name="iteminfo_action_use_ap">Usa (%1$d AP)</string>
 	<string name="iteminfo_action_equip_ap">Indossa (%1$d AP)</string>
 	<string name="iteminfo_action_unequip_ap">Togli (%1$d AP)</string>
-
-	<string name="itemcategory_money">Denaro</string>
-	<string name="itemcategory_weapon">Arma</string>
-	<string name="itemcategory_shield">Scudo</string>
-	<string name="itemcategory_wearable_head">Indossabile (Testa)</string>
-	<string name="itemcategory_wearable_body">Indossabile (Corpo)</string>
-	<string name="itemcategory_wearable_hand">Indossabile (Mani)</string>
-	<string name="itemcategory_wearable_feet">Indossabile (Piedi)</string>
-	<string name="itemcategory_wearable_neck">Indossabile (Collo)</string>
-	<string name="itemcategory_wearable_ring">Indossabile (Anelli)</string>
-	<string name="itemcategory_potion">Pozione</string>
-	<string name="itemcategory_other">Altro</string>
 
 	<string name="startscreen_continue">Continua la partita in corso</string>
 	<string name="startscreen_newgame">Nuovo</string>
@@ -219,7 +189,6 @@
 			Grazie per tutti i Feedback!
 	</string>
 
-	<string name="questlog_title">Missioni</string>
 	<string name="questlog_includecompleted_prompt">Seleziona le missioni da mostrare</string>
 	<string name="questlog_includecompleted_hidecompleted">Nascondi le missioni complete</string>
 	<string name="questlog_includecompleted_includecompleted">Includi le missioni complete</string>

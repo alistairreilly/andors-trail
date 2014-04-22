@@ -4,19 +4,15 @@
 	<string name="app_name">La Piste d\'Andor</string>
 	<string name="app_description">Jeu de rôle fantastique à base de quêtes</string>
 
-	<string name="exit">Quitter</string>
 	<string name="exit_to_menu">Retour au menu</string>
-	<string name="menu_pause">Pause</string>
 	<string name="menu_settings">Préférences</string>
 	<string name="menu_save">Sauver</string>
-	<string name="menu_load">Charger</string>
 	<string name="menu_save_gamesaved">La partie a été sauvegardé dans l\'emplacement %1$d</string>
 	<string name="menu_save_failed">Échec de la sauvegarde de la partie ! La carte SD est-elle montée et inscriptible ?</string>
 
 	<string name="loadsave_title_save">Partie sauvegardée</string>
 	<string name="loadsave_title_load">Charger une partie sauvegardée</string>
 	<string name="loadsave_selectslot">Sélectionner un emplacement</string>
-	<string name="loadsave_slot_empty">(vide)</string>
 	<string name="savegame_currenthero_displayinfo">niveau %1$d, %2$d exp, %3$d or</string>
 
 	<string name="dialog_loading_message">Chargement des ressources...</string>
@@ -26,27 +22,17 @@
 
 	<string name="dialog_close">Fermer</string>
 
-	<string name="dialog_confirmexit_title">Quitter</string>
-	<string name="dialog_confirmexit_message">Voulez-vous vraiment quitter ?</string>
-
-	<string name="dialog_paused_title">En pause</string>
-	<string name="dialog_paused_message">Jeu en pause</string>
-	<string name="dialog_paused_resume">Reprendre</string>
-
 	<string name="dialog_monsterencounter_title">Rencontre</string>
 	<string name="dialog_monsterencounter_message">Voulez-vous attaquer ?\nDifficulté : %1$s</string>
 	<string name="dialog_monsterencounter_info">Info</string>
 
 	<string name="status_hp">HP :</string>
-	<string name="status_mp">MP :</string>
 	<string name="status_ap">AP :</string>
 	<string name="status_exp">Niv. :</string>
 
 	<string name="heroinfo_char">Vue d\'ensemble</string>
 	<string name="heroinfo_inv">Inventaire</string>
-	<string name="heroinfo_wear">Équipé</string>
 	<string name="heroinfo_skill">Compétences</string>
-	<string name="heroinfo_spell">Sorts</string>
 	<string name="heroinfo_levelup">Niveau supérieur</string>
 	<string name="heroinfo_level">Niveau</string>
 	<string name="heroinfo_totalexperience">Expérience totale</string>
@@ -59,7 +45,6 @@
 	<string name="combat_attack">Attaque (%1$d AP)</string>
 	<string name="combat_move">Déplacement (%1$d AP)</string>
 	<string name="combat_use">Utiliser objet</string>
-	<string name="combat_spell">Sort</string>
 	<string name="combat_endturn">Fin du tour</string>
 	<!-- <string name="combat_endcombat">End combat</string>-->
 	<string name="combat_flee">Fuir</string>
@@ -108,10 +93,7 @@
 	<string name="actorinfo_class">Classe :</string>
 	<string name="actorinfo_difficulty">Difficulté :</string>
 	<string name="actorinfo_health">Santé :</string>
-	<string name="actorinfo_attacksperturn">Attaques/tour :</string>
-	<string name="actorinfo_movesperturn">Mouvement/tour :</string>
 	<string name="actorinfo_attack">Attaque :</string>
-	<string name="actorinfo_criticalhit">Coup critique :</string>
 	<string name="actorinfo_defense">Défense :</string>
 	<string name="actorinfo_movecost">Coût de déplacement (AP) :</string>
 	<string name="actorinfo_basetraits">Statistiques de combat de base (sans équipement ni compétences)</string>
@@ -134,18 +116,6 @@
 	<string name="iteminfo_action_use_ap">Utiliser (%1$d AP)</string>
 	<string name="iteminfo_action_equip_ap">Équiper (%1$d AP)</string>
 	<string name="iteminfo_action_unequip_ap">Déséquiper (%1$d AP)</string>
-
-	<string name="itemcategory_money">Argent</string>
-	<string name="itemcategory_weapon">Arme</string>
-	<string name="itemcategory_shield">Bouclier</string>
-	<string name="itemcategory_wearable_head">Vêtement (tête)</string>
-	<string name="itemcategory_wearable_body">Vêtement (corps)</string>
-	<string name="itemcategory_wearable_hand">Vêtement (mains)</string>
-	<string name="itemcategory_wearable_feet">Chaussure (pieds)</string>
-	<string name="itemcategory_wearable_neck">Bijou (cou)</string>
-	<string name="itemcategory_wearable_ring">Bijou (anneau)</string>
-	<string name="itemcategory_potion">Potion</string>
-	<string name="itemcategory_other">Autre</string>
 
 	<string name="startscreen_continue">Continuer la partie en cours</string>
 	<string name="startscreen_newgame">Nouvelle partie</string>
@@ -221,7 +191,6 @@
 		Merci pour les retours d\'utilisation !
 	</string>
 
-	<string name="questlog_title">Quêtes</string>
 	<string name="questlog_includecompleted_prompt">Sélectionner les quêtes à afficher</string>
 	<string name="questlog_includecompleted_hidecompleted">Cacher les quêtes terminées</string>
 	<string name="questlog_includecompleted_includecompleted">Inclure les quêtes terminées</string>

@@ -6,6 +6,7 @@ import com.gpl.rpg.AndorsTrail.model.map.MapCollection;
 import com.gpl.rpg.AndorsTrail.model.map.WorldMapSegment;
 import com.gpl.rpg.AndorsTrail.model.map.WorldMapSegment.NamedWorldMapArea;
 import com.gpl.rpg.AndorsTrail.model.map.WorldMapSegment.WorldMapSegmentMap;
+import com.gpl.rpg.AndorsTrail.resource.TranslationLoader;
 import com.gpl.rpg.AndorsTrail.util.Coord;
 import com.gpl.rpg.AndorsTrail.util.L;
 import com.gpl.rpg.AndorsTrail.util.Pair;
@@ -16,18 +17,18 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 public final class WorldMapParser {
-	public static void read(Resources r, int xmlResourceId, final MapCollection maps) {
-		read(r.getXml(xmlResourceId), maps);
+	public static void read(Resources r, int xmlResourceId, final MapCollection maps, TranslationLoader translationLoader) {
+		read(r.getXml(xmlResourceId), maps, translationLoader);
 	}
 
-	private static void read(XmlResourceParser xrp, final MapCollection maps) {
+	private static void read(XmlResourceParser xrp, final MapCollection maps, final TranslationLoader translationLoader) {
 		try {
 			int eventType;
 			while ((eventType = xrp.next()) != XmlResourceParser.END_DOCUMENT) {
 				if (eventType == XmlResourceParser.START_TAG) {
 					String s = xrp.getName();
 					if (s.equals("segment")) {
-						WorldMapSegment segment = parseSegment(xrp, maps);
+						WorldMapSegment segment = parseSegment(xrp, maps, translationLoader);
 						maps.worldMapSegments.put(segment.name, segment);
 					}
 				}
@@ -38,7 +39,7 @@ public final class WorldMapParser {
 		}
 	}
 
-	private static WorldMapSegment parseSegment(XmlResourceParser xrp, final MapCollection maps) throws XmlPullParserException, IOException {
+	private static WorldMapSegment parseSegment(XmlResourceParser xrp, final MapCollection maps, final TranslationLoader translationLoader) throws XmlPullParserException, IOException {
 		String segmentName = xrp.getAttributeValue(null, "id");
 		final WorldMapSegment segment = new WorldMapSegment(segmentName);
 
@@ -60,7 +61,7 @@ public final class WorldMapParser {
 					if (namedArea != null) mapsInNamedAreas.add(new Pair<String, String>(mapName, namedArea));
 				} else if (tagName.equals("namedarea")) {
 					String id = xrp.getAttributeValue(null, "id");
-					String name = xrp.getAttributeValue(null, "name");
+					String name = translationLoader.translateWorldmapLocation(xrp.getAttributeValue(null, "name"));
 					String type = xrp.getAttributeValue(null, "type");
 					segment.namedAreas.put(id, new NamedWorldMapArea(id, name, type));
 				}

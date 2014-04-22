@@ -42,7 +42,7 @@ public final class ResourceLoader {
 
 		final int mTileSize = world.tileManager.tileSize;
 
-		TranslationLoader translationLoader = new TranslationLoader(r.getAssets(), r);
+		final TranslationLoader translationLoader = new TranslationLoader(r.getAssets(), r);
 
 		DynamicTileLoader loader = new DynamicTileLoader(world.tileManager.tileCache);
 		prepareTilesets(loader, mTileSize);
@@ -185,7 +185,7 @@ public final class ResourceLoader {
 
 		// ========================================================================
 		// Load worldmap coordinates
-		WorldMapParser.read(r, R.xml.worldmap, world.maps);
+		WorldMapParser.read(r, R.xml.worldmap, world.maps, translationLoader);
 		if (AndorsTrailApplication.DEVELOPMENT_DEBUGMESSAGES) timingCheckpoint("WorldMapParser");
 		// ========================================================================
 

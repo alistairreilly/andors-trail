@@ -68,6 +68,7 @@ public final class TranslationLoader {
 	public String translateQuestLogEntry(String s) { return tr(s); }
 	public String translateConversationPhrase(String s) { return tr(s); }
 	public String translateConversationReply(String s) { return tr(s); }
+	public String translateWorldmapLocation(String s) { return tr(s); }
 
 	private static final class BinaryMoFileParser {
 		private final InputStream is;
@@ -171,4 +172,5 @@ public final class TranslationLoader {
 			return 0;
 		}
 	}
+
 }

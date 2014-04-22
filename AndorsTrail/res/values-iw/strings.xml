@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-	<string name="exit">יציאה</string>
 	<string name="exit_to_menu">יציאה לתפריט ראשי</string>
-	<string name="menu_pause">עצור</string>
 	<string name="menu_settings">העדפות</string>
 	<string name="menu_save">שמור</string>
-	<string name="menu_load">טען</string>
 	<string name="menu_save_gamesaved">המשחק נשמר לתא %1$d</string>
 	<string name="menu_save_failed">לא הצליח לשמור! Is the SD card mounted and writable?</string>
 
 	<string name="loadsave_title_save">שמור משחק</string>
 	<string name="loadsave_title_load">טען משחק שמור</string>
 	<string name="loadsave_selectslot">בחר תא</string>
-	<string name="loadsave_slot_empty">(פנוי)</string>
 	<string name="savegame_currenthero_displayinfo">דרגה %1$d, %2$d נסיון, %3$d זהב</string>
 
 	<string name="dialog_loading_message">טוען משאבם...</string>
@@ -23,27 +19,17 @@
 
 	<string name="dialog_close">סגור</string>
 
-	<string name="dialog_confirmexit_title">יציאה</string>
-	<string name="dialog_confirmexit_message">בטוח שברצונך לצאת?</string>
-
-	<string name="dialog_paused_title">עצור</string>
-	<string name="dialog_paused_message">המשחק נעצר</string>
-	<string name="dialog_paused_resume">המשך</string>
-
 	<string name="dialog_monsterencounter_title">מפגש</string>
 	<string name="dialog_monsterencounter_message">האם ברצונך לתקוף?\nדרגת קושי: %1$s</string>
 	<string name="dialog_monsterencounter_info">מידע</string>
 
 	<string name="status_hp">חיים:</string>
-	<string name="status_mp">קסם:</string>
 	<string name="status_ap">פעילות:</string>
 	<string name="status_exp">דרגה:</string>
 
 	<string name="heroinfo_char">מבט כולל</string>
 	<string name="heroinfo_inv">מלאי</string>
-	<string name="heroinfo_wear">מצוייד</string>
 	<string name="heroinfo_skill">מיומנויות</string>
-	<string name="heroinfo_spell">קסמים</string>
 	<string name="heroinfo_levelup">עלייה בדרגה</string>
 	<string name="heroinfo_level">דרגה</string>
 	<string name="heroinfo_totalexperience">נסיון כולל</string>
@@ -56,7 +42,6 @@
 	<string name="combat_attack">תקיפה (%1$d פעילות)</string>
 	<string name="combat_move">תנועה (%1$d פעילות)</string>
 	<string name="combat_use">השתמש בחפץ</string>
-	<string name="combat_spell">קסם</string>
 	<string name="combat_endturn">סוף תור</string>
 	<string name="combat_flee">ברח</string>
 	<string name="combat_begin_flee">אתה יכול כעת לברוח מהקרב על ידי לחיצה בכיוון הרצוי.</string>
@@ -102,10 +87,7 @@
 	<string name="actorinfo_class">סוג:</string>
 	<string name="actorinfo_difficulty">קושי:</string>
 	<string name="actorinfo_health">בריאות:</string>
-	<string name="actorinfo_attacksperturn">תקיפות/סיבוב:</string>
-	<string name="actorinfo_movesperturn">תנועה/סיבוב:</string>
 	<string name="actorinfo_attack">תקיפה:</string>
-	<string name="actorinfo_criticalhit">תקיפה קריטית:</string>
 	<string name="actorinfo_defense">הגנה:</string>
 	<string name="actorinfo_movecost">עלות תנועה (פעילות):</string>
 
