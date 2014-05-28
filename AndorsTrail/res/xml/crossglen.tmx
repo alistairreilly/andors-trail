@@ -135,7 +135,7 @@
  </layer>
  <layer name="Above" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJy9VksKAjEM7Qi6EWUQdOfG43gBT6AeyVMNiAcRFRR0pQGLMb4m6TD1bUabmbz8+toQPtjUoShWb/9N/buWQtNBTIiD1q59/P4NrGu1Ob1s5/rz1L4h3ukA+5kl1hFQXc5KjFqdrR5InAxub39TNb0PQ3gM/fGgvEvPMgLlivqyq0JYvnu7ZD3mv+mdXMQ+5PavDfiMR3BeysXK4Vjp/zUujtL5pjTnH3UuyZs7YxbvZdQ+llxertWT8bct6rXUc6njyM41G/FyrV4I3qjXUs+ljlv2ee+XV0OMs22+HNuM2SJNXYPzKzdfQhczbflYAQ1B36R0KLVfrLNF2onzX+eRnOcu9ujeiJ3XOM6c3KMEdK/ygOeUOhvizMk9SvDeq+Q9zjqHCNr+8cy45luzW/eqdaF5k7yleCRyNdIDeV9Hdg8OYDbRvHqeXmyZ/4g2fvi3hCc2XXBm
+   eJy9VksKAjEMrYJuRBkE3bnxOF5gTqAeyVMNiAcRFRR0pQGLMb4m6TD1beaTmbw0TV4awgebKhRF/fbfMJ6twdl0EFMNfNC76wB/fwPvtdycXrZz9blq/xDvbIj9zBPvEVBezkqMKAceG8LJ4Oaxab5TOb2PQniM/PGgdZeuZQSqZbQvu14Iq/fertge83v6JhdxH3L3rw14jUdwXlqLtYZjT3/WuDhKrzelOf/Ic0ne3BqzeC/j9rHk8nKtnk6+bVGvpZ5LHUd2rtmIl2v1UvBGvR4I3R6KZ8u+6P/yaohxtuGVPWXNXw7S1DWYX3JuWXZCFzVt+aiBhqB/UjqU6hdrtkg75fhf80jWcxc9ujdi5zmOPSZ7lIDOVR7wNaVmQ6w52aME77lKnuOsOUTQ+sdT45pvzW6dq9aF6k3yluKRyNVID+R5Hdk9OIDaRPXquXqxZf4j2vjh/xKeD/Bsmg==
   </data>
  </layer>
  <layer name="Walkable" width="30" height="30" visible="0">
@@ -143,7 +143,7 @@
    eJzFlNERwCAIQx2hS7n/Sv3teTUJCbbc+dMKDwI4rzHmzweZ4qsyVN8urloDur9qcZKLesDioZ6hGCoX8Zluqu1yZuxUf5a38s+t2TGnLlUzheXmzOKle1Lh7u5+UW/Xu4C4rlVnAb0RLMYpbtf8n+A6Gin5d+37s7a3b8k87+Kq9SLtTuySa6znipYJM425ap4wE+3dea+y05lms9nNXLWpGvPt7GNH/7tny62/sr/uuQG+VaKz
   </data>
  </layer>
- <objectgroup name="Mapevents">
+ <objectgroup name="Mapevents" width="0" height="0">
   <object name="cave" type="mapchange" x="576" y="32" width="32" height="32">
    <properties>
     <property name="map" value="crossglen_cave"/>
@@ -187,7 +187,7 @@
    </properties>
   </object>
  </objectgroup>
- <objectgroup name="Spawn">
+ <objectgroup name="Spawn" width="0" height="0">
   <object name="crossglen_wasp" type="spawn" x="736" y="160" width="192" height="160">
    <properties>
     <property name="quantity" value="3"/>
@@ -209,5 +209,5 @@
   <object name="Odair" type="spawn" x="896" y="32" width="32" height="32"/>
   <object name="Oromir" type="spawn" x="896" y="864" width="32" height="32"/>
  </objectgroup>
- <objectgroup name="Keys"/>
+ <objectgroup name="Keys" width="0" height="0"/>
 </map>
