@@ -233,7 +233,8 @@ public final class MovementController implements TimedMessageTask.Callback {
 		controllers.mapController.handleMapEventsAfterMovement(currentMap, newPosition, player.lastPosition);
 
 		if (!world.model.uiSelections.isInCombat) {
-			Loot loot = currentMap.getBagAt(newPosition);
+			//currentMap can be outdated due to mapchange events processed above.
+			Loot loot = world.model.currentMap.getBagAt(newPosition);
 			if (loot != null) controllers.itemController.playerSteppedOnLootBag(loot);
 		}
 	}
