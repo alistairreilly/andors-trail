@@ -340,7 +340,7 @@
 	<string name="skill_shortdescription_resistance_blood_disorder">Résistance aux troubles sanguins</string>
 
 	<string name="skill_longdescription_weapon_chance">Chaque niveau de compétence augmente la probabilité de toucher de %1$d.</string>
-	<string name="skill_longdescription_weapon_dmg">Chaque niveau de compétence augmente les dommages min. et max. de %1$d.</string>
+	<string name="skill_longdescription_weapon_dmg">Chaque niveau de compétence augmente les dommages max. de %1$d.</string>
 	<string name="skill_longdescription_barter">Chaque niveau de compétence réduit le malus financier d\'achat et de vente de %1$d %%.</string>
 	<string name="skill_longdescription_dodge">Chaque niveau de compétence augmente la chance de bloquer de %1$d.</string>
 	<string name="skill_longdescription_barkskin">Chaque niveau de compétence augmente la résistance aux dégâts de %1$d.</string>

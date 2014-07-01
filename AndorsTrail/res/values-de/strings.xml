@@ -348,7 +348,7 @@
 	<string name="skill_shortdescription_resistance_blood_disorder">Widerstand gegen Blutstörungen</string>
 
 	<string name="skill_longdescription_weapon_chance">Erhöht die Angriffschance bei jeder Stufe um %1$d.</string>
-	<string name="skill_longdescription_weapon_dmg">Erhöht den minimalen und maximalen Schaden bei jeder Stufe um %1$d.</string>
+	<string name="skill_longdescription_weapon_dmg">Erhöht den maximalen Schaden bei jeder Stufe um %1$d.</string>
 	<string name="skill_longdescription_barter">Verringert bei jeder Stufe den Auf- und Abschlag von An- und Verkäufen um %1$d Prozentpunkte.</string>
 	<string name="skill_longdescription_dodge">Erhöht die Abwehrchance bei jeder Stufe um %1$d.</string>
 	<string name="skill_longdescription_barkskin">Erhöht die Schadensresistenz bei jeder Stufe um %1$d.</string>
