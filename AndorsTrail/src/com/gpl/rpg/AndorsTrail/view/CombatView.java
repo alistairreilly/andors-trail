@@ -129,6 +129,7 @@ public final class CombatView extends RelativeLayout implements CombatSelectionL
 	}
 	private void updatePlayerAP() {
 		statusTextView.setText(res.getString(R.string.combat_status_ap, player.getCurrentAP()));
+		updateAttackMoveButtonText();
 	}
 	private void updateSelectedMonster(Monster selectedMonster) {
 		if (currentMonster != null && currentMonster == selectedMonster) return;
