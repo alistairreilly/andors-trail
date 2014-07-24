@@ -122,39 +122,39 @@
  </tileset>
  <layer name="Ground" width="15" height="22">
   <data encoding="base64" compression="zlib">
-   eJydk8ENgzAMRZEPPXSGrlDDBindIIURGJaxysGWjPGPcA5fxEme0P92mIbh0yE+NB76degt7NYhZfdHXhH7pHtix05Jv+zYjF/77ynhvcW+6CzEzo4tpv9M11xszovsf+VbXR4tVuvVrLckizxFrO4jFvktLgufKxNmq/GD3pg9myn2G81ckftaL4CNZq7Kfa3vvKPsTGY5n2VrdlHPkXzPot79AewwkLU=
+   eJytk9ENwjAMRCN/8MEMrBDTDULYIMAIHZaxCJItmZMd1RIfpyRNnqo720yl3BLqU+9TKXWu16lHQk9g94S+nGX1nJHHnumYGNgt4bsKb9mjviv8e0t4X7EX+lXEdmCb9AEbYaaas9b7LuuAPFasnl9mvyfZyJPH6veIjfw2yAJzZYrZYfx4s8Zw18n36/Vck/c4e8h6PTfkPc7ev2ZwlXMkzHLVu1HNI2HNvNp9AIzrkow=
   </data>
  </layer>
  <layer name="Objects" width="15" height="22">
   <data encoding="base64" compression="zlib">
-   eJxjYKAvmMaPKdbJiF0tuvgyNL2+AgwMr3hQ+TDwmgdVbBsWe6WZ8LsVG3jDQ1gNLiDLhHAXDGDzO67wgAE/oJ+8oDgX6j90/6LbAxP3FsDub2xuQwexAvjlQQA9fF4RMFMWRxzooIlrM+EOF180d93kYmCIAoqlMUFobO6CuQ3kZ+TwALknDhq28VC95KQTQoCSdAQC2mS6CT2sYABfHtRBShvI8QnzA7IcyF0g9YT8BwrnNqQ8ic1dvkSGPywNEUq/lAAAIUUlFg==
+   eJxjYKAO+MSIYNtxo8odZmTACiZBxTvR5OciiV+GsnWYUNUk8DIw+AowMLziQYiB+DDwmgdTDB1IM+GWwwXe8OCWOwd16zQk/9gghYUsE8JdMADz+z1GTDFcwA/oJy8ozoX6D92/6PbAxL0FsPsbm9vQQSyesIQB9PB5RcBMWRxxgB7f2ky4wwU9jm9yMTBEAcXSmCA0NnfB3AbyM3J4gNwTBw3beKhectIJIQByz0wC8YwPaKO5aRo/hJ6FZuZHND62/LCMH3fYgsR1kNIGcnyC/LCNH1UO5C6Qenz5BATQ4x2bu3yJDH+YWYTSLyUAAOEOLdQ=
   </data>
  </layer>
  <layer name="Above" width="15" height="22">
   <data encoding="base64" compression="zlib">
-   eJxjYKAMhAsQr9aOm3y9lNhLTb1pSHrp7YZ0AfL1htNYbzoWOZD6NCL0YpMLJzKcsckhx1EaiXqJBYNJL6HwsYfmO2xhgU8vvrAjRn44AQD6XA5k
+   eJxjYCAdhAtgZxMD0ijQi8sN9NQ7kO5PFyBfbziN9aZjkQOJpRGhF5scsWkMmxxyHKWRqJdYMJj0Egofe24IG1tY4NOLL+yIkR9OAAD4lA8I
   </data>
  </layer>
- <layer name="Walkable" width="15" height="22" visible="0">
+ <layer name="Walkable" width="15" height="22">
   <data encoding="base64" compression="zlib">
-   eJxzFWBgcB0iGASQ2aQCdL3kuoFcveh+IFcvqf5F10vIb8NNLzZ5fHGJLxwHOg1RQy85+rHpxQbwyaHbSywg1X2U+BMXBgALAUy0
+   eJxzFWBgcCURgwCpemihl1SAro9cNwy0/0n1L7peQn4bbnqxyeOLS3zhONBpiBp6cYUVqXqxAXxy2OwlBpDqN1L1EoMB7RRMCg==
   </data>
  </layer>
- <objectgroup name="Mapevents">
-  <object name="south" type="mapchange" x="64" y="608" width="32" height="32">
+ <objectgroup name="Mapevents" width="0" height="0">
+  <object name="north" type="mapchange" x="416" y="0" width="32" height="32">
    <properties>
     <property name="map" value="blackwater_mountain17"/>
-    <property name="place" value="north"/>
+    <property name="place" value="south2"/>
    </properties>
   </object>
-  <object name="north" type="mapchange" x="416" y="64" width="32" height="32">
+  <object name="up" type="mapchange" x="64" y="544" width="32" height="32">
    <properties>
     <property name="map" value="blackwater_mountain19"/>
-    <property name="place" value="south"/>
+    <property name="place" value="down"/>
    </properties>
   </object>
  </objectgroup>
- <objectgroup name="Spawn">
+ <objectgroup name="Spawn" width="0" height="0">
   <object name="gornaud_3" type="spawn" x="128" y="288" width="32" height="96"/>
   <object name="gornaud_3" type="spawn" x="64" y="224" width="32" height="160"/>
   <object name="gornaud_3" type="spawn" x="128" y="96" width="256" height="32"/>
@@ -164,6 +164,11 @@
     <property name="quantity" value="3"/>
    </properties>
   </object>
+  <object name="gornaud_2" type="spawn" x="128" y="576" width="160" height="96">
+   <properties>
+    <property name="quantity" value="3"/>
+   </properties>
+  </object>
  </objectgroup>
- <objectgroup name="Keys"/>
+ <objectgroup name="Keys" width="0" height="0"/>
 </map>

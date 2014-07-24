@@ -138,12 +138,12 @@
    eJxjYCAPvBUgUyOS/ncUmkEtQC23pFPZP2mDJHwGExhM6YZSAEsvqWj+uc3NwHCHm3TzwqkcLiPNPFkm6ppHawBzr/QAuhsADE4MjA==
   </data>
  </layer>
- <layer name="Walkable" width="20" height="20" visible="0">
+ <layer name="Walkable" width="20" height="20">
   <data encoding="base64" compression="zlib">
    eJzNk1EKACAIQzuCl/L+V+pXQuQtRjTwr71SV8ZaWYoqg9XpcfI6v8JTpPAI3/0+cs8vetEjmX/1diy6I9VDd939H5q/zjfNTeFNcuSZztbNq2dUtrpjR2ac+bvlbUOjRBI=
   </data>
  </layer>
- <objectgroup name="Mapevents">
+ <objectgroup name="Mapevents" width="0" height="0">
   <object name="south" type="mapchange" x="256" y="608" width="32" height="32">
    <properties>
     <property name="map" value="blackwater_mountain9"/>
@@ -171,7 +171,7 @@
   <object name="exit" type="mapchange" x="96" y="96" width="32" height="32"/>
   <object name="sign_blackwater10" type="sign" x="288" y="224" width="32" height="32"/>
  </objectgroup>
- <objectgroup name="Spawn">
+ <objectgroup name="Spawn" width="0" height="0">
   <object name="forestboar4" type="spawn" x="320" y="64" width="224" height="256">
    <properties>
     <property name="quantity" value="2"/>
@@ -182,10 +182,7 @@
     <property name="quantity" value="3"/>
    </properties>
   </object>
-  <object name="tonis" type="spawn" x="160" y="64" width="96" height="64">
-   <properties>
-   </properties>
-  </object>
+  <object name="tonis" type="spawn" x="160" y="64" width="96" height="64"/>
  </objectgroup>
- <objectgroup name="Keys"/>
+ <objectgroup name="Keys" width="0" height="0"/>
 </map>
