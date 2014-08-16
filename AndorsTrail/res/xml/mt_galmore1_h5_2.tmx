@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" width="30" height="30" tilewidth="32" tileheight="32">
+<map version="1.0" orientation="orthogonal" width="12" height="12" tilewidth="32" tileheight="32">
  <tileset firstgid="1" name="map_bed_1" tilewidth="32" tileheight="32">
   <image source="../drawable/map_bed_1.png" width="512" height="256"/>
  </tileset>
@@ -177,27 +177,35 @@
  <tileset firstgid="7321" name="map_window_2" tilewidth="32" tileheight="32">
   <image source="../drawable/map_window_2.png" width="512" height="256"/>
  </tileset>
- <layer name="Ground" width="30" height="30">
+ <layer name="Ground" width="12" height="12">
   <data encoding="base64" compression="zlib">
-   eJyNlz2S00AQhVUzET4AVDlfV7E5rvIeBtKN4CCSHJLZVsZmRobEXAG4gs+CpjRf6am3Rybo0o5H0+/1z+vRtrGqfr4Z7d2qqg7DuhnslH/fhar6MNiPt75thr3HMJ5LZ97ndXo+LJxr44iHnYf1frBe+FjsLs7XG4O1uYO5DSPHOk74CacTTHjgJ525RB/bw9oazmn9FMa4Uo6O2RKPi8E9CQaxpXfIg+eb3xPGLswxk9/kM/n+nk3zS836OM/1Jkxcd+LbYoHxEkb7KqY4GL1xLtR5Gyaudh8sfHzLmNfBfoWJg8XkPPn09p4K55T3Q37vmnF+D/ZH8Hm3yfrh3PY//JfMcgP7JvgH6Se068WkutQnnOnLxqnbNeebWG+mTuesqaXcqz4TN2bMx3VVfVpP3DmHRq8S698wnxnJSrg6f7QGbeb8ecD8sp5zr+OkCWK75ZxbXJsnfFitPgpuiXsdJ000+UmudSY38TWundWqTfZK3O08wuctTDO5yXXgTBvnc8NyOcoeeG3OsXJnHtm6pffpZbDAJUcH4dWbeoEJR43R623lQy93+cndAHd65eTEuI9TzvBDjLa31VrhqPfBxclzbzCTdU59qfF5AVvvBVtHYt9L7q3/SwGXO7U0E0o943FsDAZ10J7exzmuahEe6rsRH8+rcn40Zq2Dl3f1zd9Ws6qL51W5NopLLyku3yJ2hvANQ97Bo75NxtU+tvmo78R8cfa1ZzuD582rOs4xVc8ac6nX7LcDWrH1BRc8nq34pwZ2RnqaQhN6Vy7d3TqjPA3dixMNnyRXzJOlOUZMR+Fb0qlnteSoNRxVV7XExkzUeULs3lwq3UXcQfZcI/5UM/y/oGe5QxQLrt7dSR3Yt7zARjOs+/i6F71YT+IH/m2Bt+XGGcW1a4tLLfS7jLuTea68rUb/AahA5bQ=
+   eJzbwcnAsINEHChFHIapT5QiDsPUHyMSE1KPLk8v9b6s1DUfPexxqccWB4l41GOLg6ecpGEARV9nuA==
   </data>
  </layer>
- <layer name="Objects" width="30" height="30">
+ <layer name="Objects" width="12" height="12">
   <data encoding="base64" compression="zlib">
-   eJylV0tO40AUtOIjRMK3AU4wzC0yHMGOtyxniWaLkJj9sMPJxphVwgmAEzgcYvyULrmoPHc6oiQrn45fVdf7tJNlWfac7691kSWhzr9+bulzN7x/kfUplMPvlhO8i7CWwt0l8gHG9zpcfTFqPzXGqbC9GN/ncP0SLvOhcvjNx3LCBw+3syz7Mzv+O+QHemK4PsJtnB9DjKezw7U2H2vL/D2ff13/jufIocKL+WM+6pnibElnDMc8a4a1VVi/GHgv59O/PQUPs/GV82x6dkFTH7ivBs6fJ/A2IcaOtANWfw9SUzdOjaXODuY0zaiPnrhLyoHNAa5BzlPrzA6dDwqtmZS593c26lqGnvTuifWp8d7L5cV4jsTADMH78sheG6nV2tHOPdFJrjm+x4W5VYUcNVSL3n3g1fOCobNR+TyPmc/r336ithnwM5ZDrsN/4X3qzIhxc/xWYv3O93m7i3hmQB7RE6ijVG4AZwP4HvN97TIn8s5e1dTD2APX2YLOOO7hhnJj3z+GvZqOTZF+9nFtrZ36g36tUWh+CdyAd7YoauIynm1xOH92Tk8AzM28teO1nsO4d53o0Vvgfw+v0K1+LJ0aNLDG3tmL3oP8sj/Ijc4lgPfR5fFZrs+Y4LOasT1uJb7x2tpHMcZX/fodODAXtF5Tn3MN3EOevwqem+oX9zPPLJ1f16F3+Tvsk73Fc6Y+g6IH+P+B9r1qxtom+F2JPgPOjMrpmU7mDfpK4WngHl8RP2Bx+AyHRyVpZl0xvmV+OAfxnwI9DywS85066xhVnjarAPaVvcG+/wNj1fV0
+   eJxjYCAPXOVD5TszYRcHgShWCC0EVRMJ5Aczoar5yIpgZ0HZj4QYGG4CzctkZcAAjGwI9nSg/AwsanCB5UC1K4BYDMkNILtgQAzNbbZoZieB3I8k9kcUVV6Sn4HBGkk+EchORuIfRQsjcxLcjuweWJiD3JuBxww3Vgh2Z4W4y5yVdDtxAQBBGhGa
   </data>
  </layer>
- <layer name="Above" width="30" height="30">
+ <layer name="Above" width="12" height="12">
   <data encoding="base64" compression="zlib">
-   eJxjYECAw8wMdAW3xBkY7ojT1050UENnP2MDgyEcyAW3oO6eyjSw7hgFtAPVgyCPDAeAXL4epCBMKwcoPnoGyN55JNhLzfJ8wwD595AYhfqp7G56twuQwVCpF28NkDuJLQtgcUhJuUMpGMh6ZCTXYcTkIVD6vU2DNHwbrW0LigeYXdjsQy+/Kc1XpPoJl7tIBfSso6mZtgHaXCAT
+   eJxjYCAdHBYbWuovo8kTUo8uP9Dqsek3YyVNPTK4xUeaffgAAFZbDRI=
   </data>
  </layer>
- <layer name="Walkable" width="30" height="30">
+ <layer name="Walkable" width="12" height="12" visible="0">
   <data encoding="base64" compression="zlib">
-   eJztzUERADAIACBT2L+CDfdfAU+FAkQAMEllz+fd+f4/ALc86VUHxw==
+   eJzbKMbAsHEQYhhA56OLY9ODSy8l6vHZTao4TA6fW3DpIyU86IEB3uJUvA==
   </data>
  </layer>
- <objectgroup name="Mapevents" width="30" height="30"/>
- <objectgroup name="Spawn" width="30" height="30"/>
- <objectgroup name="Keys" width="30" height="30"/>
+ <objectgroup name="Mapevents" width="12" height="12">
+  <object name="exit" type="mapchange" x="288" y="192" width="32" height="32">
+   <properties>
+    <property name="map" value="galmore1_h5"/>
+    <property name="place" value="cellar"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="Spawn" width="12" height="12"/>
+ <objectgroup name="Keys" width="12" height="12"/>
+ <objectgroup name="Replace" width="12" height="12"/>
 </map>

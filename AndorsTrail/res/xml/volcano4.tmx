@@ -153,43 +153,46 @@
  <tileset firstgid="6321" name="map_transition_4" tilewidth="32" tileheight="32">
   <image source="../drawable/map_transition_4.png" width="512" height="256"/>
  </tileset>
- <tileset firstgid="6449" name="map_tree_1" tilewidth="32" tileheight="32">
+ <tileset firstgid="6449" name="map_transition_5" tilewidth="32" tileheight="32">
+  <image source="../drawable/map_transition_5.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="6577" name="map_tree_1" tilewidth="32" tileheight="32">
   <image source="../drawable/map_tree_1.png" width="512" height="256"/>
  </tileset>
- <tileset firstgid="6577" name="map_tree_2" tilewidth="32" tileheight="32">
+ <tileset firstgid="6705" name="map_tree_2" tilewidth="32" tileheight="32">
   <image source="../drawable/map_tree_2.png" width="512" height="256"/>
  </tileset>
- <tileset firstgid="6705" name="map_wall_1" tilewidth="32" tileheight="32">
+ <tileset firstgid="6833" name="map_wall_1" tilewidth="32" tileheight="32">
   <image source="../drawable/map_wall_1.png" width="512" height="256"/>
  </tileset>
- <tileset firstgid="6833" name="map_wall_2" tilewidth="32" tileheight="32">
+ <tileset firstgid="6961" name="map_wall_2" tilewidth="32" tileheight="32">
   <image source="../drawable/map_wall_2.png" width="480" height="256"/>
  </tileset>
- <tileset firstgid="6953" name="map_wall_3" tilewidth="32" tileheight="32">
+ <tileset firstgid="7081" name="map_wall_3" tilewidth="32" tileheight="32">
   <image source="../drawable/map_wall_3.png" width="480" height="256"/>
  </tileset>
- <tileset firstgid="7073" name="map_wall_4" tilewidth="32" tileheight="32">
+ <tileset firstgid="7201" name="map_wall_4" tilewidth="32" tileheight="32">
   <image source="../drawable/map_wall_4.png" width="480" height="256"/>
  </tileset>
- <tileset firstgid="7193" name="map_window_1" tilewidth="32" tileheight="32">
+ <tileset firstgid="7321" name="map_window_1" tilewidth="32" tileheight="32">
   <image source="../drawable/map_window_1.png" width="512" height="256"/>
  </tileset>
- <tileset firstgid="7321" name="map_window_2" tilewidth="32" tileheight="32">
+ <tileset firstgid="7449" name="map_window_2" tilewidth="32" tileheight="32">
   <image source="../drawable/map_window_2.png" width="512" height="256"/>
  </tileset>
  <layer name="Ground" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJylV0tug0AMRWKVXKBSDtduu2oPMpAbQLgBEOWAZRQ/5fFkD5AuLMDj8fPfyeNUVY+Fmrqq2oW6+vUO/s34+Zns+XGOKZmOx+lFqpN5w0IjYYA/G382/mwyveADA2dZ9io6YRPL3I0HDPgKfeDjfRLfWW4y2aFe3wUey8D3hmyZCVd9G+WcCXh3OQeeyiO2k6PTi+k71FGu2Z7WiV2JEJ/eqSePRpNVW7Re9Z7ybxafifrBs4nt0niifr3+0FhnUnnULnDYponONM4l3KhXlTcSjuriPlDcvZiZrgftBOGOh3u1Pldb8vfnpaq+Ls9+OYrp5U8xMF/4O8v8LJi/l2d//he3NGthD2ZYJN848Xk3BogD+iLKZyIZtoPpKK72ZOQry/De4bMjuOyzh71nTmE+Tjv8jnA9P6IZinuj7ae04TvPOY11CQdyqEmeEXebWaW5i575Pq/3ZGned4SFWY+7+Ob97uljXM8njTvHkn+jRLmGfY345Onm/aIzlmNZ2pH4TTMU7NJ+uJn/HPtSrrGPsjzvKbbPq2GuZewq4G7VFuc2y/OeiuZaqR9KuJx7jofKI097cI/0kVdzTN5u1p4b6rXeLew9cr3EWnsO+U/1Mb1bMsgx5i16TmtVYxD12ZYN6NtEuFFNJOHxnNvyW+tmdDDbYHbx/yz835kD7D37Nuv7A0M/5GA=
+   eJylV9uNg0AMROIraeCkVHi9LKSDEDrgodRz18FdC8cqHmUY2QvkPizA6/X47eRxqqrHQk1dVe1Ct/r1Dv7d+PmZ7PlxjimZjsfpRaqTef1CA2GAPxl/Mv5kMp3gAwNnWfYqOmETy8zGAwZ8hT7w8T6K7yw3mmxfr+8Cj2Xge0O2TISrvg1yzgS8Wc6Bp/KI7ejo9GL6Dt0o12xP68SuRIhP59STR4PJqi1ar3pP+XeLz0j94NnEdmk8Ub9ef2isM6k8ahc4bNNIZxrnEm7Uq8obCEd1cR8o7l7MTNeDdoJwx8O9Wp+rLfn761JV35dnvxzF9PKnGJgv/J1lfhbM38uzP/+LW5q1sAczLJJvnPi8GwPEAX0R5TORDNvBdBRXezLylWV47/DZEVz22cPeM6cwH8cdfke4nh/RDMW9wfZT2vCd55zGuoQDOdQkz4jZZlZp7qJnPs/rPVma9zfCwqzHXXzzfvf0Ma7nk8adY8m/UaJcw75GfPJ0837RGcuxLO1I/KbpC3ZpP9zNf459KdfYR1me9xTb59Uw1zJ2FXC3aotzm+V5T0VzrdQPJVzOPcdD5ZGnPbhH+sirOSZvN2vP9fVa7xb2HrlOYq09h/yn+pjeLRnkGPMWPae1qjGI+mzLBvRtItyoJpLweM6VfPJm7+BgtsHs4v9Z+L8zBdh79m3W9we+DeXE
   </data>
  </layer>
  <layer name="Objects" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJyVVttxwjAQ9Iw7CDNRO6kgSReEEsA0kZRAujD8YPIV/Jc/oAKSIuIbe4dlOcliZzQJ8un2XrpTURTFvCyiqENR/IXb/WO3d6L9Q+j3jrRXdXqX3ZqSfnClOH+Fc+rIgn/j2HYPTs75Xen/hh3f3Zl9gneb8M3w1X1vQy+nXAaLucVgHdK68I11sE6Lsf1uaM9sr0iez34P+YNvMfvgA/9Vm2IwW9aZOUMcEItczCI2nCN6atnn2tMzbBPnqBLOVnjO4gfuFfbB2Qz54jN6H/ibgXOkvCrv3WWtHwVsahK5NV7osTs/d2Ly3sl8DMvDlni07rbEz/kw3uaxXx7QZ1ahX4ZYTadgZ7gW2nDRuSJ71OcYvPikEMsf+q71MdOJfga7Pknevmvftr3FsHLtOUj8DdpXGBuRYTtgfw4393rm87iNYy/y+3D9P3x/69bPQx6voXXsgK7YXPDyjTjYep5cfzuQjTind9ubQyyfmrGGl0mvg/MATsB6aSq3Bp7Pnhz3R661sTlqMJl769MD+5TSl9NLYzMOZzE3VY7rb+HcRUPsvaXc0O/NyDpjVsKGqhznBDDrVZ57E3K9K2/nKsNiq/GN9eU63M7IGHiuetzgHZsB6qPOSJ2HGg+urWV5eVuN1TDkTiM2ag3H7vqSemTOHRq76/eA9eTwe3cdfXVO+wtHh/WyV+mh7Lv3zk/ZEPOH38TWs58inDPiZp913t77xjVu9XUn+ivJuRf3luzit+Q/aMgMxQ==
+   eJyVVttxwjAQ9Iw7CDNRO6kgSReEEsA0kZRAujD8YPIV/Jc/oAKSIuIbe4dlOcliZzQJ8un2XrpTURTFvCyiqENR/IXb/WO3d6L9Q+j3jrRXdXqX3ZqSfnClOH+Fc+rIgn/j2HYPTs75Xen/hh3f3Zl9gneb8M3w1X1vQy+nXAaLucVgHdK68I11sE6Lsf1uaM9sr0iez34P+YNvMfvgA/9Vm2IwW9aZOUMcEItczCI2nCN6atnn2tMzbBPnqBLOVnjO4gfuFfbB2Qz54jN6H/ibgXOkvCrv3WWtHwVsahK5NV7osTs/d2Ly3sl8DMvDlni07rbEz/kw3uaxXx7QZ1ahX4ZYTadgZ7gW2nDRuSJ71OcYvPikEMsf+q71MdOJfga7Pknevmvftr3FsHLtOUj8DdpXGBuRYTtgfw4393rm87iNYy/y+3D9P3x/69bPQx6voXXsgK7YXPDyjTjYep5cfzuQjTind9ubQyyfmrGGl0mvg/MATsB6aSq3Bp7Pnhz3R661sTlqMJl769MD+5TSl9NLYzMOZzE3VY7rb+HcRUPsvaXc0O/NyDpjVsKGqhznBDDrVZ57E3K9K2/nKsNiq/GN9eU63M7IGHiuetzgHZsB6qPOSJ2HGg+urWV5eVuN1TDkTiM2ag3H7vqSemTOHRq76/eA9eTwe3cdfXVO+wtHh/WyV+mh7Lv3zk/ZEPOH38TWs58inDPiZp953vI7MveNa9zq6070V5Jz9BpeHGN+S/4DM64QXg==
   </data>
  </layer>
  <layer name="Above" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYCAPVDIzMFQzk6mZCoBadh8cQD/gAiA3HaaSu9DDKX2A/FuJZC+1/DaYwWBMV7hAJp3cWkMjeyaJI/BIBrex+P8IUpjfonH43CHCfJAabO4gRi8+Pej6yfWrnTB57gDZhy38iQH2QDsdyLCXGiCASHvJiR8YQC77QWUNqeUAJXajA1B9CIsrappLKiA3raADSupSWoRB5RCo92jdbsUXBgOd5ogto8kF+MoyYsy9TUbehJXZ1Ep7xOZNezqUnegA1lZDrqdwtd/whUcVmhysvQoAfBIw7Q==
+   eJxjYCAPVDIzMFQzk6mZCoBadh8cQD/gAiA3HaaSu9DDKX2A/FuJZC+1/DaYwWBMV7hAJp3cWkMjeyaJI/BIBrex+P8IUpjfonH43CHCfJAabO4gRi8+Pej6yfWrnTB57gDZhy38iQH2QDsdyLCXGiCASHvJiR8YQC77QWUNqeUAJXajA1B9CIsrappLKiA3raADSupSWoRB5RCo92jdbsUXBgOd5ogto8kF+MoyYsy9TUbehJXZ1Ep7xOZNewrLTnLSIaythlxP4Wq/IYcHul3oYQxrrwIA9l0zUQ==
   </data>
  </layer>
  <layer name="Walkable" width="30" height="30">

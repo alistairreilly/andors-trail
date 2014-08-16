@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" width="30" height="30" tilewidth="32" tileheight="32">
+<map version="1.0" orientation="orthogonal" width="12" height="12" tilewidth="32" tileheight="32">
  <tileset firstgid="1" name="map_bed_1" tilewidth="32" tileheight="32">
   <image source="../drawable/map_bed_1.png" width="512" height="256"/>
  </tileset>
@@ -177,27 +177,41 @@
  <tileset firstgid="7321" name="map_window_2" tilewidth="32" tileheight="32">
   <image source="../drawable/map_window_2.png" width="512" height="256"/>
  </tileset>
- <layer name="Ground" width="30" height="30">
+ <layer name="Ground" width="12" height="12">
   <data encoding="base64" compression="zlib">
-   eJytVrtug0AQRN7KltzGEn0iJX+QfEzSpor/IS3gLiWGPwCcNP67cOJGN6wXDicuRoZjvbOP2YXdJkl+1gGZjO/L/v7Yo+qx2wzg5w4412CbXAZY/zl7nkKCbdOj7dFN8E5xsh2fOd+lXPJmEmKz4GwcClnGqXmRC3Oe1+NazPFP8Vpxcyz6THMCj6skeVoN15/bcL6UF9pgvbBWtJ7Aed/jgbiXain3/t83gzbcWeNrfJRgC17W73PP9X03QHMv0W/neXEG3lb1Es+0fsH9sorn+rUN/ooZ3iOBedG/zOeuY4nly7lojbr7lnyVFENFvI4PerH0lPnzzNCRFUsugbegGmifjvcgl1pkm8rbQEdWLUpjtgDNy7aWPWLuVD8t3mYmdgvWjrZim+Nl7phOrgHy4P2g68PzFdt716CT8cxov9hzsMNz7LW5msZytnY5z1ghY23PaY2B98d5ooc8i8ink8uZ5n5bvJhblz9zxmaiVXvC4SDjdwq/Q3SfoZdO8WImrJ7oehcyrnFOvFN9bQxO5p7an4hXvxe5z7WE2ui9YfV1rr8a2KE84/g9Uc3mdMV8sV2ieRsJ1xXNOmp2q1nWvYZuoRXWeEnP3H8ON+BnXeuZ4h1TE9d/eLlv/J3Fu4qfuV5/pEmyT4cYcJ2pWsSAvqGn0D14WR+t533ted7S8TV42TdrgWujZ8f5dj4wb9b3FOfLvFO7t/A2tWGLbxDne5/G339Wvryf2Gfh4+R4+f1ee17n4y864W/BkngrH5uOEXvuJHaev0QLi5Y=
+   eJxr5WJgKCMStwLxVCA2lyIOT4Wqd5ciDsPUf+MkDiOrZyNCHyXm00r9UiLUw/y2FBr26OK4sDk0XIl1D0jtU04E/saJyseGAQ3PcKM=
   </data>
  </layer>
- <layer name="Objects" width="30" height="30">
+ <layer name="Objects" width="12" height="12">
   <data encoding="base64" compression="zlib">
-   eJylVktSg0AQtYobuHCOGLPUrGLcRE8AniDxFiQbgivkBNGdO+MhnC7mFc2jB0jyqrqAGaZ/87pndu6mh1XSPJdJf+7X//9Ga2pDx57GKv/95Rrdolf0nLykXnauGXsKwsj8/IuXtbKd++cf2Tj67081lgcbol/7mAZ94sMx+CXy7aXw9g9eyqSZg7+Ck2FT5sQmfJf/a9f6Urs2nwvXXcO5gchcpXw63PXlGOZ4H6C3cm0uF65vcwyia2sIfGPbgpnaO/FP7O5VzMjPmF0N3lOLa0CpYmT+CYRHmcFf6P25bd7lyev1PpZGDIgP9iUX9yFe5O7dNWPzsN7isFU3OtecR9SRVUPCE15n2ZS5vevrBocQF3yR+pC9fQ01xNiGsTnliTk8FeJXFfIPu0Dq2noFmGPMYQvoFcglQ/yF3cLwQ6NIbI4gFqAMvSINnLQ4q+1a38VIPcVQhx6IPdy5ri7Et1Jc4nh1r7Qw5Bt0IeY8PNHzBMuk78dUFEmXzzrvuqfoflI7+8xjpK7tJbF+YoH7WKnqDDhQThEDzixAxteUlzEuPKs60v0C4HodA9tmfcyLOtIvYvy5BnofqzP4w74M5XRoju3p3jynvD1STmbhv6H6GuoxeYSP/P/GdW0/nHE/sIBz5SNyf3xW3xvXPRfHegnDuicKLu2HMQzdS8uIv+gL+n3q/WcqcFZBBPp8GzrrlsoPvSeWj9mVnCgNLnBuLMB38yy+kCNTcgPoMxG85L4/FsM5yNR5wPcAXStT7jLnAPUnkJj/ATuBB5U=
+   eJxjYCAdqAozMMjyMzDUy0D41/kYGIKBfCeo2Fsg/x0fQv0BVgjdD5TbDhSX4IfwjfkhYiCgw49Qf4EVwT6OZI4zUI0rVC4IyT0PkNTjAkkE5MNZEOx7QPPuI5m5gw9VnaEY0O1iCLF3QLXvkdSfAKoXY0KodwSqdRZDtQMZIJsPAoFAtcFiqGI8SPwTaOpBIJgJlX8NqsYZTXwKEWFFCgAAJ24ZQA==
   </data>
  </layer>
- <layer name="Above" width="30" height="30">
+ <layer name="Above" width="12" height="12">
   <data encoding="base64" compression="zlib">
-   eJxjYCANTBQnUQMauIOm/zUR5lUzI9g1zLjV0QKguxcbqCLRTbdIDMNJ4pgYG0AOp0pmVD6pdmIDpJpxmwp2DhUACht8/gXFB6npBJc9xKRJEMCWTqpxuAGX+G0s/sKllhj3EErDuAC+sJtMh3RWTIId5IYPMfaS4g58AL18QAdVaOmVWvbCALrdB3G4Bd0dQxlkEuEPUvInueFCbPlBKaBmPhjO4DCetE/NMCRkFq48OApIA7jik1ZgMMcbpemX3mFJCByhoXuIbcfQ0g0AlIosXA==
+   eJxjYCAdHBajvfrLePRcRJMDqb9Egh2Uuv80P4TG5UZs5kvx47YXXVwUaj4uP9E6/EkBAMRuDwQ=
   </data>
  </layer>
- <layer name="Walkable" width="30" height="30">
+ <layer name="Walkable" width="12" height="12">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+   eJxjYBgFo4B8AAACQAAB
   </data>
  </layer>
- <objectgroup name="Mapevents" width="30" height="30"/>
- <objectgroup name="Spawn" width="30" height="30"/>
- <objectgroup name="Keys" width="30" height="30"/>
+ <objectgroup name="Mapevents" width="12" height="12">
+  <object name="cellar" type="mapchange" x="320" y="256" width="32" height="32">
+   <properties>
+    <property name="map" value="mt_galmore1_h5_2"/>
+    <property name="place" value="exit"/>
+   </properties>
+  </object>
+  <object name="exit" type="mapchange" x="96" y="352" width="32" height="32">
+   <properties>
+    <property name="map" value="mt_galmore1"/>
+    <property name="place" value="house_5"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="Spawn" width="12" height="12"/>
+ <objectgroup name="Keys" width="12" height="12"/>
+ <objectgroup name="Replace" width="12" height="12"/>
 </map>
