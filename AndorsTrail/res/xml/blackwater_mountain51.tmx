@@ -137,22 +137,32 @@
  </tileset>
  <layer name="Ground" width="14" height="10">
   <data encoding="base64" compression="zlib">
-   eJzTY2Jg0MODHbBgmLgjENtjkQeJewtiYl2geBAQBwNxIJSNjEHi0YKYGKQvBYhPsEFwChMqvsuGHesi6cGGKdX3Fos+GTx68dkHC2+YWhhfBgnj04cP6zOhuplYfej2g/gAxDZDew==
+   eJzTY2Jg0MODHbBgmLgjENvjUAOS8xZExbpAsSAgDgbiQCgbHYPkogVRMUhfChCfYIPgFCZMfJcNE+si6cGFKdH3Fos+GQJ6cdkHC2+YOhk0s2Sw+BFZHz6sj6T3LQn69JgQ7pCB8gErwEPJ
   </data>
  </layer>
  <layer name="Objects" width="14" height="10">
   <data encoding="base64" compression="zlib">
-   eJxjYKAd6GRkYLDnRhWbxYgq/5KLgcEOTc1MqJoWFgiGAR0mBgZtJoi8Ly8Dgx8QTwPiABEGBlOgutc8DAxTmRkYprBAMDIoA6pbBsSxQBwHZYP0gcRBwIcZ0/0g80AgGqgmBojboPpB+tDBGx4EW5YJQr/igdgD049sHwisBNqZKoBqDkivNBOm+cjmanJjl8cHJvBDaHMW/OoIAQBY6hio
+   eJxjYKAd6GRkYLDnRhWbxYgq/5KLgcEOTc1MqJoWFgiGAR0mBgZtJoi8Ly8Dgx8QT+OFyAWIMDCYAtVOZWZgmMICwcigDKhuGRDHAnEclA3TBwI+zJjuf80DoaOBamOAuA2qH1kfDLzhQbBlmSD0Kx6IPTD96PpWAu1MFUA1B6RXmgk7H2auJlp4EQMm8ENocxb86ggBAB3KFuc=
   </data>
  </layer>
  <layer name="Above" width="14" height="10">
   <data encoding="base64" compression="zlib">
-   eJxjYKANCBcgT18aEfqm8aLydZiIM9sbqM8HqtcXSPvx4lePbidMfxwJ+qSBbpOFui+NBH3UBulkxgc6AADaNgX6
+   eJxjYKAdCBcgT18aAX3TeFH5OkwQTAh4A/X5QPX6Amk/Xvzq0e2E6Y8jQR8ySCNTHzVAOplxgQ4A5zAF7A==
+  </data>
+ </layer>
+ <layer name="Above_Objects_replace" width="14" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4B4AAACMAAB
   </data>
  </layer>
  <layer name="Walkable" width="14" height="10">
   <data encoding="base64" compression="zlib">
-   eJxzFWBgcB0mGASwicEAPjl0dfj04dKLTZ6Qe3CZT6p9xOqnNIwB96MkMg==
+   eJxzFWBgcB3GGBngk0NXh08fLr3Y5Am5B5f55PiHGH2UhicAxrIlMQ==
+  </data>
+ </layer>
+ <layer name="Walkable_replace" width="14" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4B4AAACMAAB
   </data>
  </layer>
  <objectgroup name="Mapevents" width="14" height="10">
@@ -174,4 +184,17 @@
   <object name="restless_dead_1" type="spawn" x="256" y="128" width="160" height="96"/>
  </objectgroup>
  <objectgroup name="Keys" width="14" height="10"/>
+ <objectgroup name="Replace" width="14" height="10">
+  <object name="quest:queststage" type="replace" x="96" y="128" width="160" height="96">
+   <properties>
+    <property name="Walkable" value="Walkable_replace"/>
+   </properties>
+  </object>
+  <object name="quest:queststage" type="replace" x="96" y="96" width="160" height="128">
+   <properties>
+    <property name="Above" value="Above_Objects_replace"/>
+    <property name="Objects" value="Above_Objects_replace"/>
+   </properties>
+  </object>
+ </objectgroup>
 </map>
