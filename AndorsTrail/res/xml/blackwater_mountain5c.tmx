@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" width="15" height="8" tilewidth="32" tileheight="32">
+<map version="1.0" orientation="orthogonal" width="10" height="8" tilewidth="32" tileheight="32">
  <tileset firstgid="1" name="map_bed_1" tilewidth="32" tileheight="32">
   <image source="../drawable/map_bed_1.png" width="512" height="256"/>
  </tileset>
@@ -180,27 +180,27 @@
  <tileset firstgid="7449" name="map_window_2" tilewidth="32" tileheight="32">
   <image source="../drawable/map_window_2.png" width="512" height="256"/>
  </tileset>
- <layer name="Ground" width="15" height="8">
+ <layer name="Ground" width="10" height="8">
   <data encoding="base64" compression="zlib">
-   eJxbz8TAsIUTgdcC+euwYGxgPZre/UD+ASyYGL0XgfxLWDAxekH4CRMmJlYvNjyY9ILCfw4RGBsAAMMyOr0=
+   eJxbz8TAsIUTgdcC+euw4PVo6vYD+QewYHR1F4H8S1gwujoQfsKEibGpw4aprQ7k5zlEYADGjzq9
   </data>
  </layer>
- <layer name="Objects" width="15" height="8">
+ <layer name="Objects" width="10" height="8">
   <data encoding="base64" compression="zlib">
-   eJxjYICA7WIMZIEbguTrhdl7TRDBF2OC0KJM+PU9FELYuxqolpMJoV+WgF6YvY+EEPzrUDfcEcKuHtl9p4B6t+HB2MBcqJuQ/Qqzn5cI95ILABL6E8I=
+   eJxjYICA7WIMBMENQeLUwcy7JojgizFBaFEmhNhDIYR5q4HinEwItbJI6mDmPRJC8K9Dzb6DJAbSdwqobhseDAPIboOZy4tmJzEAAHRvEyM=
   </data>
  </layer>
- <layer name="Above" width="15" height="8">
+ <layer name="Above" width="10" height="8">
   <data encoding="base64" compression="zlib">
-   eJxjYGBgOCzGQDYY1UsfveQCAN34BfA=
+   eJxjYGBgOCzGQBQYaeqIAQCL3gXw
   </data>
  </layer>
- <layer name="Walkable" width="15" height="8">
+ <layer name="Walkable" width="10" height="8">
   <data encoding="base64" compression="zlib">
-   eJzbKMaAAjaKYcfYALr4UNRLChhIvcRgbAAALiAf4A==
+   eJzbKMaAAjaK4caDQR0uQAt1xGAA99Ef4A==
   </data>
  </layer>
- <objectgroup name="Mapevents" width="15" height="8">
+ <objectgroup name="Mapevents" width="10" height="8">
   <object name="north " type="mapchange" x="32" y="0" width="96" height="32">
    <properties>
     <property name="map" value="blackwater_mountain5"/>
@@ -214,6 +214,6 @@
    </properties>
   </object>
  </objectgroup>
- <objectgroup name="Spawn" width="15" height="8"/>
- <objectgroup name="Keys" width="15" height="8"/>
+ <objectgroup name="Spawn" width="10" height="8"/>
+ <objectgroup name="Keys" width="10" height="8"/>
 </map>

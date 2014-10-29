@@ -142,22 +142,27 @@
  </layer>
  <layer name="Objects" width="14" height="10">
   <data encoding="base64" compression="zlib">
-   eJxjYKAd6GRkYLDnRhWbxYgq/5KLgcEOTc1MqJoWFgiGAR0mBgZtJoi8Ly8Dgx8QT+OFyAWIMDCYAtVOZWZgmMICwcigDKhuGRDHAnEclA3TBwI+zJjuf80DoaOBamOAuA2qH1kfDLzhQbBlmSD0Kx6IPTD96PpWAu1MFUA1B6RXmgk7H2auJlp4EQMm8ENocxb86ggBAB3KFuc=
+   eJxjYKAd6GRkYLDnRhWbxYgq/5KLgcEOTc1MqJoWFgiGAR0mBgZtJoi8Ly8Dgx8QT+OFyAWIMDCYAtVOZWZgmMICwcigDKhuGRDHAnEclA3TBwI+zBDaVwCh5zUPhI4Gqo0B4jaofmR9MPCGB8GWZYLQr3gg9sD0w/TB7FgJtDNVANUckF5pJux8mLmaaOFFDJjAD6HNWfCrIwQAypYXoQ==
+  </data>
+ </layer>
+ <layer name="Objects_replace" width="14" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYBg54DUPgj2NkTS9rVD1pbzE63nDQ1jNUAMAzGoDjw==
   </data>
  </layer>
  <layer name="Above" width="14" height="10">
   <data encoding="base64" compression="zlib">
-   eJxjYKAdCBcgT18aAX3TeFH5OkwQTAh4A/X5QPX6Amk/Xvzq0e2E6Y8jQR8ySCNTHzVAOplxgQ4A5zAF7A==
+   eJxjYKAdCBcgT18aAX3TeDHFdJgIm+sN1OcD1esLpP2wmPOWB7edMP1xWPQRA9J48dtBS5BOZlygAwB0zAew
   </data>
  </layer>
- <layer name="Above_Objects_replace" width="14" height="10">
+ <layer name="Above_replace" width="14" height="10">
   <data encoding="base64" compression="zlib">
    eJxjYBgFo4B4AAACMAAB
   </data>
  </layer>
  <layer name="Walkable" width="14" height="10">
   <data encoding="base64" compression="zlib">
-   eJxzFWBgcB3GGBngk0NXh08fLr3Y5Am5B5f55PiHGH2UhicAxrIlMQ==
+   eJxzFWBgcB3GGBngk0NXg08fIb3I8tj0YaOp4R9i9FEangBkrSXb
   </data>
  </layer>
  <layer name="Walkable_replace" width="14" height="10">
@@ -192,8 +197,8 @@
   </object>
   <object name="quest:queststage" type="replace" x="96" y="96" width="160" height="128">
    <properties>
-    <property name="Above" value="Above_Objects_replace"/>
-    <property name="Objects" value="Above_Objects_replace"/>
+    <property name="Above" value="Above_replace"/>
+    <property name="Objects" value="Objects_replace"/>
    </properties>
   </object>
  </objectgroup>
