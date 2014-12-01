@@ -61,7 +61,7 @@ public final class GameStatistics {
 			if (i++ >= 5) break;
 			MonsterType t = world.monsterTypes.getMonsterType(e.getKey());
 			if (t == null) continue;
-			sb.append(res.getString(R.string.heroinfo_gamestats_name_and_qty, t.name, e.getValue())).append("\n");
+			sb.append(res.getString(R.string.heroinfo_gamestats_name_and_qty, t.name, e.getValue())).append('\n');
 		}
 		return sb.toString();
 	}
@@ -163,7 +163,7 @@ public final class GameStatistics {
 		this.spentGold = src.readInt();
 	}
 
-	public void writeToParcel(DataOutputStream dest, int flags) throws IOException {
+	public void writeToParcel(DataOutputStream dest) throws IOException {
 		dest.writeInt(deaths);
 		Set<Entry<String, Integer> > set = killedMonsters.entrySet();
 		dest.writeInt(set.size());

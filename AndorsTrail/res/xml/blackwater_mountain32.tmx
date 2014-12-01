@@ -123,31 +123,46 @@
  <tileset firstgid="4917" name="map_window_2" tilewidth="32" tileheight="32">
   <image source="../drawable/map_window_2.png" width="512" height="256"/>
  </tileset>
+ <tileset firstgid="5045" name="map_transition_1" tilewidth="32" tileheight="32">
+  <image source="../drawable/map_transition_1.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="5173" name="map_transition_2" tilewidth="32" tileheight="32">
+  <image source="../drawable/map_transition_2.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="5301" name="map_transition_3" tilewidth="32" tileheight="32">
+  <image source="../drawable/map_transition_3.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="5429" name="map_transition_4" tilewidth="32" tileheight="32">
+  <image source="../drawable/map_transition_4.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="5557" name="map_transition_5" tilewidth="32" tileheight="32">
+  <image source="../drawable/map_transition_5.png" width="512" height="256"/>
+ </tileset>
  <layer name="Ground" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzFlj0OgzAMhZEYmBEngKpbt3Kc3v8cTSSsulbiOP4Jw5MlTPIp+MV4nafptfhra+z7SPmVeaeW4/bNuafgPBw7546kncTavlKmhH2m5+/5P3owpd+8VU8N08LWMEuMHraGmdfUGBK2lglrNGwrs8WA55/lJy+mhI25nswWG3O9mT2e8maW2NHnLLEPVFvao7lo6V1ZJ+LSHs1Fa42i5OEfbQ1Hs2FmGMmmPh/FLvm8NtNYI/R3biaT3pOeCP3deqc16u13UdpvOPt21WD0/cVzToSPqZ9Lno7wMfXzHZ6m//AvyHKs7Q==
+   eJy9lz1uwzAMhaVoyOy4F2jzMwVdXHQteoXMvf81EgvJg1mWpETWyPAAQRL1gRL1LA8lpfNW13WTUip/lRtxozI+zP27Wftyb2vxmMelrQvmURmvvENZ2hob87i0dS0m9Fl+r6+x6zyuKFPLzdrz1nlGmP9he5lZYXjYkTxHo5572DnIREyU3brDGjN11DP6f7aL4CXWHbaYPM5ic65njzlTitPYlDs4cqXMLOyz51z3nbny3DLxd2ttsJFntG49XLDfyNnCm3G+3LPpHGk/erlVH4QLbwaXezado63Xy5UErlR7rVjkHPkODMXvGZwb+Q4gxuMbnMtr18OOfPfGTp9cW5pXSW8a6Z54BH+3zkV600j3xCP4e/Q94vWstWLX1OsTakmq6elJdUyZ9ZzfN+06XlNgQrT+Xlg98n+VURinfZNR25RZ9T3r8tCpLO2LsB9HYZz3afp68G4frasA
   </data>
  </layer>
  <layer name="Objects" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJy9VtttwzAMNFr0T0azTIfpBh5BI2iUztIfW0C+Moe/i5awmZ7PRzlBixwQRLIoHl+i1HULptR1n6dlXPruio8+/rk87jE9iGH9fk57WUP+GV9Oy/q42lBTzG1w+TltbVDI/Xb+9rydu72mk2WHF63T7LwQ79fT4it+97H7ztyGWaxl4DW91+9kn1pjGbPV4rnRTzLvaT9nGeQ80zrmvMJ4XuOk/M5BvUScCI69YQz0KG73122wOdthnL5eRe0qGwxY54rbMQt72c+Z4jyInCiOifLN+cR8O2fp9z75XMXGbEEOPNMtv5ETEdWb2pP7mCP6jvvN9in95sDy63kbg9h4X2K/MWbM7fujWkF/lJ1qL3Nn6qWRXteTe51PlJvoDE+N/oXA2PkerIsS+In9xMd8no+4bwFyoi1VnEWMrXEf3TMMl+fYqjq/nPY2DEGfUT1gEHk2nElnFfeWw+Lh5+GoJ6s7LrItQoujVcdqrtb8v0AOlayKB9umevU9QG6MUZRjrn3Obw72Oazm6o1n9r9gnBbrvNZRafTov0Cdw09xfgwFeoqCerOiLOrEd4zHt3XWcM31HN0DEfLr/XtG6uGIKW3vA5ZBO4/uZZMtJNOKRWSjgfW09j4Clmd+Sz0SHo+a2m9Br19f97hi/Q5U6zP55ffUN1pZvQo=
+   eJy9VstNw0AQXUDcbJGDa6ADcAWhA4hSAMgluATDkVNEBemDWy62pZxyowdfQfiRnfh5Mmubj3iSZe/u7Lydz87YOefmiXOL9tnM3BeK2B2A73X7ZHH3jXced/K857bVc5N085mf30bHso64sV5Ge521l80V59rv28328o2X15yMPO6Pr86OuUWnls3ObZ04p+b8ON3buiOf4Jv5LO4mOl7LiRd6BRbnYU/cfwvAAX+G7AaWUX8Pxrn3t8W5jfo8FcYX3Rnvko5D+0DmZX+luMfsBNjHgjTp8obts7iXlF9ir8Up67WRu7tA3o1xCyTu6YCdjfJzZsTD4qiMeLMe1iGcRXzsVxmHcj1kH89Phc7bsVyfwp1TrBg4exV1MUB8tyM5IHUpZHcZhe3WcZ1qJ7712UN261wBeCx68sCdTlU+CKC3MmrUnPbLnR97LDtT77sV9QmcsVR1wYrrGHRtYdvE3rXvZXw3Ae4H4N4YNSePu/6mIfLMCZ33Lc814ubXJYa1Oms2kLsamRFngHsufCE2Sw3j/MGc3Af2W6POBbmF6nFDZwNS3wdWtK7rIWMsvryuz8drHONQD7J6idj/PnBvQ2iifk0HmBt8U+7Kdx7xo/A+UD5NqcVWD/4ukOfyXwgfFPHP+sAY5F7xmTFn5VJBNYUhOSLrrItl+U7yfwxsrX2/4P9XBueVvtu/AdfuoTtUDtxh2Mv9QMvw2WVd5/T8j3M49Fj2/BcQZ/0vFcJQzSrUWjKgj/85ZN/rSV/mRY01HtX6mx9fEu+Tn3smWfB9AqyZ26Y=
   </data>
  </layer>
  <layer name="Above" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzNVsENgCAMdABNXMsJ3EBXcianUh4kpEpL2yt6CQ8D9HpHKQ6DjGN6joR15vdJ81ZwcdPcdo+zWHOC8tgqcTKnF8vIf3s4ER5QTm/MFr2STtTZajit4PSWnFRTTaP3fll0avfsZG0UJ/WIekN7AoLzjVubZ40zoq4lTi3o2UZwvvlgrXvJW8lzZE9AnG/EG/cV/pC/JocW76P+fzhEvV015B7QW2vms/RbT62hveVysdYjIh5yrxc9a6t803ryllw97y/lugDzPDaQ
+   eJy1V8sNwjAMjXpupa7FBBELNL31yijMxAX12iWYAER7iGosf5PwJARJXT/71XZKCHbch9/vOMr22vWMzWhn8Zv2a9P+eQCbh9M/hwn4gTFnzlpcenqd9YbwckINboQ/CfNAc9bqyuULoeXZ6tkeWJg8W0HKF3LinLgckzHGa8+vrT0KOT3aJKZeLLxrb+fEGlH+PbFDW0nnDc0ayn9UeuZJ5GmJVZubllwxj6cesC7vLoRPd+Zj5ZR4Kb04W2o/Es+Gq0NtlnB6arwUXt3523v+URw5dkufWOcGBxi7B5ImLee4hbeWT3q/yGutBnKfLMR5nHvpwAr6CdYKrpttLD+7vOdARjLm2po3OuqdQun5zr0DlkKqQ0+NWmz/0WOHBjOqXzz/OZ1WZMedG7XzqhRSjWgxUdfhXmlOJf+54J52/xcPWFd1
   </data>
  </layer>
- <layer name="Walkable" width="30" height="30" visible="0">
+ <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzllFEOwzAIQ3uEXar3v1K/Jk0R2M+jW6UWKR8kgMEB9te27Tc7nSi7t07iUnwVU+VW6cqW1qviKb2KRTATPxKL5ufuVTxn/1lX5eNiVZLYdZiqbvJGeE76nv6Fk3TeyZ16V9zQeV91Uq/iUfFBhc7MZO+43eJ4WzlPcqVH5eXy/ha348f1ceeziqorxSNC8Sq/tG+nQvbFv3BV36ucEr7T3TU9FcaVuBVv3R+ns+TqdXHO6jUyQ5N3xVfVw0n/pna/7iM1m0/EPQD2rZ24
+   eJztlMsNhDAMRClhm6L/lva0F8sz85wlEkJYigT48+KJw/k5jvNhq7MU93sndSl/ssfqm8Q6o2ylBa1BuCRP1XD7TczuXLp6JL5qQ7ip70nchOn0U/OmeCtMl09shUe4yr+bu9qni3X16jfHJbUp1/Wr7hc9o8k5pZ6Sr8atcmtNes4THdKzy1exJDfxulzCInue5k77vprr5kHlV7/Tm8w/vSd03Y1b9VD6Ot3Vc+qX1LnCyEz+43d6dTOc7hTVP/2v3rV/fQGSTav/
   </data>
  </layer>
- <objectgroup name="Mapevents" width="30" height="30">
-  <object name="south" type="mapchange" x="832" y="928" width="64" height="32">
+ <objectgroup name="Mapevents" width="0" height="0">
+  <object name="east" type="mapchange" x="928" y="96" width="32" height="64">
    <properties>
     <property name="map" value="blackwater_mountain30"/>
-    <property name="place" value="north"/>
+    <property name="place" value="west"/>
    </properties>
   </object>
   <object name="north" type="mapchange" x="352" y="96" width="32" height="32">
@@ -156,38 +171,49 @@
     <property name="place" value="south"/>
    </properties>
   </object>
-  <object name="sign_blackwater32" type="sign" x="800" y="768" width="32" height="32"/>
+  <object name="sign_blackwater32" type="sign" x="832" y="128" width="32" height="32"/>
  </objectgroup>
- <objectgroup name="Spawn" width="30" height="30">
-  <object name="wyrm_2" type="spawn" x="832" y="864" width="64" height="32"/>
+ <objectgroup name="Spawn" width="0" height="0">
   <object name="wyrm_2" type="spawn" x="832" y="672" width="32" height="32"/>
-  <object name="wyrm_2" type="spawn" x="352" y="384" width="352" height="64"/>
+  <object name="wyrm_2" type="spawn" x="608" y="32" width="320" height="256">
+   <properties>
+    <property name="quantity" value="3"/>
+   </properties>
+  </object>
   <object name="wyrm_3" type="spawn" x="320" y="160" width="96" height="192">
    <properties>
     <property name="quantity" value="2"/>
    </properties>
   </object>
-  <object name="wyrm_3" type="spawn" x="160" y="512" width="672" height="160">
+  <object name="wyrm_3" type="spawn" x="96" y="512" width="352" height="160">
    <properties>
-    <property name="quantity" value="4"/>
+    <property name="quantity" value="2"/>
    </properties>
   </object>
-  <object name="wyrm_3" type="spawn" x="64" y="704" width="704" height="160">
-   <properties>
-    <property name="quantity" value="4"/>
-   </properties>
-  </object>
-  <object name="wyrm_3" type="spawn" x="672" y="64" width="256" height="256">
-   <properties>
-    <property name="quantity" value="4"/>
-   </properties>
-  </object>
-  <object name="wyrm_3" type="spawn" x="576" y="128" width="256" height="288">
+  <object name="wyrm_3" type="spawn" x="64" y="736" width="704" height="128">
    <properties>
     <property name="quantity" value="4"/>
    </properties>
   </object>
   <object name="wyrm_3" type="spawn" x="288" y="448" width="64" height="64"/>
+  <object name="wyrm_3" type="spawn" x="480" y="224" width="320" height="224">
+   <properties>
+    <property name="quantity" value="3"/>
+   </properties>
+  </object>
+  <object name="wyrm_3" type="spawn" x="608" y="448" width="32" height="96"/>
+  <object name="wyrm_2" type="spawn" x="768" y="736" width="160" height="128"/>
+  <object name="wyrm_3" type="spawn" x="352" y="672" width="32" height="32"/>
+  <object name="wyrm_3" type="spawn" x="32" y="384" width="192" height="288">
+   <properties>
+    <property name="quantity" value="2"/>
+   </properties>
+  </object>
+  <object name="wyrm_2" type="spawn" x="480" y="512" width="416" height="160">
+   <properties>
+    <property name="quantity" value="3"/>
+   </properties>
+  </object>
  </objectgroup>
- <objectgroup name="Keys" width="30" height="30"/>
+ <objectgroup name="Keys" width="0" height="0"/>
 </map>

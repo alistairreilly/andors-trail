@@ -4,19 +4,15 @@
 	<string name="app_name">Andor\'s Trail</string>
 	<string name="app_description">Quest-driven fantasy RPG</string>
 
-	<string name="exit">終了</string>
 	<string name="exit_to_menu">メニューに戻る</string>
-	<string name="menu_pause">ポーズ</string>
 	<string name="menu_settings">設定</string>
 	<string name="menu_save">Save</string>
-	<string name="menu_load">Load</string>
 	<string name="menu_save_gamesaved">スロット %1$d にセーブされました</string>
 	<string name="menu_save_failed">セーブできません! SDカードはマウントされていて、書き込み可能ですか?</string>
 
 	<string name="loadsave_title_save">セーブ</string>
 	<string name="loadsave_title_load">ロード</string>
 	<string name="loadsave_selectslot">Select slot</string>
-	<string name="loadsave_slot_empty">(empty)</string>
 	<string name="savegame_currenthero_displayinfo">level %1$d, %2$d exp, %3$d gold</string>
 
 	<string name="dialog_loading_message">Loading resources...</string>
@@ -26,27 +22,17 @@
 
 	<string name="dialog_close">閉じる</string>
 
-	<string name="dialog_confirmexit_title">終了</string>
-	<string name="dialog_confirmexit_message">本当に終了してもよろしいですか?</string>
-
-	<string name="dialog_paused_title">Paused</string>
-	<string name="dialog_paused_message">一時停止中</string>
-	<string name="dialog_paused_resume">再開</string>
-
 	<string name="dialog_monsterencounter_title">遭遇</string>
 	<string name="dialog_monsterencounter_message">攻撃しますか?\n敵の強さ: %1$s</string>
 	<string name="dialog_monsterencounter_info">情報</string>
 
 	<string name="status_hp">HP:</string>
-	<string name="status_mp">MP:</string>
 	<string name="status_ap">AP:</string>
 	<string name="status_exp">Level:</string>
 
 	<string name="heroinfo_char">全般</string>
 	<string name="heroinfo_inv">アイテム</string>
-	<string name="heroinfo_wear">装備</string>
 	<string name="heroinfo_skill">スキル</string>
-	<string name="heroinfo_spell">呪文</string>
 	<string name="heroinfo_levelup">Level up</string>
 	<string name="heroinfo_level">Level</string>
 	<string name="heroinfo_totalexperience">総経験値(exp)</string>
@@ -59,7 +45,6 @@
 	<string name="combat_attack">攻撃 (%1$d AP)</string>
 	<string name="combat_move">移動 (%1$d AP)</string>
 	<string name="combat_use">アイテム使用</string>
-	<string name="combat_spell">呪文</string>
 	<string name="combat_endturn">ターン終了</string>
 	<!-- <string name="combat_endcombat">End combat</string>-->
 	<string name="combat_flee">逃走</string>
@@ -108,10 +93,7 @@
 	<string name="actorinfo_class">Class:</string>
 	<string name="actorinfo_difficulty">難易度:</string>
 	<string name="actorinfo_health">体力:</string>
-	<string name="actorinfo_attacksperturn">攻撃回数/ターン:</string>
-	<string name="actorinfo_movesperturn">移動回数/ターン:</string>
 	<string name="actorinfo_attack">攻撃力:</string>
-	<string name="actorinfo_criticalhit">クリティカルヒット:</string>
 	<string name="actorinfo_defense">防御力:</string>
 	<string name="actorinfo_movecost">移動コスト(AP):</string>
 	<string name="actorinfo_basetraits">基礎戦闘能力 (装備とスキルを除く)</string>
@@ -134,18 +116,6 @@
 	<string name="iteminfo_action_use_ap">使う (%1$d AP)</string>
 	<string name="iteminfo_action_equip_ap">装備 (%1$d AP)</string>
 	<string name="iteminfo_action_unequip_ap">はずす (%1$d AP)</string>
-
-	<string name="itemcategory_money">gold</string>
-	<string name="itemcategory_weapon">武器</string>
-	<string name="itemcategory_shield">防具 (盾)</string>
-	<string name="itemcategory_wearable_head">防具 (頭)</string>
-	<string name="itemcategory_wearable_body">防具 (胴)</string>
-	<string name="itemcategory_wearable_hand">防具 (手)</string>
-	<string name="itemcategory_wearable_feet">防具 (足)</string>
-	<string name="itemcategory_wearable_neck">防具 (首)</string>
-	<string name="itemcategory_wearable_ring">防具 (指輪)</string>
-	<string name="itemcategory_potion">ポーション</string>
-	<string name="itemcategory_other">その他</string>
 
 	<string name="startscreen_continue">ゲームを再開する</string>
 	<string name="startscreen_newgame">New game</string>
@@ -234,7 +204,6 @@
 		Thanks for all the feedback!
 	</string>
 
-	<string name="questlog_title">クエスト</string>
 	<string name="questlog_includecompleted_prompt">表示するクエスト:</string>
 	<string name="questlog_includecompleted_hidecompleted">完了したクエスト以外</string>
 	<string name="questlog_includecompleted_includecompleted">完了したクエストを含める</string>

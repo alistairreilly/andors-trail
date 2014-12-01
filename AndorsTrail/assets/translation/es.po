@@ -2,36 +2,63 @@
 # Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
 # This file is distributed under the same license as the andors-trail package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+# Julian Lamus <Unknown>, 2014.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: andors-trail\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: Sat Oct 26 09:46:51 CEST 2013\n"
-"PO-Revision-Date: 2013-10-26 08:31+0000\n"
-"Last-Translator: Launchpad Translations Administrators <Unknown>\n"
+"POT-Creation-Date: Sun Nov 10 11:14:56 CET 2013\n"
+"PO-Revision-Date: 2014-05-17 15:36+0000\n"
+"Last-Translator: Mariano Agüero <nero1000000@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-10-26 09:04+0000\n"
-"X-Generator: Launchpad (build 16810)\n"
+"X-Launchpad-Export-Date: 2014-05-28 22:14+0000\n"
+"X-Generator: Launchpad (build 17017)\n"
 
 #: [none]
 msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
 "  Julian Lamus https://launchpad.net/~lamusj\n"
-"  Miguel de Dios https://launchpad.net/~tres-14159"
+"  Mariano Agüero https://launchpad.net/~nero1000000\n"
+"  Miguel de Dios https://launchpad.net/~tres-14159\n"
+"  ndika https://launchpad.net/~partet"
+
+#: actorconditions_v0610.json:chaotic_curse
+msgid "Chaotic curse"
+msgstr "Maldición caótica"
+
+#: actorconditions_v0610.json:chaotic_grip
+msgid "Chaotic grip"
+msgstr "Agarre caótico"
+
+#: actorconditions_v0611.json:blister
+msgid "Blistering skin"
+msgstr "Piel ampollada"
 
 #: actorconditions_v0611.json:contagion
 msgid "Insect contagion"
-msgstr "Insectos Contagioso"
+msgstr "Insectos Contagiosos"
+
+#: actorconditions_v0611.json:focus_ac
+msgid "Focused accuracy"
+msgstr "Precisión mejorada"
+
+#: actorconditions_v0611.json:focus_dmg
+msgid "Focused damage"
+msgstr "Daño enfocado"
+
+#: actorconditions_v0611.json:poison_irdegh
+msgid "Irdegh poison"
+msgstr "Veneno Irdegh"
 
 #: actorconditions_v0611.json:stunned
 msgid "Stunned"
-msgstr "Aturdido"
+msgstr "Atontado"
 
 #: actorconditions_v0611_2.json:concussion
 msgid "Concussion"
@@ -45,6 +72,26 @@ msgstr "Hemorragia interna"
 msgid "Fracture"
 msgstr "Fractura"
 
+#: actorconditions_v0611_2.json:rotworm
+msgid "Kazaul rotworms"
+msgstr "Podredumbre de Kazaul"
+
+#: actorconditions_v0611_2.json:shadowbless_acc
+msgid "Blessing of Shadow accuracy"
+msgstr "Bendición de precisión de las sombras"
+
+#: actorconditions_v0611_2.json:shadowbless_guard
+msgid "Shadow guardian blessing"
+msgstr "Bendición del Guardián de las Sombras"
+
+#: actorconditions_v0611_2.json:shadowbless_heal
+msgid "Blessing of Shadow regeneration"
+msgstr "Bendición de regeneración de las sombras"
+
+#: actorconditions_v0611_2.json:shadowbless_str
+msgid "Blessing of Shadow strength"
+msgstr "Bendición de fuerza de las sombras"
+
 #: actorconditions_v0612_2.json:foodp
 msgid "Food-poisoning"
 msgstr "Comida Envenenada"
@@ -53,21 +100,1059 @@ msgstr "Comida Envenenada"
 msgid "Bless"
 msgstr "Bendecir"
 
+#: actorconditions_v069.json:poison_weak
+msgid "Weak Poison"
+msgstr "Veneno Débil"
+
+#: actorconditions_v069.json:regen
+msgid "Shadow Regeneration"
+msgstr "Regeneración de la sombra"
+
 #: actorconditions_v069.json:str
 msgid "Strength"
 msgstr "Fuerza"
+
+#: actorconditions_v069_bwm.json:blackwater_misery
+msgid "Blackwater misery"
+msgstr "miseria de Aguasnegras"
+
+#: actorconditions_v069_bwm.json:bleeding_wound
+msgid "Bleeding wound"
+msgstr "Herida sangrando"
+
+#: actorconditions_v069_bwm.json:dazed
+msgid "Dazed"
+msgstr "Aturdido"
 
 #: actorconditions_v069_bwm.json:fatigue_minor
 msgid "Minor fatigue"
 msgstr "Fatiga Menor"
 
+#: actorconditions_v069_bwm.json:feebleness_minor
+msgid "Minor weapon feebleness"
+msgstr "Debilidad de arma menor"
+
+#: actorconditions_v069_bwm.json:intoxicated
+msgid "Intoxicated"
+msgstr "Intoxicado"
+
+#: actorconditions_v069_bwm.json:rage_minor
+msgid "Minor berserker rage"
+msgstr "Furia berserker menor"
+
+#: actorconditions_v069_bwm.json:speed_minor
+msgid "Minor speed"
+msgstr "Velocidad menor"
+
+#: actorconditions_v070.json:barkskin
+msgid "Bark skin"
+msgstr "Piel de corteza"
+
+#: actorconditions_v070.json:courage
+msgid "Courage"
+msgstr "Coraje"
+
+#: actorconditions_v070.json:def
+msgid "Fortified defense"
+msgstr "Defensa fortificada"
+
+#: actorconditions_v070.json:fear
+msgid "Fear"
+msgstr "Miedo"
+
+#: actorconditions_v070.json:fire
+msgid "Ablaze"
+msgstr "Ardiendo"
+
+#: actorconditions_v070.json:haste
+msgid "Haste"
+msgstr "Prisa"
+
 #: actorconditions_v070.json:regen2
 msgid "Regeneration"
 msgstr "Regeneración"
 
+#: actorconditions_v070.json:sense_1
+msgid "Heightened senses"
+msgstr "Sentidos agudizados"
+
+#: actorconditions_v070.json:shadow_acc
+msgid "Shadow's accuracy"
+msgstr "Precisión de la Sombra"
+
+#: actorconditions_v070.json:shadow_dmg
+msgid "Shadow's strength"
+msgstr "Fuerza de la Sombra"
+
+#: actorconditions_v070.json:shadow_prot
+msgid "Shadow's protection"
+msgstr "Protección de la Sombra"
+
+#: actorconditions_v070.json:slime
+msgid "Corrosive Slime"
+msgstr "Baba corrosiva"
+
+#: actorconditions_v070.json:sting_minor
+msgid "Minor sting"
+msgstr "Picadura menor"
+
+#: conversationlist_agthor.json:agthor_guard0
+msgid "Talk to Agthor."
+msgstr "Habla con Agthor."
+
+#: conversationlist_agthor.json:agthor_guard0:0
+#: conversationlist_ambelie.json:ambelie_1:0
+#: conversationlist_arghes.json:arghes_2:1
+#: conversationlist_blackwater_harlenn.json:harlenn_3:0
+#: conversationlist_blackwater_throdna.json:throdna_loop_1:1
+#: conversationlist_elythom_1.json:elythom_knight2:0
+#: conversationlist_esfiume.json:erethori0:1
+#: conversationlist_farrik.json:farrik_1:0
+#: conversationlist_foamingflask_guards.json:ff_captain_1:2
+#: conversationlist_foamingflask_outsideguard.json:ff_outsideguard_1:0
+#: conversationlist_lethenlor.json:lethenlor0:0
+#: conversationlist_lethenlor.json:lethenlor3:0
+#: conversationlist_loneford_3.json:sienn:0
+#: conversationlist_loneford_3.json:sienn_pet_1:0
+#: conversationlist_loneford_kuldan.json:kuldan_1:1
+#: conversationlist_lowyna.json:lowyna_1:0
+#: conversationlist_lowyna.json:lowyna_4:1
+#: conversationlist_prim_arghest.json:arghest_1:1
+#: conversationlist_prim_arghest.json:arghest_4:0
+#: conversationlist_prim_guthbered.json:guthbered_1:1
+#: conversationlist_prim_outside.json:moyra_1:1
+#: conversationlist_reinkarr.json:reinkarr:0
+#: conversationlist_reinkarr.json:reinkarr_1:0
+#: conversationlist_reinkarr.json:reinkarr_2:0
+#: conversationlist_thievesguild_1.json:thievesguild_pickpocket_1:0
+#: conversationlist_thorin.json:thorin_2:1
+#: conversationlist_ulirfendor.json:ulirfendor_2:2
+msgid "Who are you?"
+msgstr "¿Quién eres?"
+
+#: conversationlist_agthor.json:agthor_guard0:1
+#: conversationlist_thorin.json:thorin_2:0
+#: conversationlist_thorin.json:thorin_who_1:0
+msgid "What are you doing here?"
+msgstr "¿Qué estás haciendo aquí?"
+
+#: conversationlist_agthor.json:agthor_guard0:2
+msgid "Are you from Feygard?"
+msgstr "¿Eres de Feygard?"
+
+#: conversationlist_agthor.json:agthor_guard0:3
+msgid "Where can I get some of that nice armor that you're wearing?"
+msgstr "¿Donde podría conseguir tan buenas armaduras como la que llevas?"
+
+#: conversationlist_agthor.json:agthor_guard0_1
+msgid "Agthor. Talk to him. *points at Agthor*"
+msgstr "Agthor. Habla con él. *Señala a Agthor*"
+
+#: conversationlist_agthor.json:agthor_y2:1
+#: conversationlist_fallhaven_unnmir.json:unnmir_6:0
+msgid "I'm looking for my brother."
+msgstr "Busco a mi hermano."
+
+#: conversationlist_agthor.json:agthor_y4:0
+#: conversationlist_crossroads_2.json:gallain_trade_1:0
+msgid "Trade"
+msgstr "Intercambio"
+
+#: conversationlist_ailshara.json:ailshara_1:0
+#: conversationlist_charwood1.json:khorailla2:0
+msgid "Sure, let me see what you have."
+msgstr "Seguro, dejame ver lo que tienes."
+
+#: conversationlist_ailshara.json:ailshara_1:1
+msgid "Items of others?"
+msgstr "¿Cosas de otros?"
+
+#: conversationlist_ailshara.json:ailshara_2:0
+#: conversationlist_hadracor.json:hadracor_complete_3:1
+msgid "Ok, let me see what you have."
+msgstr "Bien, dejame ver lo que tienes."
+
+#: conversationlist_ailshara.json:ailshara_2:1
+msgid "I should really not get involved in this. Goodbye."
+msgstr "No debería involucrarme en esto. Adiós"
+
+#: conversationlist_ailshara.json:ailshara_completed_n_1
+msgid "Sigh, it's you. What do you want?"
+msgstr "*Suspiro* Eres tú. ¿Qué quieres?"
+
+#: conversationlist_ailshara.json:ailshara_completed_n_1:0
+#: conversationlist_ailshara.json:ailshara_completed_y_1:0
+#: conversationlist_arghes.json:arghes_6:0
+#: conversationlist_ervelyn.json:ervelyn_d:0
+msgid "Let me see what you have to trade."
+msgstr "Déjame ver que tienes para comerciar."
+
+#: conversationlist_ailshara.json:ailshara_deliver_1
+msgid "Hello again. Did you deliver those items to the smith in Vilegard?"
+msgstr "Hola de nuevo. ¿Puedes llevar esas cosas al herrero en Vilegard?"
+
+#: conversationlist_ailshara.json:ailshara_deliver_1:0
+#: conversationlist_blackwater_throdna.json:throdna_purify_1:0
+#: conversationlist_ulirfendor.json:ulirfendor_findparts_10:3
+msgid "Yes, it is done."
+msgstr "Si, está hecho."
+
+#: conversationlist_ailshara.json:ailshara_deliver_1:1
+#: conversationlist_ailshara.json:ailshara_interested_1:0
+msgid "Never mind that, let me see what you have to trade."
+msgstr "No importa eso, déjame ver que tienes para comerciar."
+
+#: conversationlist_ailshara.json:ailshara_deliver_1:3
+#: conversationlist_prim_guthbered.json:guthbered_killharl_1:0
+msgid "Can you tell me again what I was supposed to do?"
+msgstr "¿Puedes decirme de nuevo qué se supone que debo hacer?"
+
+#: conversationlist_ailshara.json:ailshara_deliver_1:4
+msgid "Not yet."
+msgstr "Aún no."
+
+#: conversationlist_ailshara.json:ailshara_interested_1:1
+msgid "I better not talk about it."
+msgstr "Mejor no hablo de esto."
+
+#: conversationlist_ailshara.json:ailshara_interested_1:2
+msgid "Gandoren specifically asked me not to talk to you about it."
+msgstr "Gandoren me dijo especificamente que no te hablara de esto."
+
+#: conversationlist_ailshara.json:ailshara_interested_2:1
+msgid "I am doing this for the glory of Feygard."
+msgstr "Estoy haciendo esto por la gloria de Feygard."
+
+#: conversationlist_ailshara.json:ailshara_interested_2:2
+msgid "Helping Feygard seems like the right thing to do."
+msgstr "Ayudar a Feygard parece ser lo correcto."
+
+#: conversationlist_ailshara.json:ailshara_interested_2:3
+msgid "What would you propose instead?"
+msgstr "¿En cambio qué propones?"
+
+#: conversationlist_ailshara.json:ailshara_interested_3:0
+msgid "Sounds interesting, please go on."
+msgstr "Suena interesante, continúa por favor."
+
+#: conversationlist_ailshara.json:ailshara_interested_3:1
+msgid "I have no problem helping Feygard without any personal gain."
+msgstr "No tengo problema en ayudar a Feygard sin obtener ninguna ganancia personal."
+
+#: conversationlist_ailshara.json:ailshara_interested_3:2
+msgid "I better not get involved in this, goodbye."
+msgstr "Mejor no me involucro en esto, adiós."
+
+#: conversationlist_ailshara.json:ailshara_interested_8:0
+msgid "I will see what I can do."
+msgstr "Veré lo que puedo hacer."
+
+#: conversationlist_algangror.json:algangror_1:0
+msgid "I am looking for my brother."
+msgstr "Busco a mi hermano."
+
+#: conversationlist_algangror.json:algangror_1:2
+msgid "I'm an adventurer, looking to help anyone in need of help."
+msgstr "Soy un aventurero, buscando ayudar a cualquiera que lo necesite."
+
+#: conversationlist_algangror.json:algangror_1:3
+msgid "I'd rather not tell."
+msgstr "Prefiero no decirte."
+
+#: conversationlist_algangror.json:algangror_2d
+msgid "Clever. I like that."
+msgstr "Astuto. Me gusta eso."
+
+#: conversationlist_algangror.json:algangror_3:0
+msgid "Sure, what's the problem?"
+msgstr "Seguro ¿cuál es el problema?"
+
+#: conversationlist_algangror.json:algangror_3:1
+msgid "Maybe, it depends on what the problem is."
+msgstr "Puede ser, depende de cual sea el problema."
+
+#: conversationlist_algangror.json:algangror_3:2
+msgid "Maybe, it depends on what type of reward we are talking about."
+msgstr "Puede ser, depende acerca de que tipo de recompensa estemos hablando."
+
+#: conversationlist_algangror.json:algangror_3c
+msgid "Reward? No, no, I don't have anything to give you, unfortunately."
+msgstr "¿Recompensa? No, no, desafortunadamente no tengo nada para darte."
+
+#: conversationlist_algangror.json:algangror_3c:1
+msgid "Fine, what's the problem you want help with?"
+msgstr "Bien, ¿cuál es el problema con el que quieres ayudar?"
+
+#: conversationlist_algangror.json:algangror_3c:2
+#: conversationlist_algangror.json:algangror_8:2
+msgid "Something feels wrong here. I better not get involved in this."
+msgstr "Algo huele mal aquí. Mejor no me involucro en esto."
+
+#: conversationlist_algangror.json:algangror_8:1
+msgid "No problem, I'll be right back once I have killed them."
+msgstr "No hay problema, volveré una vez que lo haya matado."
+
+#: conversationlist_algangror.json:algangror_cmp3:0
+#: conversationlist_blackwater_lower.json:blackwater_throneguard_2:0
+#: conversationlist_charwood1.json:charwd_guard2:0
+#: conversationlist_ervelyn.json:ervelyn_give2:0
+#: conversationlist_fallhaven_potions.json:fallhaven_pot_antifp_q4:0
+#: conversationlist_fallhaven_potions.json:fallhaven_potions3:0
+#: conversationlist_fallhaven_unzel.json:unzel_30:1
+#: conversationlist_hjaldar.json:hjaldar_r15:0
+#: conversationlist_lodarfg.json:lodar_fg1_16
+#: conversationlist_loneford_4.json:arngyr_5
+#: conversationlist_maevalia.json:maevalia_d10
+#: conversationlist_talion_2.json:talion_bone_2
+#: conversationlist_talion_2.json:talion_hair_2
+#: conversationlist_talion_2.json:talion_irdegh_2
+#: conversationlist_talion_2.json:talion_vial_2
+#: conversationlist_thievesguild_1.json:thievesguild_cook_9:0
+msgid "Thank you."
+msgstr "Gracias."
+
+#: conversationlist_algangror.json:algangror_cmp4
+msgid "Do not underestimate it, my friend."
+msgstr "No lo subestimes, amigo mio."
+
+#: conversationlist_algangror.json:algangror_cmp5
+msgid "Again, thank you for helping me. You will always be welcome here, friend."
+msgstr "Nuevamente, gracias por ayudarme. Siempre serás bienvenido aquí, amigo."
+
+#: conversationlist_algangror.json:algangror_fight_5
+msgid "Do you really think you can defeat *me*? Ha ha, this will be fun!"
+msgstr "¿Realmente piensas que puedes *derrotarme*?¡Jaja, esto va a ser divertido!"
+
+#: conversationlist_algangror.json:algangror_fight_5:0
+#: conversationlist_buceth.json:buceth_fight_1:0
+#: conversationlist_charwood2.json:charwoodm:2
+#: conversationlist_highwayman1.json:highwayman1_6:0
+#: conversationlist_kaverin.json:kaverin_fight_1:0
+#: conversationlist_lodarfg3.json:lodar_fg3_3:0
+#: conversationlist_lodarmobs.json:lbridge:0
+#: conversationlist_lodarmobs.json:zortakb:0
+#: conversationlist_pwcave.json:iqhan_boss_1:0
+#: conversationlist_thukuzun.json:thukuzun_1:1
+msgid "Fight!"
+msgstr "¡Pelea!"
+
+#: conversationlist_algangror.json:algangror_remgard_5:0
+#: conversationlist_algangror.json:algangror_remgard_6:0
+#: conversationlist_crossglen_odair.json:odair5:0
+msgid "Ok"
+msgstr "De acuerdo"
+
+#: conversationlist_algangror.json:algangror_remgard_5:1
+msgid "(Lie) Ok"
+msgstr "(Mentir) De acuerdo"
+
+#: conversationlist_algangror.json:algangror_remgard_7
+msgid "Under no circumstances."
+msgstr "Bajo ninguna circunstancia."
+
+#: conversationlist_algangror.json:algangror_return_1
+msgid "You return. Did you handle all those .. ahem .. rodents in my basement?"
+msgstr "Volviste ¿Pudiste manejar todos esos... eehhh... roedores en mi sótano?"
+
+#: conversationlist_algangror.json:algangror_return_1:0
+msgid "Yes, they are all dead."
+msgstr "Si, están todos muertos."
+
+#: conversationlist_algangror.json:algangror_return_1:1
+msgid "I am still working on it. Goodbye."
+msgstr "Todavía estoy trabajando en ello. Adiós."
+
+#: conversationlist_algangror.json:algangror_return_1:2
+msgid "I won't do your stupid task, count me out."
+msgstr "No voy a hacer tu estúpida tarea, no cuentes conmigo."
+
+#: conversationlist_algangror.json:algangror_return_1:3
+msgid "I have decided not to help you with your rodents."
+msgstr "He decidido no ayudarte con tus roedores."
+
+#: conversationlist_algangror.json:algangror_return_4
+msgid "Now, there was something else I wanted to talk to you about. Have you been to the city of Remgard in your travels?"
+msgstr "Ahora, hay otra cosa acerca de lo que quiero hablarte ¿Has estado en la ciudad de Remgard durante tus viajes?"
+
+#: conversationlist_algangror.json:algangror_return_4:0
+msgid "Yes, I have been there."
+msgstr "Si, he estado ahí."
+
+#: conversationlist_algangror.json:algangror_return_4:1
+msgid "No, where is that?"
+msgstr "No ¿Dónde es eso?"
+
+#: conversationlist_algangror.json:algangror_return_c4:0
+msgid "Depends on the task."
+msgstr "Depende de la tarea."
+
+#: conversationlist_algangror.json:algangror_return_c4:1
+#: conversationlist_bwm_agent_3.json:bwm_agent_3_6:0
+#: conversationlist_kaverin.json:kaverin_9:1
+#: conversationlist_prim_guthbered.json:guthbered_21:0
+msgid "Sure."
+msgstr "Claro."
+
+#: conversationlist_algangror.json:algangror_return_c4:2
+msgid "Not right now."
+msgstr "No ahora."
+
+#: conversationlist_algangror.json:algangror_return_d1
+#: conversationlist_lodarfg.json:lodar_fg1_r1
+#: conversationlist_lodarfg.json:lodar_fg1_r2
+msgid "Oh, it's you again."
+msgstr "Oh, eres tú de nuevo."
+
+#: conversationlist_algangror.json:algangror_return_d2:1
+msgid "Watch your tongue, witch."
+msgstr "Cuida tu lengua, bruja."
+
+#: conversationlist_algangror.json:algangror_story
+msgid "Let me tell you my story."
+msgstr "Déjame contarte mi historia."
+
+#: conversationlist_algangror.json:algangror_story:0
+#: conversationlist_jan.json:jan_default2:0
+msgid "Please do."
+msgstr "Por favor hazlo."
+
+#: conversationlist_algangror.json:algangror_story:1
+msgid "Can we just skip to the end?"
+msgstr "¿No podemos ir directamente al final?"
+
+#: conversationlist_algangror.json:algangror_story26
+msgid "Practice makes perfect, I suppose. Ha ha."
+msgstr "La práctica hace la perfección, supongo. Jaja."
+
+#: conversationlist_algangror.json:algangror_story28
+msgid "So, that's my story. Thank you for listening to it."
+msgstr "Entonces, esa es mi historia. Gracias por escucharla."
+
+#: conversationlist_algangror.json:algangror_story28:0
+msgid "I understand, and I agree with your actions."
+msgstr "Te entiendo y estoy de acuerdo con tus acciones."
+
+#: conversationlist_algangror.json:algangror_story28:1
+msgid "I do not fully agree with your actions."
+msgstr "No estoy del todo de acuerdo con tus acciones."
+
+#: conversationlist_algangror.json:algangror_story28:2
+msgid "What you did could never be justified!"
+msgstr "¡Lo que hiciste nunca podría ser justificado!"
+
+#: conversationlist_algangror.json:algangror_task2_10:0
+msgid "Go on."
+msgstr "Continúa."
+
+#: conversationlist_algangror.json:algangror_task2_17:0
+msgid "I understand."
+msgstr "Entiendo."
+
+#: conversationlist_algangror.json:algangror_task2_18
+msgid "Here are the idols."
+msgstr "Aquí están los ídolos."
+
+#: conversationlist_algangror.json:algangror_task2_18:0
+msgid "I will be back shortly."
+msgstr "Volveré pronto."
+
+#: conversationlist_algangror.json:algangror_task2_done3
+msgid "Good. Thank you again for helping me."
+msgstr "Bien. Gracias nuevamente por ayudarme."
+
+#: conversationlist_algangror.json:algangror_task2_n2:2
+msgid "Don't tell me what to do! Goodbye."
+msgstr "¡No me digas que hacer! Adiós."
+
+#: conversationlist_algangror.json:algangror_task2_ret1:3
+msgid "I won't do your stupid task."
+msgstr "No haré tu estúpida tarea."
+
+#: conversationlist_algangror.json:algangror_task2_ret1:4
+msgid "I will not help you with your task."
+msgstr "No te ayudaré con tu tarea."
+
+#: conversationlist_algangror.json:algangror_told_2:0
+msgid "Yes, I have told Jhaeld where you are."
+msgstr "Si, le he dicho a Jhaeld donde estás."
+
+#: conversationlist_algangror.json:algangror_told_2:1
+msgid "(Lie) No, I have not told anyone."
+msgstr "(Mentir) No, no le he contado a nadie."
+
+#: conversationlist_alynndir.json:alynndir_2:0
+#: conversationlist_charwood1.json:khorailla1:0
+#: conversationlist_charwood1.json:khorailla3:0
+#: conversationlist_crossglen.json:arambold1:1
+#: conversationlist_crossglen.json:mara_default:0
+#: conversationlist_crossglen_tharal.json:tharal1:0
+#: conversationlist_fallhaven_tavern.json:ganos:0
+#: conversationlist_gandoren.json:gandoren_completed_2:0
+#: conversationlist_kendelow.json:kendelow_d:1
+#: conversationlist_minarra.json:minarra_completed_1:0
+#: conversationlist_minarra.json:minarra_completing_1:0
+#: conversationlist_minarra.json:minarra_first_5:0
+#: conversationlist_minarra.json:minarra_return_1:1
+#: conversationlist_norath.json:norath_1:1
+#: conversationlist_remgard_villagers1.json:skylenar:0
+#: conversationlist_remgard_villagers1.json:skylenar_2:1
+#: conversationlist_talion.json:talion_0:1
+#: conversationlist_talion_2.json:talion_infect_30:6
+#: conversationlist_thorin.json:thorin_2:3
+#: conversationlist_thorin.json:thorin_return_1:1
+#: conversationlist_thorin.json:thorin_search_1:3
+#: conversationlist_thorin.json:thorin_search_c_2:1
+msgid "Do you have anything to trade?"
+msgstr "¿Tienes algo para comerciar?"
+
+#: conversationlist_alynndir.json:alynndir_6:0
+#: conversationlist_elwyl.json:elwel_1:1
+#: conversationlist_foamingflask_guards.json:ff_captain_rincel_4:1
+#: conversationlist_lodarfg.json:lodar_fg1_18:0
+#: conversationlist_prim_inn.json:laecca_7:0
+msgid "Goodbye."
+msgstr "Adiós."
+
+#: conversationlist_ambelie.json:ambelie_2:2
+msgid "Where is Feygard?"
+msgstr "¿Dónde queda Feygard?"
+
+#: conversationlist_ambelie.json:ambelie_8:0
+#: conversationlist_ambelie.json:ambelie_9:1
+msgid "Good luck on your excursion."
+msgstr "Buena suerte en tu excursión."
+
+#: conversationlist_arghes.json:arghes_2:2
+msgid "How do you know where I am from?"
+msgstr "¿Cómo sabes de donde soy?"
+
+#: conversationlist_blackwater_signs.json:sign_blackwater0
+msgid ""
+"East: Fallhaven\n"
+"Southwest: Stoutford\n"
+"Northwest: Blackwater Mountain"
+msgstr ""
+"Este: Fallhaven\n"
+"Suroeste: Stoutford\n"
+"Noroeste: Montaña de Aguasnegras"
+
+#: conversationlist_blackwater_signs.json:sign_blackwater10
+msgid ""
+"North: Prim\n"
+"West: Elm mine\n"
+"East: (text is unreadable due to several scratch marks in the wood)\n"
+"South: Stoutford"
+msgstr ""
+"Norte: Prim\n"
+"Oeste: Mina Elm\n"
+"Este: (el texto es ilegible debido a los arañazos en la madera)\n"
+"Sur: Stoutford"
+
+#: conversationlist_blackwater_signs.json:sign_prim_s
+msgid ""
+"Missing persons:\n"
+" - Duala\n"
+" - Lorn\n"
+" - Kamelio"
+msgstr ""
+"Personas perdidas:\n"
+" - Duala\n"
+" - Lorn\n"
+" - Kamelio"
+
+#: conversationlist_bwm_agent_2.json:bwm_agent_2_11:1
+msgid "(Lie) Ok, I promise to head east once we exit the mine."
+msgstr "(Mentir) De acuerdo, prometo ir al este cuando salgamos de la mina."
+
+#: conversationlist_charwood1.json:khorailla1:1
+#: conversationlist_kantya.json:kantya1:0
+#: conversationlist_mikhail.json:mikhail_bread_complete2:0
+#: conversationlist_twoteeth.json:twoteeth_c4:1
+msgid "You're welcome."
+msgstr "Eres bienvenido."
+
+#: conversationlist_charwood2.json:ayell:0
+msgid "[examine the pile]"
+msgstr "[examinar la pila]"
+
+#: conversationlist_charwood2.json:ayell:1
+#: conversationlist_charwood2.json:morenavia:1
+msgid "[leave it alone]"
+msgstr "[dejarla]"
+
+#: conversationlist_charwood2.json:falothen0:0
+#: conversationlist_charwood2.json:fayvara0:0
+msgid "[untie the ropes]"
+msgstr "[desatar las cuerdas]"
+
+#: conversationlist_charwood2.json:morenavia:0
+msgid "[examine the remains]"
+msgstr "[examinar los restos]"
+
+#: conversationlist_crossglen.json:arambold1:0
+#: conversationlist_maevalia.json:maevalia_d1:0
+#: conversationlist_maevalia.json:maevalia_h2:0
+#: conversationlist_maevalia.json:maevalia_q1:0
+msgid "Can I rest here?"
+msgstr "¿Puédo descansar aquí?"
+
+#: conversationlist_crossglen.json:arambold2
+msgid ""
+"Sure kid, you may rest here.\n"
+"\n"
+"Pick any bed you want."
+msgstr ""
+"Claro chico, puedes descansar aquí.\n"
+"\n"
+"Toma la cama que tu quieras."
+
+#: conversationlist_crossglen.json:arambold2:0
+#: conversationlist_crossglen_tharal.json:tharal_bonemeal7:0
+#: conversationlist_fallhaven_arcir.json:arcir_calomyran_6:0
+msgid "Thanks, bye"
+msgstr "Gracias, adiós"
+
+#: conversationlist_crossglen.json:audir1
+msgid ""
+"Welcome to my shop!\n"
+"\n"
+"Please browse my selection of fine wares."
+msgstr ""
+"¡Bienvenido a mi tienda!\n"
+"\n"
+"Por favor busca en mi selección de finas mercancías."
+
+#: conversationlist_crossglen.json:audir1:0
+msgid "Please show me your wares."
+msgstr "Por favor mostrame tus mercancías."
+
+#: conversationlist_crossglen.json:drunk1
+msgid ""
+"Drink drink drink, drink some more.\n"
+"Drink drink drink 'til you're on the floor.\n"
+"\n"
+"Hey kid, wanna join us in our drinking game?"
+msgstr ""
+"Bebe bebe bebe, bebe un poco más.\n"
+"Bebe bebe bebe hasta en el suelo terminar.\n"
+"\n"
+"Oye chico ¿quiéres unirte a nuestro juego de beber?"
+
+#: conversationlist_crossglen.json:drunk1:0
+#: conversationlist_fallhaven_tavern.json:bela_room_1:1
+#: conversationlist_vilegard_tavern.json:vilegard_tavern_drunk_1:0
+msgid "No thanks."
+msgstr "No gracias."
+
+#: conversationlist_crossglen.json:drunk1:1
+#: conversationlist_rothses.json:rothses_c2:2
+msgid "Maybe some other time."
+msgstr "Tal vez en otro momento."
+
+#: conversationlist_crossglen.json:farm1
+msgid "Please do not disturb me, I have work to do."
+msgstr "Por favor no me molestes, tengo trabajo que hacer."
+
+#: conversationlist_crossglen.json:farm1:0
+#: conversationlist_crossglen.json:farm2:0
+#: conversationlist_crossglen_leonid.json:leonid1:0
+#: conversationlist_crossglen_leonid.json:leonid_continue:0
+#: conversationlist_fallhaven.json:fallhaven_citizen1:0
+#: conversationlist_fallhaven.json:fallhaven_citizen2:0
+#: conversationlist_fallhaven.json:fallhaven_citizen3:0
+#: conversationlist_fallhaven.json:fallhaven_citizen4:0
+#: conversationlist_fallhaven.json:fallhaven_citizen6:0
+#: conversationlist_fallhaven.json:rigmor:0
+#: conversationlist_fallhaven_bucus.json:bucus_welcome:0
+msgid "Have you seen my brother Andor?"
+msgstr "¿Has visto a mi hermano Andor?"
+
+#: conversationlist_crossglen.json:snakemaster:1
+msgid "Let's see who dies here."
+msgstr "Veamos quién muere aquí."
+
+#: conversationlist_crossglen.json:snakemaster:2
+#: conversationlist_lodarfg4.json:lodar_fg4_7:1
+#: conversationlist_loneford_2.json:landa_6
+#: conversationlist_maelveon.json:maelveon_5:2
+msgid "Please don't hurt me!"
+msgstr "¡Por favor no me lastimes!"
+
+#: conversationlist_crossglen_gruil.json:gruil1
+msgid ""
+"Psst, hey.\n"
+"\n"
+"Wanna trade?"
+msgstr ""
+"Psst, hey.\n"
+"\n"
+"¿Quieres comerciar?"
+
+#: conversationlist_crossglen_gruil.json:gruil_andor3:0
+#: conversationlist_fallhaven_tavern.json:bela_room_2:1
+#: conversationlist_fallhaven_tavern.json:bela_room_3:1
+#: conversationlist_flagstone.json:flagstone_sentry_42:0
+#: conversationlist_vilegard_villagers.json:vilegard_villager_friend_1:0
+msgid "Thanks, bye."
+msgstr "Gracias, adiós."
+
+#: conversationlist_crossglen_leonid.json:leonid1:1
+#: conversationlist_crossglen_leonid.json:leonid_continue:1
+msgid "What can you tell me about Crossglen?"
+msgstr "¿Qué puedes contarme acerca de Crossglen?"
+
+#: conversationlist_crossglen_leonid.json:leonid1:2
+#: conversationlist_crossglen_leonid.json:leonid_continue:2
+msgid "Never mind, see you later."
+msgstr "No importa, nos vemos."
+
+#: conversationlist_crossglen_leonid.json:leonid_andor
+msgid "Your brother? No, I haven't seen him here today. I think I saw him in here yesterday talking to Gruil. Maybe he knows more?"
+msgstr "¿Tu hermano? No, no lo he visto aquí hoy. Creo que lo vi ayer hablando con Gruil. Tal vez él sabe algo."
+
+#: conversationlist_crossglen_leonid.json:leonid_andor:0
+msgid "Thanks, I'll go talk to Gruil. There was something more I wanted to talk about."
+msgstr "Gracias, voy a ir a hablar con Gruil. Hay algo más que deseo hablar."
+
+#: conversationlist_crossglen_leonid.json:leonid_andor:1
+msgid "Thanks, I'll go talk to Gruil."
+msgstr "Gracias, voy a ir a hablar con Gruil."
+
+#: conversationlist_crossglen_leonid.json:leonid_continue
+#: conversationlist_mikhail.json:mikhail_default
+#: conversationlist_umar.json:umar_return_2
+msgid "Anything else I can help you with?"
+msgstr "¿Algo más en lo que pueda ayudarte?"
+
+#: conversationlist_crossglen_leonid.json:leonid_crossglen
+msgid "As you know, this is Crossglen village. Mostly a farming community."
+msgstr "Como sabes, este pueblo es Crossglen. Mayormente una comunidad de granjeros."
+
+#: conversationlist_crossglen_leonid.json:leonid_crossglen9:0
+msgid "Thank you for the information. There was something more I wanted to ask you."
+msgstr "Gracias por la información. Hay algo más que quiero preguntarte."
+
+#: conversationlist_crossglen_leonid.json:leonid_crossglen9:1
+msgid "Thank you for the information. Bye."
+msgstr "Gracias por la información. Adiós."
+
+#: conversationlist_crossglen_leta.json:leta1
+msgid "Hey, this is my house, get out of here!"
+msgstr "Oye, esta es mi casa ¡Fuera de aquí!"
+
+#: conversationlist_crossglen_leta.json:oromir1:0
+msgid "Hello"
+msgstr "Hola"
+
+#: conversationlist_crossglen_leta.json:oromir2:0
+#: conversationlist_prim_tavern.json:prim_tavern_guest1_4:1
+msgid "Ok."
+msgstr "De acuerdo."
+
+#: conversationlist_crossglen_odair.json:odair2:0
+msgid "Tell me more about this task."
+msgstr "Cuéntame más acerca de esta tarea."
+
+#: conversationlist_crossglen_odair.json:odair4:2
+msgid "No thanks"
+msgstr "No gracias"
+
+#: conversationlist_crossglen_odair.json:odair_complete:0
+#: conversationlist_loneford_4.json:arngyr_6:0
+msgid "Thanks"
+msgstr "Gracias"
+
+#: conversationlist_crossglen_odair.json:odair_complete2:0
+#: conversationlist_crossglen_odair.json:odair_cowards:0
+#: conversationlist_fallhaven_nocmar.json:nocmar:2
+#: conversationlist_fallhaven_unzel.json:unzel_2:0
+#: conversationlist_jan.json:jan_complete2:0
+msgid "Bye"
+msgstr "Adiós"
+
+#: conversationlist_crossroads_3.json:crossroads_sleepguard_1:0
+msgid "No. Goodbye."
+msgstr "No. Adiós."
+
+#: conversationlist_elythom_1.json:krell_4
+msgid "We serve the order of Elythom."
+msgstr "Nosotros servimos a la orden de Elythom."
+
+#: conversationlist_elythom_1.json:krell_4:0
+#: conversationlist_thorin.json:thorin_rest_n:0
+#: conversationlist_thorin.json:thorin_trade_n:0
+msgid "What's that?"
+msgstr "¿Qué es eso?"
+
+#: conversationlist_elythom_1.json:krell_jhaeld1
+msgid "Shh, not so loud!"
+msgstr "Shh, no tan fuerte."
+
+#: conversationlist_elythom_1.json:krell_knights_6:1
+msgid "Good luck with that."
+msgstr "Buena suerte con eso."
+
+#: conversationlist_erinith.json:erinith_1
+msgid "Please, you have to help me!"
+msgstr "Por favor, ¡tienes que ayudarme!"
+
+#: conversationlist_erinith.json:erinith_needsbook_1
+msgid "Have you found that book yet?"
+msgstr "¿Encontraste mi libro ya?"
+
+#: conversationlist_erinith.json:erinith_needsbook_1:0
+msgid "Not yet, I am still looking."
+msgstr "No todavía, sigo buscando."
+
+#: conversationlist_erinith.json:erinith_needsbook_1:1
+msgid "Yes, here is your book."
+msgstr "Si, aquí está tu libro."
+
+#: conversationlist_fallhaven_south.json:fallhaven_lumberjack:0
+msgid "Are you a woodcutter?"
+msgstr "¿Eres un leñador?"
+
+#: conversationlist_hirazinn.json:hirazinn_2:0
+msgid "[Run away screaming]"
+msgstr "[Escapar gritando]"
+
+#: conversationlist_hirazinn.json:hirazinn_2:1
+msgid "[Attack]"
+msgstr "[Atacar]"
+
+#: conversationlist_hjaldar.json:hjaldar_1
+msgid "Hello there. I am Hjaldar."
+msgstr "Hola, yo soy Hjaldar"
+
+#: conversationlist_ingus.json:ingus_s2:1
+#: conversationlist_ingus.json:ingus_t2:1
+#: conversationlist_prim_outside.json:prim_commoner2_rest1:0
+#: conversationlist_prim_outside.json:prim_commoner2_trade1:0
+#: conversationlist_talion_2.json:talion_bless_2:0
+#: conversationlist_umar.json:umar_lodar_6:2
+msgid "Thank you, goodbye."
+msgstr "Gracias, adiós."
+
+#: conversationlist_jhaeld.json:jhaeld_killalg:2
+msgid "Algangror is dead."
+msgstr "Algangror esta muerto."
+
+#: conversationlist_prim_guthbered.json:guthbered_31
+msgid "Thank you friend."
+msgstr "Gracias amigo."
+
+#: conversationlist_prim_guthbered.json:guthbered_talkedto_harl_6:2
+msgid "(Lie) You can trust me."
+msgstr "(Mentir) Puedes confiar en mi."
+
+#: conversationlist_prim_inn.json:prim_cook_return_2
+msgid "Did you talk to Arghest?"
+msgstr "¿Hablaste con Arghest?"
+
+#: conversationlist_prim_inn.json:prim_cook_return_2:1
+msgid "(Lie) Yes, he told me that I could rest in the back room if I want to."
+msgstr "(Mentir) Si, él me dijo que puedo descansar en el cuarto de atrás si lo deseo."
+
+#: conversationlist_prim_outside.json:prim_commoner1:0
+msgid "Yes, I am here to help your village."
+msgstr "Si, estoy aquí para ayudar a tu pueblo."
+
+#: conversationlist_prim_outside.json:prim_commoner1:1
+msgid "(Lie) Yes, I am here to help your village."
+msgstr "(Mentir) Si, estoy aquí para ayudar a tu pueblo."
+
+#: conversationlist_prim_outside.json:prim_commoner3
+msgid "Hello. Welcome to Prim."
+msgstr "Hola. Bienvenido a Prim"
+
+#: conversationlist_prim_outside.json:prim_commoner4:1
+msgid "Yes, I have come to help your village."
+msgstr "Si, he venido para ayudar a tu pueblo."
+
+#: conversationlist_prim_outside.json:prim_commoner4:2
+msgid "(Lie) Yes, I have come to help your village."
+msgstr "(Mentir) Si, he venido para ayudar a tu pueblo."
+
+#: conversationlist_pwcave.json:sign_waterway1
+msgid ""
+"South: Loneford\n"
+"East: Brimhaven.\n"
+"(You also see something written on an arrow pointing to the west, but you cannot understand the words)"
+msgstr ""
+"Sur: Loneford\n"
+"Este: Brimhaven.\n"
+"(También ves algo escrito junto a una flecha hacia el oeste, pero no puedes entender las palabras)"
+
+#: conversationlist_sign_waterwaycave.json:sign_waterwaycave:0
+msgid "Take the rope."
+msgstr "Toma la cuerda."
+
+#: conversationlist_signs_pre067.json:keyarea_andor1
+msgid "You should talk to Mikhail first."
+msgstr "Debes hablar con Mikhail primero."
+
+#: conversationlist_signs_pre067.json:sign_fallhaven1
+msgid "Welcome to Fallhaven. Watch out for pickpockets!"
+msgstr "Bienvenido a Fallhaven ¡Cuidado con los carteristas!"
+
+#: conversationlist_signs_pre067.json:sign_notdone
+msgid "This map is not yet done. Please come back in a later version of the game."
+msgstr "Este mapa no esta terminado aún. Por favor regresa en una versión posterior del juego."
+
+#: conversationlist_signs_pre067.json:sign_wild1
+msgid ""
+"West: Crossglen\n"
+"South: Fallhaven\n"
+"North: Feygard"
+msgstr ""
+"Oeste: Crossglen\n"
+"Sur: Fallhaven\n"
+"Norte: Feygard"
+
+#: conversationlist_signs_pre067.json:sign_wild10
+msgid ""
+"North: Fallhaven\n"
+"West: Stoutford"
+msgstr ""
+"Norte: Fallhaven\n"
+"Oeste: Stoutford"
+
+#: conversationlist_signs_pre067.json:sign_wild12
+msgid ""
+"North: Fallhaven\n"
+"East: Vilegard\n"
+"East: Nor City"
+msgstr ""
+"Norte: Fallhaven\n"
+"Este: Vilegard\n"
+"Este: Nor City"
+
+#: conversationlist_signs_pre067.json:sign_wild3
+msgid ""
+"West: Crossglen\n"
+"East: Fallhaven\n"
+"North: Feygard"
+msgstr ""
+"Oeste: Crossglen\n"
+"Este: Fallhaven\n"
+"Norte: Feygard"
+
+#: conversationlist_signs_pre067.json:sign_wild6
+msgid ""
+"North: Crossglen\n"
+"East: Fallhaven\n"
+"South: Stoutford"
+msgstr ""
+"Norte: Crossglen\n"
+"Este: Fallhaven\n"
+"Sur: Stoutford"
+
+#: conversationlist_signs_pre067.json:sign_wild7
+msgid ""
+"West: Stoutford\n"
+"North: Fallhaven"
+msgstr ""
+"Oeste: Stoutford\n"
+"Norte: Fallhaven"
+
+#: conversationlist_signs_v0611.json:sign_remgard0
+msgid "Welcome to Lake Laeroth and the city of Remgard!"
+msgstr "¡Bienvenido al Lago Laeroth y la ciudad de Remgard!"
+
+#: conversationlist_signs_v0611.json:sign_waterway11
+msgid ""
+"West: Loneford\n"
+"South: Brightport"
+msgstr ""
+"Oeste: Loneford\n"
+"Sur: Brightport"
+
+#: conversationlist_signs_v0611.json:sign_waterway6
+msgid ""
+"South: Brimhaven\n"
+"West: Loneford\n"
+"East: Brightport, Lake Laeroth"
+msgstr ""
+"Sur: Brimhaven\n"
+"Oeste: Loneford\n"
+"Este: Brightport, Lago Laeroth"
+
+#: conversationlist_signs_v0611.json:sign_waterway9
+msgid ""
+"West: Loneford\n"
+"East: Brightport, Lake Laeroth"
+msgstr ""
+"Oeste: Loneford\n"
+"Este: Brightport, Lago Laeroth"
+
+#: conversationlist_signs_v068.json:foaming_flask_tavern_room
+msgid "You must rent the room before you may enter it."
+msgstr "Debes alquilar la habitación antes de que puedas entrar."
+
+#: conversationlist_signs_v068.json:sign_road1_nw
+msgid ""
+"North: Loneford\n"
+"East: Nor City\n"
+"West: Fallhaven"
+msgstr ""
+"Norte: Loneford\n"
+"Este: Nor City\n"
+"Oeste: Fallhaven"
+
+#: conversationlist_signs_v068.json:sign_road1_s
+msgid ""
+"North: Loneford\n"
+"East: Nor City\n"
+"South: Vilegard"
+msgstr ""
+"Norte: Loneford\n"
+"Este: Nor City\n"
+"Sur: Vilegard"
+
+#: conversationlist_signs_v068.json:sign_road2
+msgid ""
+"East: Nor City\n"
+"West: Vilegard"
+msgstr ""
+"Este: Nor City\n"
+"Oeste: Vilegard"
+
+#: conversationlist_signs_v068.json:sign_vilegard_n
+msgid ""
+"The sign says:\n"
+"Welcome to Vilegard, the friendliest town around."
+msgstr ""
+"El cartel dice:\n"
+"Bienvenido a Vilegard, la ciudad más amigable del mundo."
+
+#: conversationlist_taevinn.json:taevinn
+msgid "Please, you must help us!"
+msgstr "Por favor ¡Debes ayudarnos!"
+
+#: conversationlist_woodcabin.json:pig
+msgid "[grunt]"
+msgstr "[gruñido]"
+
+#: conversationlist_woodcabin.json:smuggler3_1:0
+msgid "Can you hear me?"
+msgstr "¿Puedes oírme?"
+
+#: conversationlist_woodcabin.json:smuggler3_2
+#: conversationlist_woodcabin.json:smuggler5_1
+msgid "[blank stare]"
+msgstr "[mirada en blanco]"
+
+#: conversationlist_woodcabin.json:smuggler3_3:0
+msgid "Can you talk?"
+msgstr "¿Puedes hablar?"
+
 #: conversationlist_wrye.json:wrye_resolved_11
 msgid "Oh my poor boy."
-msgstr "Oh mi pobre niño"
+msgstr "Oh mi pobre niño."
+
+#: conversationlist_wrye.json:wrye_resolved_9
+msgid "And now he is not with us anymore."
+msgstr "Y ahora ya no está con nosotros."
 
 #: itemcategories_1.json:2hsword
 msgid "Two-handed sword"
@@ -75,7 +1160,11 @@ msgstr "Espada de dos manos"
 
 #: itemcategories_1.json:animal
 msgid "Animal part"
-msgstr "Partes de Animales"
+msgstr "Parte de animal"
+
+#: itemcategories_1.json:animal_e
+msgid "Edible animal part"
+msgstr "Parte de animal comestible"
 
 #: itemcategories_1.json:axe
 msgid "Axe"
@@ -97,6 +1186,14 @@ msgstr "Sable"
 msgid "Buckler"
 msgstr "Escudo"
 
+#: itemcategories_1.json:chmail
+msgid "Chain mail"
+msgstr "Cota de mallas"
+
+#: itemcategories_1.json:club
+msgid "Club"
+msgstr "Garrote"
+
 #: itemcategories_1.json:dagger
 msgid "Dagger"
 msgstr "Puñal"
@@ -108,6 +1205,10 @@ msgstr "Bebida"
 #: itemcategories_1.json:flask
 msgid "Liquid container"
 msgstr "Recipiente de líquido"
+
+#: itemcategories_1.json:food
+msgid "Food"
+msgstr "Alimento"
 
 #: itemcategories_1.json:gem
 msgid "Gem"
@@ -133,6 +1234,14 @@ msgstr "Maza"
 msgid "Money"
 msgstr "Dinero"
 
+#: itemcategories_1.json:neck
+msgid "Necklace"
+msgstr "Collar"
+
+#: itemcategories_1.json:other
+msgid "Other"
+msgstr "Otro"
+
 #: itemcategories_1.json:pot
 msgid "Potion"
 msgstr "Poción"
@@ -141,9 +1250,17 @@ msgstr "Poción"
 msgid "Rapier"
 msgstr "Estoque"
 
+#: itemcategories_1.json:ring
+msgid "Ring"
+msgstr "Anillo"
+
+#: itemcategories_1.json:scepter
+msgid "Scepter"
+msgstr "Cetro"
+
 #: itemcategories_1.json:shld_mtl_hv
 msgid "Shield, metal (heavy)"
-msgstr "Escudo de Metal (Pesado)"
+msgstr "Escudo, Metal (pesado)"
 
 #: itemcategories_1.json:shld_mtl_li
 msgid "Shield, metal (light)"
@@ -151,8 +1268,2038 @@ msgstr "Escudo, metal (ligero)"
 
 #: itemcategories_1.json:shld_twr
 msgid "Tower shield"
-msgstr "Torre escudo"
+msgstr "Escudo torre"
+
+#: itemcategories_1.json:shld_wd_hv
+msgid "Shield, wood (heavy)"
+msgstr "Escudo, madera (pesado)"
+
+#: itemcategories_1.json:shld_wd_li
+msgid "Shield, wood (light)"
+msgstr "Escudo, madera (ligero)"
 
 #: itemcategories_1.json:ssword
 msgid "Shortsword"
 msgstr "Espada Corta"
+
+#: itemcategories_1.json:staff itemlist_v070.json:qtrstaff
+msgid "Quarterstaff"
+msgstr "Bastón"
+
+#: itemlist_animal.json:bone
+msgid "Bone"
+msgstr "Hueso"
+
+#: itemlist_animal.json:claws
+msgid "Claws"
+msgstr "Garras"
+
+#: itemlist_animal.json:gland
+msgid "Poison gland"
+msgstr "Glándula de veneno"
+
+#: itemlist_animal.json:hair
+msgid "Animal hair"
+msgstr "Cabello de animal"
+
+#: itemlist_animal.json:insectwing
+msgid "Insect wing"
+msgstr "Ala de insecto"
+
+#: itemlist_animal.json:rat_tail
+msgid "Rat tail"
+msgstr "Cola de rata"
+
+#: itemlist_animal.json:shell
+msgid "Insect shell"
+msgstr "Caparazón de insecto"
+
+#: itemlist_armour.json:boots1
+msgid "Leather boots"
+msgstr "Botas de cuero"
+
+#: itemlist_armour.json:boots2
+msgid "Superior leather boots"
+msgstr "Botas de cuero superiores"
+
+#: itemlist_armour.json:boots3
+msgid "Snakeskin boots"
+msgstr "Botas de piel de serpiente"
+
+#: itemlist_armour.json:boots5
+msgid "Reinforced boots"
+msgstr "Botas reforzadas"
+
+#: itemlist_armour.json:gloves1
+msgid "Leather gloves"
+msgstr "Guantes de cuero"
+
+#: itemlist_armour.json:gloves2
+msgid "Fine leather gloves"
+msgstr "Guantes de cuero finos"
+
+#: itemlist_armour.json:gloves3
+msgid "Snakeskin gloves"
+msgstr "Guantes de piel de serpiente"
+
+#: itemlist_armour.json:gloves4
+msgid "Fine snakeskin gloves"
+msgstr "Guantes de piel de serpiente fina"
+
+#: itemlist_armour.json:hat1
+msgid "Green hat"
+msgstr "Sombrero verde"
+
+#: itemlist_armour.json:hat2
+msgid "Fine green hat"
+msgstr "Sombrero verde fino"
+
+#: itemlist_armour.json:hat3
+msgid "Crude leather cap"
+msgstr "Gorro de cuero crudo"
+
+#: itemlist_armour.json:hat4
+msgid "Leather cap"
+msgstr "Gorro de cuero"
+
+#: itemlist_food.json:apple_green
+msgid "Green apple"
+msgstr "Manzana verde"
+
+#: itemlist_food.json:apple_red
+msgid "Red apple"
+msgstr "Manzana roja"
+
+#: itemlist_food.json:bread
+msgid "Bread"
+msgstr "Pan"
+
+#: itemlist_food.json:carrot
+msgid "Carrot"
+msgstr "Zanahoria"
+
+#: itemlist_food.json:eggs
+msgid "Eggs"
+msgstr "Huevos"
+
+#: itemlist_food.json:meat
+msgid "Meat"
+msgstr "Carne"
+
+#: itemlist_food.json:meat_cooked
+msgid "Cooked meat"
+msgstr "Carne cocida"
+
+#: itemlist_food.json:mushroom
+msgid "Mushroom"
+msgstr "Hongo"
+
+#: itemlist_food.json:pear
+msgid "Pear"
+msgstr "Pera"
+
+#: itemlist_food.json:radish
+msgid "Radish"
+msgstr "Rábano"
+
+#: itemlist_food.json:strawberry
+msgid "Strawberry"
+msgstr "Frutilla"
+
+#: itemlist_junk.json:gem2
+msgid "Ruby gem"
+msgstr "Gema de rubí"
+
+#: itemlist_junk.json:gem3
+msgid "Polished gem"
+msgstr "Gema pulida"
+
+#: itemlist_junk.json:rock
+msgid "Small rock"
+msgstr "Piedra pequeña"
+
+#: itemlist_money.json:gold
+msgid "Gold coins"
+msgstr "Monedas de oro"
+
+#: itemlist_necklaces.json:jewel_fallhaven
+msgid "Jewel of Fallhaven"
+msgstr "Joya de Fallhaven"
+
+#: itemlist_necklaces.json:necklace_shield1
+msgid "Necklace of the guardian"
+msgstr "Collar del guardián"
+
+#: itemlist_necklaces.json:necklace_shield2
+msgid "Shielding necklace"
+msgstr "Collar de blindaje"
+
+#: itemlist_potions.json:bonemeal_potion
+msgid "Bonemeal potion"
+msgstr "Poción de harina de huesos"
+
+#: itemlist_potions.json:health
+msgid "Regular potion of health"
+msgstr "Poción de salud regular"
+
+#: itemlist_potions.json:health_major2
+msgid "Major potion of health"
+msgstr "Poción de salud mayor"
+
+#: itemlist_potions.json:health_minor
+msgid "Minor vial of health"
+msgstr "Frasco de salud menor"
+
+#: itemlist_potions.json:health_minor2
+msgid "Minor potion of health"
+msgstr "Poción de salud menor"
+
+#: itemlist_potions.json:mead
+msgid "Mead"
+msgstr "Aguamiel"
+
+#: itemlist_potions.json:milk
+msgid "Milk"
+msgstr "Leche"
+
+#: itemlist_potions.json:vial_empty1
+msgid "Small empty vial"
+msgstr "Frasco pequeño vacio"
+
+#: itemlist_potions.json:vial_empty2
+msgid "Empty vial"
+msgstr "Frasco vacio"
+
+#: itemlist_potions.json:vial_empty4
+msgid "Empty potion bottle"
+msgstr "Botella de poción vacía"
+
+#: itemlist_pre0610_unused.json:bat_wing itemlist_v070.json:bat_wing
+msgid "Bat wing"
+msgstr "Ala de murciélago"
+
+#: itemlist_pre0610_unused.json:clay
+msgid "Lump of clay"
+msgstr "Terrón de arcilla"
+
+#: itemlist_pre0610_unused.json:eye
+msgid "Eye"
+msgstr "Ojo"
+
+#: itemlist_pre0610_unused.json:feather
+msgid "Feather"
+msgstr "Pluma"
+
+#: itemlist_pre0610_unused.json:gem6
+msgid "Shimmering gem"
+msgstr "Gema reluciente"
+
+#: itemlist_pre0610_unused.json:gem8
+msgid "Brilliant gem"
+msgstr "Gema brillante"
+
+#: itemlist_pre0610_unused.json:red_feather
+msgid "Red feather"
+msgstr "Pluma roja"
+
+#: itemlist_quest.json:boots_unzel
+msgid "Unzel's defensive boots"
+msgstr "Botas defensivas de Unzel"
+
+#: itemlist_quest.json:boots_vacor
+msgid "Vacor's boots of attack"
+msgstr "Botas de ataque de Vacor"
+
+#: itemlist_quest.json:dagger_venom
+msgid "Venomous Dagger"
+msgstr "Daga venenosa"
+
+#: itemlist_quest.json:key_luthor questlist.json:bucus
+msgid "Key of Luthor"
+msgstr "Llave de Luthor"
+
+#: itemlist_quest.json:neck_irogotu
+msgid "Irogotu's necklace"
+msgstr "Collar de Irogotu"
+
+#: itemlist_quest.json:ring_gandir
+msgid "Gandir's ring"
+msgstr "Anillo de Gandir"
+
+#: itemlist_quest.json:ring_mikhail
+msgid "Mikhail's ring"
+msgstr "Anillo de Mikhail"
+
+#: itemlist_quest.json:ring_unzel
+msgid "Unzel's ring"
+msgstr "Anillo de Unzel"
+
+#: itemlist_quest.json:ring_vacor
+msgid "Vacor's ring"
+msgstr "Anillo de Vacor"
+
+#: itemlist_quest.json:sword_flagstone
+msgid "Flagstone's pride"
+msgstr "Orgullo de Flagstone"
+
+#: itemlist_quest.json:tail_caverat
+msgid "Cave rat tail"
+msgstr "Cola de rata de cueva"
+
+#: itemlist_quest.json:tail_trainingrat
+msgid "Small rat tail"
+msgstr "Cola de rata pequeña"
+
+#: itemlist_rings.json:ring1
+msgid "Mundane ring"
+msgstr "Anillo mundano"
+
+#: itemlist_rings.json:ring2
+msgid "Polished ring"
+msgstr "Anillo pulido"
+
+#: itemlist_rings.json:ring_block1
+msgid "Lesser ring of block"
+msgstr "Anillo de bloqueo menor"
+
+#: itemlist_rings.json:ring_block2
+msgid "Polished ring of block"
+msgstr "Anillo de bloqueo pulido"
+
+#: itemlist_rings.json:ring_dmg1
+msgid "Ring of damage +1"
+msgstr "Anillo de daño +1"
+
+#: itemlist_rings.json:ring_dmg2
+msgid "Ring of damage +2"
+msgstr "Anillo de daño +2"
+
+#: itemlist_rings.json:ring_dmg5
+msgid "Ring of damage +5"
+msgstr "Anillo de daño +5"
+
+#: itemlist_rings.json:ring_dmg6
+msgid "Ring of damage +6"
+msgstr "Anillo de daño +6"
+
+#: itemlist_v0610_1.json:armour_rigid_chain
+msgid "Rigid chain mail"
+msgstr "Cota de mallas rígida"
+
+#: itemlist_v0610_1.json:armour_superior_chain
+msgid "Superior chain mail"
+msgstr "Cota de mallas superior"
+
+#: itemlist_v0610_1.json:axe_fine_iron
+msgid "Fine iron axe"
+msgstr "Hacha de hierro fino"
+
+#: itemlist_v0610_1.json:boots_crude_leather
+msgid "Crude leather boots"
+msgstr "Botas de cuero crudo"
+
+#: itemlist_v0610_1.json:boots_hard_leather
+msgid "Hardened leather boots"
+msgstr "Botas de cuero endurecido"
+
+#: itemlist_v0610_1.json:broadsword_fine_iron
+msgid "Fine iron broadsword"
+msgstr "Sable de hierro fino"
+
+#: itemlist_v0610_1.json:broadsword_fine_steel
+msgid "Fine steel broadsword"
+msgstr "Sable de acero fino"
+
+#: itemlist_v0610_1.json:club_brutal
+msgid "Brutal club"
+msgstr "Garrote brutal"
+
+#: itemlist_v0610_1.json:club_fine_wooden
+msgid "Fine wooden club"
+msgstr "Garrote de madera fino"
+
+#: itemlist_v0610_1.json:dagger_shadow_priests
+msgid "Dagger of the Shadow priests"
+msgstr "Daga de los sacerdotes de la Sombra"
+
+#: itemlist_v0610_1.json:dagger_sharp_steel
+msgid "Sharp steel dagger"
+msgstr "Daga de acero afilada"
+
+#: itemlist_v0610_1.json:gloves_crude_leather
+msgid "Crude leather gloves"
+msgstr "Guantes de cuero crudo"
+
+#: itemlist_v0610_1.json:gloves_leather_attack
+msgid "Leather gloves of attack"
+msgstr "Guantes de cuero de ataque"
+
+#: itemlist_v0610_1.json:gloves_woodcutter
+msgid "Woodcutter's gloves"
+msgstr "Guantes de leñador"
+
+#: itemlist_v0610_1.json:hat_fine_leather
+msgid "Fine leather cap"
+msgstr "Gorro de cuero fino"
+
+#: itemlist_v0610_1.json:hat_hard_leather
+msgid "Hardened leather cap"
+msgstr "Gorro de cuero endurecido"
+
+#: itemlist_v0610_1.json:hat_leather_vision
+msgid "Leather cap of reduced vision"
+msgstr "Gorro de cuero de visión reducida"
+
+#: itemlist_v0610_1.json:longsword_hard_iron
+msgid "Hardened iron longsword"
+msgstr "Espada larga de hierro endurecido"
+
+#: itemlist_v0610_1.json:necklace_protector
+msgid "Necklace of the protector"
+msgstr "Collar del protector"
+
+#: itemlist_v0610_1.json:ring_crude_block
+msgid "Crude ring of block"
+msgstr "Anillo de bloqueo crudo"
+
+#: itemlist_v0610_1.json:ring_crude_combat
+msgid "Crude combat ring"
+msgstr "Anillo de combate crudo"
+
+#: itemlist_v0610_1.json:ring_dmg_3
+msgid "Ring of damage +3"
+msgstr "Anillo de daño +3"
+
+#: itemlist_v0610_1.json:ring_dmg_4
+msgid "Ring of damage +4"
+msgstr "Anillo de daño +4"
+
+#: itemlist_v0610_1.json:ring_guardian
+msgid "Ring of the guardian"
+msgstr "Anillo del guardián"
+
+#: itemlist_v0610_1.json:ring_polished_combat
+msgid "Polished combat ring"
+msgstr "Anillo de combate pulido"
+
+#: itemlist_v0610_1.json:ring_protector
+msgid "Ring of the protector"
+msgstr "Anillo del protector"
+
+#: itemlist_v0610_1.json:shield_wooden
+msgid "Wooden shield"
+msgstr "Escudo de madera"
+
+#: itemlist_v0610_1.json:sword_balanced_steel
+msgid "Balanced steel sword"
+msgstr "Espada de acero balanceada"
+
+#: itemlist_v0610_1.json:sword_hard_iron
+msgid "Hardened iron sword"
+msgstr "Espada de hierro endurecido"
+
+#: itemlist_v0610_2.json:erinith_book
+msgid "Erinith's book"
+msgstr "Libro de Erinith"
+
+#: itemlist_v0610_2.json:fg_ironsword
+msgid "Feygard iron sword"
+msgstr "Espada de hierro de Feygard"
+
+#: itemlist_v0610_2.json:fg_ironsword_d
+msgid "Degraded Feygard iron sword"
+msgstr "Espada de hierro de Feygard degradada"
+
+#: itemlist_v0610_2.json:hadracor_waspwing
+msgid "Giant wasp wing"
+msgstr "Ala de avispa gigante"
+
+#: itemlist_v0610_2.json:izthiel_claw
+msgid "Izthiel claw"
+msgstr "Garra de Izthiel"
+
+#: itemlist_v0610_2.json:tinlyn_bells
+msgid "Tinlyn's sheep bell"
+msgstr "Campana de la oveja de Tinlyn"
+
+#: itemlist_v0610_2.json:tinlyn_sheep_meat
+msgid "Meat from Tinlyn's sheep"
+msgstr "Carne de la oveja de Tinlyn"
+
+#: itemlist_v0611_1.json:boots_combat1
+msgid "Combat boots"
+msgstr "Botas de combate"
+
+#: itemlist_v0611_1.json:boots_combat2
+msgid "Enhanced combat boots"
+msgstr "Botas de combate mejoradas"
+
+#: itemlist_v0611_1.json:boots_remgard1
+msgid "Remgard boots"
+msgstr "Botas de Remgard"
+
+#: itemlist_v0611_1.json:gloves_arulir
+msgid "Arulir skin gloves"
+msgstr "Guantes de piel de Arulir"
+
+#: itemlist_v0611_1.json:gloves_combat1
+msgid "Combat gloves"
+msgstr "Guantes de combate"
+
+#: itemlist_v0611_1.json:gloves_combat2
+msgid "Enhanced combat gloves"
+msgstr "Guantes de combate mejorados"
+
+#: itemlist_v0611_1.json:gloves_guard1
+msgid "Gloves of the guardian"
+msgstr "Guantes del guardián"
+
+#: itemlist_v0611_1.json:gloves_leather1
+msgid "Hardened leather gloves"
+msgstr "Guantes de cuero endurecido"
+
+#: itemlist_v0611_1.json:helm_protector
+msgid "Dark protector"
+msgstr "Protector oscuro"
+
+#: itemlist_v0611_2.json:arulir_skin
+msgid "Arulir skin"
+msgstr "Piel de Arulir"
+
+#: itemlist_v0611_2.json:irdegh
+msgid "Irdegh poison gland"
+msgstr "Glándula venenosa de Irdegh"
+
+#: itemlist_v0611_2.json:spider
+msgid "Dead spider"
+msgstr "Araña muerta"
+
+#: itemlist_v0611_2.json:toszylae_heart
+msgid "Demon heart"
+msgstr "Corazón de demonio"
+
+#: itemlist_v0611_3.json:algangror_idol
+msgid "Small idol"
+msgstr "Ídolo pequeño"
+
+#: itemlist_v0611_3.json:algangror_ring
+msgid "Algangror's ring"
+msgstr "Anillo de Algangror"
+
+#: itemlist_v0611_3.json:kaverin_message
+msgid "Kaverin's sealed message"
+msgstr "Mensaje sellado de Kaverin"
+
+#: itemlist_v068.json:armor_chain1
+msgid "Rusty chain mail"
+msgstr "Cota de mallas oxidada"
+
+#: itemlist_v068.json:armor_chain2
+msgid "Ordinary chain mail"
+msgstr "Cota de mallas ordinaria"
+
+#: itemlist_v068.json:club_wood1
+msgid "Heavy iron club"
+msgstr "Garrote de hierro pesado"
+
+#: itemlist_v068.json:club_wood2
+msgid "Balanced heavy iron club"
+msgstr "Garrote de hierro pesado balanceado"
+
+#: itemlist_v068.json:gloves_fancy
+msgid "Fancy gloves"
+msgstr "Guantes lujosos"
+
+#: itemlist_v068.json:gloves_grip
+msgid "Gloves of better grip"
+msgstr "Guantes de agarre mejorado"
+
+#: itemlist_v068.json:hat_leather1
+msgid "Ordinary leather cap"
+msgstr "Gorro de cuero ordinario"
+
+#: itemlist_v068.json:ring_crit1
+msgid "Ring of strike"
+msgstr "Anillo de golpe"
+
+#: itemlist_v068.json:ring_crit2
+msgid "Ring of vicious strike"
+msgstr "Anillo de golpe sanguinario"
+
+#: itemlist_v068.json:shield6
+msgid "Wooden tower shield"
+msgstr "Escudo torre de madera"
+
+#: itemlist_v068.json:shield7
+msgid "Strong wooden tower shield"
+msgstr "Escudo torre de madera fuerte"
+
+#: itemlist_v069.json:bwm_brew
+msgid "Blackwater brew"
+msgstr "Brebaje de Aguasnegras"
+
+#: itemlist_v069.json:bwm_combat_ring
+msgid "Blackwater ring of combat"
+msgstr "Anillo de combate de Aguasnegras"
+
+#: itemlist_v069.json:bwm_dagger
+msgid "Blackwater dagger"
+msgstr "Daga de Aguasnegras"
+
+#: itemlist_v069.json:bwm_dagger_venom
+msgid "Blackwater poisoned dagger"
+msgstr "Daga envenenada de Aguasnegras"
+
+#: itemlist_v069.json:bwm_ironsword
+msgid "Blackwater iron sword"
+msgstr "Espada de hierro de Aguasnegras"
+
+#: itemlist_v069.json:bwm_leather_armour
+msgid "Blackwater leather armour"
+msgstr "Armadura de cuero de Aguasnegras"
+
+#: itemlist_v069.json:bwm_leather_cap
+msgid "Blackwater leather cap"
+msgstr "Gorra de cuero de Aguasnegras"
+
+#: itemlist_v069.json:dagger_barbed
+msgid "Barbed dagger"
+msgstr "Daga mordaz"
+
+#: itemlist_v069.json:heavy_club
+msgid "Heavy club"
+msgstr "Garrote pesado"
+
+#: itemlist_v069.json:pot_poison_weak
+msgid "Weak poison"
+msgstr "Veneno débil"
+
+#: itemlist_v069.json:pot_poison_weak_antidote
+msgid "Weak poison antidote"
+msgstr "Antídoto a veneno débil"
+
+#: itemlist_v069.json:pot_speed_1
+msgid "Minor potion of speed"
+msgstr "Poción de velocidad menor"
+
+#: itemlist_v069.json:woodcutter_boots
+msgid "Woodcutter's boots"
+msgstr "Botas de leñador"
+
+#: itemlist_v069.json:woodcutter_hatchet
+msgid "Woodcutter's hatchet"
+msgstr "Hacha pequeña de leñador"
+
+#: itemlist_v069_2.json:rusted_iron_sword
+msgid "Rusted iron sword"
+msgstr "Espada de hierro oxidada"
+
+#: itemlist_v069_2.json:used_gloves
+msgid "Blood-stained gloves"
+msgstr "Guantes manchados de sangre"
+
+#: itemlist_v069_questitems.json:bjorgur_dagger
+msgid "Bjorgur's family dagger"
+msgstr "Daga de la familia Bjorgur"
+
+#: itemlist_v069_questitems.json:guthbered_id
+msgid "Guthbered's ring"
+msgstr "Anillo de Guthbered"
+
+#: itemlist_v069_questitems.json:harlenn_id
+msgid "Harlenn's ring"
+msgstr "Anillo de Harlenn"
+
+#: itemlist_v070.json:antifoodp
+msgid "Antidote"
+msgstr "Antídoto"
+
+#: itemlist_v070.json:axe_black1
+msgid "Black axe"
+msgstr "Hacha negra"
+
+#: itemlist_v070.json:axe_black2
+msgid "Reinforced black axe"
+msgstr "Hacha negra reforzada"
+
+#: itemlist_v070.json:axe_fear
+msgid "Axe of fear"
+msgstr "Hacha del miedo"
+
+#: itemlist_v070.json:axe_lightblack
+msgid "Light black axe"
+msgstr "Hacha negra liviana"
+
+#: itemlist_v070.json:axe_whirl
+msgid "Axe of whirlwind"
+msgstr "Hacha de torbellino"
+
+#: itemlist_v070.json:carrots
+msgid "Carrots"
+msgstr "Zanahorias"
+
+#: itemlist_v070.json:cheese
+msgid "Cheese"
+msgstr "Queso"
+
+#: itemlist_v070.json:chkn_leg
+msgid "Cooked chicken leg"
+msgstr "Pata de pollo cocida"
+
+#: itemlist_v070.json:chmail2
+msgid "Worn chainmail"
+msgstr "Cota de mallas desgastada"
+
+#: itemlist_v070.json:clmr_dl
+msgid "Dull two-handed sword"
+msgstr "Espada de dos manos desafilada"
+
+#: itemlist_v070.json:clmr_irn1
+msgid "Two-handed iron sword"
+msgstr "Espada de dos manos de hierro"
+
+#: itemlist_v070.json:clmr_msv
+msgid "Massive two-handed sword"
+msgstr "Espada de dos manos enorme"
+
+#: itemlist_v070.json:clmr_stl
+msgid "Two-handed steel sword"
+msgstr "Espada de dos manos de acero"
+
+#: itemlist_v070.json:cookperch
+msgid "Cooked perch"
+msgstr "Perca cocida"
+
+#: itemlist_v070.json:daggr_curv
+msgid "Curved dagger"
+msgstr "Daga curva"
+
+#: itemlist_v070.json:drink_applej
+msgid "Apple juice"
+msgstr "Jugo de manzana"
+
+#: itemlist_v070.json:drink_lowyn3
+msgid "Lowyna's rat poison"
+msgstr "Veneno para ratas de Lowyna"
+
+#: itemlist_v070.json:graxe_black
+msgid "Black greataxe"
+msgstr "Gran hacha negra"
+
+#: itemlist_v070.json:graxe_fury
+msgid "Greataxe of fury"
+msgstr "Gran hacha de furia"
+
+#: itemlist_v070.json:graxe_massive
+msgid "Massive greataxe"
+msgstr "Gran hacha enorme"
+
+#: itemlist_v070.json:hboot_irn
+msgid "Heavy iron boots"
+msgstr "Botas de hierro pesadas"
+
+#: itemlist_v070.json:hboot_wirn
+msgid "Worn iron boots"
+msgstr "Botas de hierro desgastadas"
+
+#: itemlist_v070.json:hglv_irn
+msgid "Heavy iron gloves"
+msgstr "Guantes de hiero pesados"
+
+#: itemlist_v070.json:hglv_stl
+msgid "Reinforced steel gloves"
+msgstr "Guantes de acero reforzados"
+
+#: itemlist_v070.json:hmr_iron
+msgid "Iron warhammer"
+msgstr "Martillo de guerra de hierro"
+
+#: itemlist_v070.json:hmr_olwyns
+msgid "Olwyn's curse"
+msgstr "Maldición de Olwyn"
+
+#: itemlist_v070.json:junk_necklace0
+msgid "Mundane necklace"
+msgstr "Collar mundano"
+
+#: itemlist_v070.json:junk_necklace1
+msgid "Polished necklace"
+msgstr "Collar pulido"
+
+#: itemlist_v070.json:ltbdy_chmail
+msgid "Lightweight chainmail"
+msgstr "Cota de mallas liviana"
+
+#: itemlist_v070.json:mace_iron
+msgid "Iron mace"
+msgstr "Mazo de hierro"
+
+#: itemlist_v070.json:pot_barkskin
+msgid "Potion of bark skin"
+msgstr "Poción de piel de corteza"
+
+#: itemlist_v070.json:pot_bm_lodar
+msgid "Lodar's bonemeal potion"
+msgstr "Poción de harina de huesos de Lodar"
+
+#: itemlist_v070.json:pot_def
+msgid "Potion of improved defense"
+msgstr "Poción de defensa mejorada"
+
+#: itemlist_v070.json:pot_haste
+msgid "Potion of haste"
+msgstr "Poción de odio"
+
+#: itemlist_v070.json:pot_healthlodar
+msgid "Lodar's potion of health"
+msgstr "Poción de salud de Lodar"
+
+#: itemlist_v070.json:pot_regen1
+msgid "Potion of minor regeneration"
+msgstr "Poción de regeneración menor"
+
+#: itemlist_v070.json:pot_str
+msgid "Minor potion of strength"
+msgstr "Poción de fuerza menor"
+
+#: itemlist_v070.json:rawperch
+msgid "Raw perch"
+msgstr "Perca cruda"
+
+#: itemlist_v070.json:venomscale
+msgid "Venomscale scales"
+msgstr "Escamas de serpiente venenosa"
+
+#: itemlist_v070.json:vscale_amul
+msgid "Venomscale amulet"
+msgstr "Amuleto de serpientes venenosas"
+
+#: itemlist_v070.json:xulviir
+msgid "Xul'viir"
+msgstr "Xul'viir"
+
+#: itemlist_v070_questitems.json:hirazinn
+msgid "Heart of the Hira'zinn"
+msgstr "Corazón de Hira'zinn"
+
+#: itemlist_v070_questitems.json:lleglaris
+msgid "Lleglaris' amulet"
+msgstr "Amuleto de Lleglari"
+
+#: itemlist_v070_questitems.json:lodar_letter
+msgid "Lodar's letter"
+msgstr "Carta de Lodar"
+
+#: itemlist_v070_questitems.json:tiqui
+msgid "Tiqui's shield"
+msgstr "Escudo de Tiqui"
+
+#: itemlist_v070_questitems.json:xulviir0
+msgid "Broken sword"
+msgstr "Espada rota"
+
+#: itemlist_weapons.json:axe1
+msgid "Woodcutter axe"
+msgstr "Hacha de leñador"
+
+#: itemlist_weapons.json:axe2
+msgid "Iron axe"
+msgstr "Hacha de hierro"
+
+#: itemlist_weapons.json:broadsword1
+msgid "Iron broadsword"
+msgstr "Sable de hierro"
+
+#: itemlist_weapons.json:broadsword2
+msgid "Steel broadsword"
+msgstr "Sable de acero"
+
+#: itemlist_weapons.json:club1
+msgid "Wooden club"
+msgstr "Garrote de madera"
+
+#: itemlist_weapons.json:club3
+msgid "Iron club"
+msgstr "Garrote de hierro"
+
+#: itemlist_weapons.json:dagger0
+msgid "Iron dagger"
+msgstr "Daga de hierro"
+
+#: itemlist_weapons.json:dagger1
+msgid "Sharp iron dagger"
+msgstr "Daga de hierro afilada"
+
+#: itemlist_weapons.json:dagger2
+msgid "Superior iron dagger"
+msgstr "Daga de hierro superior"
+
+#: itemlist_weapons.json:hammer0
+msgid "Iron hammer"
+msgstr "Martillo de hierro"
+
+#: itemlist_weapons.json:ironsword0
+msgid "Crude iron sword"
+msgstr "Espada de hierro crudo"
+
+#: itemlist_weapons.json:ironsword1
+msgid "Iron sword"
+msgstr "Espada de hierro"
+
+#: itemlist_weapons.json:ironsword2
+msgid "Iron longsword"
+msgstr "Espada larga de hierro"
+
+#: itemlist_weapons.json:shortsword1
+msgid "Iron shortsword"
+msgstr "Espada corta de hierro"
+
+#: itemlist_weapons.json:steelsword1
+msgid "Steel sword"
+msgstr "Espada de acero"
+
+#: monsterlist_crossglen_animals.json:basilisk
+msgid "Basilisk"
+msgstr "Basilisco"
+
+#: monsterlist_crossglen_animals.json:beetle
+msgid "Beetle"
+msgstr "Escarabajo"
+
+#: monsterlist_crossglen_animals.json:black_ant
+msgid "Black ant"
+msgstr "Hormiga negra"
+
+#: monsterlist_crossglen_animals.json:cave_rat
+#: monsterlist_v069_monsters.json:puny_caverat
+msgid "Cave rat"
+msgstr "Rata de cueva"
+
+#: monsterlist_crossglen_animals.json:cave_snake
+msgid "Cave Snake"
+msgstr "Serpiente de cueva"
+
+#: monsterlist_crossglen_animals.json:forest_ant
+msgid "Forest ant"
+msgstr "Hormiga del bosque"
+
+#: monsterlist_crossglen_animals.json:forest_snake
+msgid "Forest Snake"
+msgstr "Serpiente del bosque"
+
+#: monsterlist_crossglen_animals.json:forest_wasp
+msgid "Forest wasp"
+msgstr "Avispa del bosque"
+
+#: monsterlist_crossglen_animals.json:irogotu
+msgid "Irogotu"
+msgstr "Irogotu"
+
+#: monsterlist_crossglen_animals.json:rabid_boar
+msgid "Rabid Boar"
+msgstr "Cerdo rabioso"
+
+#: monsterlist_crossglen_animals.json:rabid_fox
+msgid "Rabid Fox"
+msgstr "Zorro rabioso"
+
+#: monsterlist_crossglen_animals.json:small_rabid_dog
+msgid "Small rabid dog"
+msgstr "Perro rabioso pequeño"
+
+#: monsterlist_crossglen_animals.json:small_wasp
+msgid "Small wasp"
+msgstr "Avispa pequeña"
+
+#: monsterlist_crossglen_animals.json:snake_master
+msgid "Snake master"
+msgstr "Maestro de las serpientes"
+
+#: monsterlist_crossglen_animals.json:snake_servant
+msgid "Snake servant"
+msgstr "Sirviente de las serpientes"
+
+#: monsterlist_crossglen_animals.json:strong_cave_rat
+msgid "Strong cave rat"
+msgstr "Rata de cueva fuerte"
+
+#: monsterlist_crossglen_animals.json:strong_minotaur
+msgid "Strong minotaur"
+msgstr "Minotauro fuerte"
+
+#: monsterlist_crossglen_animals.json:tiny_rat
+msgid "Tiny rat"
+msgstr "Rata diminuta"
+
+#: monsterlist_crossglen_animals.json:tough_cave_rat
+msgid "Tough cave rat"
+msgstr "Rata de cueva dura"
+
+#: monsterlist_crossglen_animals.json:tough_cave_snake
+msgid "Tough Cave Snake"
+msgstr "Serpiente de cueva dura"
+
+#: monsterlist_crossglen_animals.json:venomous_cave_snake
+msgid "Venomous Cave Snake"
+msgstr "Serpiente de cueva venenosa"
+
+#: monsterlist_crossglen_animals.json:yellow_cave_ant
+msgid "Yellow cave ant"
+msgstr "Hormiga de cueva amarilla"
+
+#: monsterlist_crossglen_animals.json:yellow_forest_ant
+msgid "Yellow forest ant"
+msgstr "Hormiga del bosque amarilla"
+
+#: monsterlist_crossglen_animals.json:young_cave_snake
+msgid "Young Cave Snake"
+msgstr "Serpiente de cueva joven"
+
+#: monsterlist_crossglen_animals.json:young_minotaur
+msgid "Young minotaur"
+msgstr "Minotauro joven"
+
+#: monsterlist_crossglen_npcs.json:arambold
+msgid "Arambold"
+msgstr "Arambold"
+
+#: monsterlist_crossglen_npcs.json:drunk
+msgid "Drunk"
+msgstr "Borracho"
+
+#: monsterlist_crossglen_npcs.json:farmer
+#: monsterlist_v0610_npcs1.json:loneford_farmer0
+#: monsterlist_v0611_npcs2.json:remgard_farmer1
+#: monsterlist_v0611_npcs2.json:remgard_farmer2
+msgid "Farmer"
+msgstr "Granjero"
+
+#: monsterlist_crossglen_npcs.json:gruil
+msgid "Gruil"
+msgstr "Gruil"
+
+#: monsterlist_crossglen_npcs.json:jan
+msgid "Jan"
+msgstr "Jan"
+
+#: monsterlist_crossglen_npcs.json:leonid
+msgid "Leonid"
+msgstr "Leonid"
+
+#: monsterlist_crossglen_npcs.json:leta
+msgid "Leta"
+msgstr "Leta"
+
+#: monsterlist_crossglen_npcs.json:mara
+msgid "Mara"
+msgstr "Mara"
+
+#: monsterlist_crossglen_npcs.json:mikhail
+msgid "Mikhail"
+msgstr "Mikhail"
+
+#: monsterlist_crossglen_npcs.json:odair
+msgid "Odair"
+msgstr "Odair"
+
+#: monsterlist_crossglen_npcs.json:oromir
+msgid "Oromir"
+msgstr "Oromir"
+
+#: monsterlist_crossglen_npcs.json:tharal
+msgid "Tharal"
+msgstr "Tharal"
+
+#: monsterlist_crossglen_npcs.json:tired_farmer
+msgid "Tired farmer"
+msgstr "Granjero cansado"
+
+#: monsterlist_fallhaven_animals.json:apparition
+msgid "Apparition"
+msgstr "Aparición"
+
+#: monsterlist_fallhaven_animals.json:catacomb_rat
+msgid "Catacomb rat"
+msgstr "Rata de las catacumbas"
+
+#: monsterlist_fallhaven_animals.json:large_catacomb_rat
+msgid "Large catacomb rat"
+msgstr "Rata de las catacumbas grande"
+
+#: monsterlist_fallhaven_animals.json:young_gargoyle
+msgid "Young gargoyle"
+msgstr "Gárgola joven"
+
+#: monsterlist_fallhaven_npcs.json:acolyte
+msgid "Acolyte"
+msgstr "Acólito"
+
+#: monsterlist_fallhaven_npcs.json:athamyr
+msgid "Athamyr"
+msgstr "Athamyr"
+
+#: monsterlist_fallhaven_npcs.json:bearded_citizen
+msgid "Bearded Citizen"
+msgstr "Ciudadano barbudo"
+
+#: monsterlist_fallhaven_npcs.json:blond_citizen
+msgid "Blond Citizen"
+msgstr "Ciudadano rubio"
+
+#: monsterlist_fallhaven_npcs.json:busy_farmer
+msgid "Busy Farmer"
+msgstr "Granjero ocupado"
+
+#: monsterlist_fallhaven_npcs.json:citizen
+msgid "Citizen"
+msgstr "Ciudadano"
+
+#: monsterlist_fallhaven_npcs.json:drunkard
+msgid "Drunkard"
+msgstr "Borracho"
+
+#: monsterlist_fallhaven_npcs.json:ganos
+msgid "Ganos"
+msgstr "Ganos"
+
+#: monsterlist_fallhaven_npcs.json:grumpy_citizen
+msgid "Grumpy Citizen"
+msgstr "Ciudadano malhumorado"
+
+#: monsterlist_fallhaven_npcs.json:guard
+#: monsterlist_v0610_npcs1.json:crossroads_backguard
+#: monsterlist_v0610_npcs1.json:crossroads_guard
+#: monsterlist_v0610_npcs1.json:crossroads_sleepguard
+#: monsterlist_v0610_npcs1.json:loneford_guard0
+#: monsterlist_v0610_npcs1.json:loneford_wellguard
+#: monsterlist_v0611_npcs2.json:remgard_g1
+#: monsterlist_v0611_npcs2.json:remgard_g2
+#: monsterlist_v0611_npcs2.json:remgard_g3
+#: monsterlist_v070_npcs.json:charwd_guard
+msgid "Guard"
+msgstr "Guardia"
+
+#: monsterlist_fallhaven_npcs.json:jakrar
+msgid "Jakrar"
+msgstr "Jakrar"
+
+#: monsterlist_fallhaven_npcs.json:khorand
+msgid "Khorand"
+msgstr "Khorand"
+
+#: monsterlist_fallhaven_npcs.json:old_citizen
+msgid "Old Citizen"
+msgstr "Ciudadano anciano"
+
+#: monsterlist_fallhaven_npcs.json:old_farmer
+msgid "Old Farmer"
+msgstr "Granjero anciano"
+
+#: monsterlist_fallhaven_npcs.json:old_man
+msgid "Old man"
+msgstr "Anciano"
+
+#: monsterlist_fallhaven_npcs.json:potion_merchant
+msgid "Potion merchant"
+msgstr "Mercader de pociones"
+
+#: monsterlist_fallhaven_npcs.json:prisoner
+msgid "Prisoner"
+msgstr "Prisionero"
+
+#: monsterlist_fallhaven_npcs.json:rigmor
+msgid "Rigmor"
+msgstr "Rigmor"
+
+#: monsterlist_fallhaven_npcs.json:thoronir
+msgid "Thoronir"
+msgstr "Thoronir"
+
+#: monsterlist_fallhaven_npcs.json:tired_citizen
+msgid "Tired Citizen"
+msgstr "Ciudadano cansado"
+
+#: monsterlist_fallhaven_npcs.json:unnmir
+msgid "Unnmir"
+msgstr "Unnmir"
+
+#: monsterlist_fallhaven_npcs.json:unzel
+msgid "Unzel"
+msgstr "Unzel"
+
+#: monsterlist_v0610_monsters1.json:crossroads_rat
+#: monsterlist_v070_lodarmaze.json:vermin0
+#: monsterlist_v070_lodarmaze.json:vermin1
+msgid "Rat"
+msgstr "Rata"
+
+#: monsterlist_v0610_monsters1.json:frog_1
+msgid "River frog"
+msgstr "Rana de río"
+
+#: monsterlist_v0610_monsters1.json:frog_2
+msgid "Tough river frog"
+msgstr "Rana de río dura"
+
+#: monsterlist_v0610_monsters1.json:frog_3
+msgid "Poisonous river frog"
+msgstr "Rana de río venenosa"
+
+#: monsterlist_v0610_monsters1.json:grass_ant
+msgid "Grasslands ant"
+msgstr "Hormiga de la pradera"
+
+#: monsterlist_v0610_monsters1.json:grass_ant2
+msgid "Tough grasslands ant"
+msgstr "Hormiga de la pradera dura"
+
+#: monsterlist_v0610_monsters1.json:grass_beetle
+msgid "Grasslands beetle"
+msgstr "Escarabajo de la pradera"
+
+#: monsterlist_v0610_monsters1.json:grass_beetle2
+msgid "Tough grasslands beetle"
+msgstr "Escarabajo de la pradera duro"
+
+#: monsterlist_v0610_monsters1.json:grass_lizard
+msgid "Grasslands lizard"
+msgstr "Lagarto de la pradera"
+
+#: monsterlist_v0610_monsters1.json:grass_lizard2
+msgid "Black grasslands lizard"
+msgstr "Lagarto de la pradera negro"
+
+#: monsterlist_v0610_monsters1.json:grass_snake
+msgid "Grasslands snake"
+msgstr "Serpiente de la pradera"
+
+#: monsterlist_v0610_monsters1.json:grass_snake2
+msgid "Tough grasslands snake"
+msgstr "Serpiente de la pradera dura"
+
+#: monsterlist_v0610_monsters1.json:izthiel_1
+msgid "Young Izthiel"
+msgstr "Izthiel joven"
+
+#: monsterlist_v0610_monsters1.json:izthiel_2
+msgid "Izthiel"
+msgstr "Izthiel"
+
+#: monsterlist_v0610_monsters1.json:izthiel_3
+msgid "Strong Izthiel"
+msgstr "Izthiel fuerte"
+
+#: monsterlist_v0610_monsters1.json:izthiel_4
+#: monsterlist_v0611_npcs2.json:izthiel_cr
+msgid "Izthiel Guardian"
+msgstr "Ithiel guardián"
+
+#: monsterlist_v0610_monsters1.json:keknazar
+msgid "Keknazar"
+msgstr "Keknazar"
+
+#: monsterlist_v0610_npcs1.json:ailshara
+msgid "Ailshara"
+msgstr "Ailshara"
+
+#: monsterlist_v0610_npcs1.json:arngyr
+msgid "Arngyr"
+msgstr "Arngyr"
+
+#: monsterlist_v0610_npcs1.json:benbyr
+msgid "Benbyr"
+msgstr "Benbyr"
+
+#: monsterlist_v0610_npcs1.json:erinith
+msgid "Erinith"
+msgstr "Erinith"
+
+#: monsterlist_v0610_npcs1.json:gallain
+msgid "Gallain"
+msgstr "Gallian"
+
+#: monsterlist_v0610_npcs1.json:grimion
+msgid "Grimion"
+msgstr "Grimion"
+
+#: monsterlist_v0610_npcs1.json:kuldan
+msgid "Kuldan"
+msgstr "Kuldan"
+
+#: monsterlist_v0610_npcs1.json:kuldan_guard
+msgid "Kuldan's Guard"
+msgstr "Guardia de Kuldan"
+
+#: monsterlist_v0610_npcs1.json:landa
+msgid "Landa"
+msgstr "Landa"
+
+#: monsterlist_v0610_npcs1.json:loneford_villager0
+#: monsterlist_v0610_npcs1.json:loneford_villager1
+#: monsterlist_v0610_npcs1.json:loneford_villager2
+#: monsterlist_v0610_npcs1.json:loneford_villager3
+#: monsterlist_v0610_npcs1.json:loneford_villager4
+msgid "Villager"
+msgstr "Aldeano"
+
+#: monsterlist_v0610_npcs1.json:lostsheep1
+#: monsterlist_v0610_npcs1.json:lostsheep2
+#: monsterlist_v0610_npcs1.json:lostsheep3
+#: monsterlist_v0610_npcs1.json:lostsheep4 monsterlist_v0610_npcs1.json:sheep1
+msgid "Sheep"
+msgstr "Oveja"
+
+#: monsterlist_v0610_npcs1.json:mienn
+msgid "Mienn"
+msgstr "Mienn"
+
+#: monsterlist_v0610_npcs1.json:minarra
+msgid "Minarra"
+msgstr "Minarra"
+
+#: monsterlist_v0610_npcs1.json:puny_warehouserat
+msgid "Warehouse rat"
+msgstr "Rata del almacén"
+
+#: monsterlist_v0610_npcs1.json:rogorn
+msgid "Rogorn"
+msgstr "Rogorn"
+
+#: monsterlist_v0610_npcs1.json:rogorn_henchman
+msgid "Rogorn's henchman"
+msgstr "Secuaz de Rogorn"
+
+#: monsterlist_v0610_npcs1.json:rolwynn
+msgid "Rolwynn"
+msgstr "Rolwynn"
+
+#: monsterlist_v0610_npcs1.json:sienn
+msgid "Sienn"
+msgstr "Sienn"
+
+#: monsterlist_v0610_npcs1.json:sienn_pet
+msgid "Sienn's pet"
+msgstr "Mascota de Sienn"
+
+#: monsterlist_v0610_npcs1.json:taevinn
+msgid "Taevinn"
+msgstr "Taevinn"
+
+#: monsterlist_v0610_npcs1.json:talion
+msgid "Talion"
+msgstr "Talion"
+
+#: monsterlist_v0610_npcs1.json:tinlyn
+msgid "Tinlyn"
+msgstr "Tinlyn"
+
+#: monsterlist_v0610_npcs1.json:woodcutter_0
+#: monsterlist_v0610_npcs1.json:woodcutter_2
+#: monsterlist_v0610_npcs1.json:woodcutter_3
+#: monsterlist_v0610_npcs1.json:woodcutter_4
+#: monsterlist_v0610_npcs1.json:woodcutter_5
+msgid "Woodcutter"
+msgstr "Leñador"
+
+#: monsterlist_v0611_monsters1.json:allaceph_1
+msgid "Young Allaceph"
+msgstr "Allaceph joven"
+
+#: monsterlist_v0611_monsters1.json:allaceph_2
+msgid "Allaceph"
+msgstr "Allaceph"
+
+#: monsterlist_v0611_monsters1.json:allaceph_3
+msgid "Strong Allaceph"
+msgstr "Allaceph fuerte"
+
+#: monsterlist_v0611_monsters1.json:allaceph_4
+msgid "Tough Allaceph"
+msgstr "Allaceph duro"
+
+#: monsterlist_v0611_monsters1.json:allaceph_5
+msgid "Radiant Allaceph"
+msgstr "Allaceph radiante"
+
+#: monsterlist_v0611_monsters1.json:allaceph_6
+#: monsterlist_v0611_npcs2.json:allaceph_cr
+msgid "Ancient Allaceph"
+msgstr "Allaceph antiguo"
+
+#: monsterlist_v0611_monsters1.json:arulir_1
+msgid "Arulir"
+msgstr "Arulir"
+
+#: monsterlist_v0611_monsters1.json:arulir_2
+msgid "Giant Arulir"
+msgstr "Arulir gigante"
+
+#: monsterlist_v0611_monsters1.json:irdegh_1
+msgid "Irdegh"
+msgstr "Irdegh"
+
+#: monsterlist_v0611_monsters1.json:irdegh_2
+msgid "Venomous Irdegh"
+msgstr "Irdegh venenoso"
+
+#: monsterlist_v0611_monsters1.json:mwolf_1
+msgid "Mountain wolf pup"
+msgstr "Lobo de la montaña cachorro"
+
+#: monsterlist_v0611_monsters1.json:mwolf_2
+msgid "Young mountain wolf"
+msgstr "Lobo de la montaña joven"
+
+#: monsterlist_v0611_monsters1.json:mwolf_3
+msgid "Young mountain fox"
+msgstr "Zorro de la montaña joven"
+
+#: monsterlist_v0611_monsters1.json:mwolf_4
+msgid "Mountain fox"
+msgstr "Zorro de la montaña"
+
+#: monsterlist_v0611_monsters1.json:mwolf_5
+msgid "Ferocious mountain fox"
+msgstr "Zorro de la montaña feróz"
+
+#: monsterlist_v0611_monsters1.json:mwolf_6
+msgid "Rabid mountain wolf"
+msgstr "Lobo de la montaña rabioso"
+
+#: monsterlist_v0611_monsters1.json:mwolf_7
+msgid "Strong mountain wolf"
+msgstr "Lobo de la montaña fuerte"
+
+#: monsterlist_v0611_monsters1.json:mwolf_8
+msgid "Ferocious mountain wolf"
+msgstr "Lobo de la montaña feróz"
+
+#: monsterlist_v0611_monsters1.json:vaeregh_1
+msgid "Vaeregh"
+msgstr "Vaeregh"
+
+#: monsterlist_v0611_npcs1.json:algangror
+msgid "Algangror"
+msgstr "Algangror"
+
+#: monsterlist_v0611_npcs1.json:gylew
+msgid "Gylew"
+msgstr "Gylew"
+
+#: monsterlist_v0611_npcs1.json:gylew_henchman
+msgid "Gylew's henchman"
+msgstr "Secuaz de Gylew"
+
+#: monsterlist_v0611_npcs1.json:lonelyhouse_sp
+msgid "Basement rat"
+msgstr "Rata de sótano"
+
+#: monsterlist_v0611_npcs1.json:thorin
+msgid "Thorin"
+msgstr "Thorin"
+
+#: monsterlist_v0611_npcs1.json:toszylae
+msgid "Toszylae"
+msgstr "Toszylae"
+
+#: monsterlist_v0611_npcs1.json:ulirfendor
+msgid "Ulirfendor"
+msgstr "Ulirfendor"
+
+#: monsterlist_v0611_npcs2.json:arghes
+msgid "Arghes"
+msgstr "Arghes"
+
+#: monsterlist_v0611_npcs2.json:arnal
+msgid "Arnal"
+msgstr "Arnal"
+
+#: monsterlist_v0611_npcs2.json:atash
+msgid "Aatash"
+msgstr "Aatash"
+
+#: monsterlist_v0611_npcs2.json:caeda
+msgid "Caeda"
+msgstr "Caeda"
+
+#: monsterlist_v0611_npcs2.json:carthe
+msgid "Carthe"
+msgstr "Carthe"
+
+#: monsterlist_v0611_npcs2.json:chael
+msgid "Chael"
+msgstr "Chael"
+
+#: monsterlist_v0611_npcs2.json:duaina
+msgid "Duaina"
+msgstr "Duaina"
+
+#: monsterlist_v0611_npcs2.json:easturlie
+msgid "Easturlie"
+msgstr "Easturlie"
+
+#: monsterlist_v0611_npcs2.json:elwel
+msgid "Elwel"
+msgstr "Elwel"
+
+#: monsterlist_v0611_npcs2.json:elwyl
+msgid "Elwyl"
+msgstr "Elwyl"
+
+#: monsterlist_v0611_npcs2.json:emerei
+msgid "Emerei"
+msgstr "Emerei"
+
+#: monsterlist_v0611_npcs2.json:ervelyn
+msgid "Ervelyn"
+msgstr "Ervelyn"
+
+#: monsterlist_v0611_npcs2.json:freen
+msgid "Freen"
+msgstr "Freen"
+
+#: monsterlist_v0611_npcs2.json:hjaldar
+msgid "Hjaldar"
+msgstr "Hjaldar"
+
+#: monsterlist_v0611_npcs2.json:ingus
+msgid "Ingus"
+msgstr "Ingus"
+
+#: monsterlist_v0611_npcs2.json:janach
+msgid "Janach"
+msgstr "Janach"
+
+#: monsterlist_v0611_npcs2.json:jhaeld
+msgid "Jhaeld"
+msgstr "Jhaeld"
+
+#: monsterlist_v0611_npcs2.json:kaverin
+msgid "Kaverin"
+msgstr "Kaverin"
+
+#: monsterlist_v0611_npcs2.json:kendelow
+msgid "Kendelow"
+msgstr "Kendelow"
+
+#: monsterlist_v0611_npcs2.json:krell
+msgid "Krell"
+msgstr "Krell"
+
+#: monsterlist_v0611_npcs2.json:larni
+msgid "Larni"
+msgstr "Larni"
+
+#: monsterlist_v0611_npcs2.json:maelf
+msgid "Maelf"
+msgstr "Maelf"
+
+#: monsterlist_v0611_npcs2.json:morgisia
+msgid "Morgisia"
+msgstr "Morgisia"
+
+#: monsterlist_v0611_npcs2.json:norath
+msgid "Norath"
+msgstr "Norath"
+
+#: monsterlist_v0611_npcs2.json:perester
+msgid "Perester"
+msgstr "Perester"
+
+#: monsterlist_v0611_npcs2.json:perlynn
+msgid "Perlynn"
+msgstr "Perlynn"
+
+#: monsterlist_v0611_npcs2.json:petdog
+msgid "Dog"
+msgstr "Perro"
+
+#: monsterlist_v0611_npcs2.json:reinkarr
+msgid "Reinkarr"
+msgstr "Reinkarr"
+
+#: monsterlist_v068_npcs.json:alynndir
+msgid "Alynndir"
+msgstr "Alynndir"
+
+#: monsterlist_v068_npcs.json:ambelie
+msgid "Ambelie"
+msgstr "Ambelie"
+
+#: monsterlist_v068_npcs.json:cave_dwelling_boar
+msgid "Cave dwelling boar"
+msgstr "Cerdo de cueva"
+
+#: monsterlist_v068_npcs.json:dunla
+msgid "Dunla"
+msgstr "Dunla"
+
+#: monsterlist_v068_npcs.json:erttu
+msgid "Erttu"
+msgstr "Erttu"
+
+#: monsterlist_v068_npcs.json:farrik
+msgid "Farrik"
+msgstr "Farrik"
+
+#: monsterlist_v068_npcs.json:grumpy_vilegard_villager
+msgid "Grumpy Vilegard villager"
+msgstr "Aldeano de Vilegard malhumorado"
+
+#: monsterlist_v068_npcs.json:jolnor
+msgid "Jolnor"
+msgstr "Jolnor"
+
+#: monsterlist_v068_npcs.json:kaori
+msgid "Kaori"
+msgstr "Kaori"
+
+#: monsterlist_v068_npcs.json:maelveon
+msgid "Maelveon"
+msgstr "Maelveon"
+
+#: monsterlist_v068_npcs.json:ogam
+msgid "Ogam"
+msgstr "Ogam"
+
+#: monsterlist_v068_npcs.json:old_vilegard_villager
+msgid "Old Vilegard villager"
+msgstr "Aldeano de Vilegard anciano"
+
+#: monsterlist_v068_npcs.json:oluag
+msgid "Oluag"
+msgstr "Oluag"
+
+#: monsterlist_v068_npcs.json:tharwyn
+msgid "Tharwyn"
+msgstr "Tharwyn"
+
+#: monsterlist_v068_npcs.json:torilo
+msgid "Torilo"
+msgstr "Torilo"
+
+#: monsterlist_v068_npcs.json:umar
+msgid "Umar"
+msgstr "Umar"
+
+#: monsterlist_v068_npcs.json:vilegard_woman
+msgid "Vilegard woman"
+msgstr "Mujer de Vilegard"
+
+#: monsterlist_v068_npcs.json:wrye
+msgid "Wrye"
+msgstr "Wrye"
+
+#: monsterlist_v069_monsters.json:aulaeth
+msgid "Aulaeth"
+msgstr "Aulaeth"
+
+#: monsterlist_v069_monsters.json:gornaud
+msgid "Gornaud"
+msgstr "Gornaud"
+
+#: monsterlist_v069_monsters.json:mountain_wolf
+msgid "Mountain wolf"
+msgstr "Lobo de la montaña"
+
+#: monsterlist_v069_monsters.json:strong_aulaeth
+msgid "Strong aulaeth"
+msgstr "Aulaeth fuerte"
+
+#: monsterlist_v069_monsters.json:strong_gornaud
+msgid "Strong Gornaud"
+msgstr "Gornaud fuerte"
+
+#: monsterlist_v069_monsters.json:young_aulaeth
+msgid "Young aulaeth"
+msgstr "Aulaeth joven"
+
+#: monsterlist_v069_monsters.json:young_gornaud
+msgid "Young gornaud"
+msgstr "Gornaud joven"
+
+#: monsterlist_v069_npcs.json:agent1 monsterlist_v069_npcs.json:agent2
+#: monsterlist_v069_npcs.json:agent3 monsterlist_v069_npcs.json:agent4
+#: monsterlist_v069_npcs.json:agent5 monsterlist_v069_npcs.json:agent6
+msgid "Agent"
+msgstr "Agente"
+
+#: monsterlist_v069_npcs.json:arghest
+msgid "Arghest"
+msgstr "Arghest"
+
+#: monsterlist_v069_npcs.json:birgil
+msgid "Birgil"
+msgstr "Birgil"
+
+#: monsterlist_v069_npcs.json:bjorgur
+msgid "Bjorgur"
+msgstr "Bjorgur"
+
+#: monsterlist_v069_npcs.json:blackwater_border_patrol
+msgid "Blackwater border patrol"
+msgstr "Patrulla de frontera de Aguasnegras"
+
+#: monsterlist_v069_npcs.json:blackwater_chamber_guard
+msgid "Blackwater chamber guard"
+msgstr "Guardia de la cámara de Aguasnegras"
+
+#: monsterlist_v069_npcs.json:blackwater_cook
+msgid "Blackwater cook"
+msgstr "Cocinero de Aguasnegras"
+
+#: monsterlist_v069_npcs.json:blackwater_entrance_guard
+msgid "Blackwater entrance guard"
+msgstr "Guardia de la entrada de Aguasnegras"
+
+#: monsterlist_v069_npcs.json:blackwater_fighter
+msgid "Blackwater fighter"
+msgstr "Guerrero de Aguasnegras"
+
+#: monsterlist_v069_npcs.json:blackwater_guard
+msgid "Blackwater guard"
+msgstr "Guardia de Aguasnegras"
+
+#: monsterlist_v069_npcs.json:blackwater_inhabitant
+msgid "Blackwater inhabitant"
+msgstr "Habitante de Aguasnegras"
+
+#: monsterlist_v069_npcs.json:blackwater_mage
+msgid "Blackwater mage"
+msgstr "Mago de Aguasnegras"
+
+#: monsterlist_v069_npcs.json:blackwater_priest
+msgid "Blackwater priest"
+msgstr "Sacerdote de Aguasnegras"
+
+#: monsterlist_v069_npcs.json:blackwater_pupil
+msgid "Blackwater pupil"
+msgstr "Alumno de Aguasnegras"
+
+#: monsterlist_v069_npcs.json:fulus
+msgid "Fulus"
+msgstr "Fulus"
+
+#: monsterlist_v069_npcs.json:guthbered
+msgid "Guthbered"
+msgstr "Guthbered"
+
+#: monsterlist_v069_npcs.json:guthbereds_bodyguard
+msgid "Guthbered's bodyguard"
+msgstr "Guardaespadas de Guthbered"
+
+#: monsterlist_v069_npcs.json:harlenn
+msgid "Harlenn"
+msgstr "Harlenn"
+
+#: monsterlist_v069_npcs.json:harlenns_bodyguard
+msgid "Harlenn's bodyguard"
+msgstr "Guardaespaldas de Harlenn"
+
+#: monsterlist_v069_npcs.json:herec
+msgid "Herec"
+msgstr "Herec"
+
+#: monsterlist_v069_npcs.json:iducus
+msgid "Iducus"
+msgstr "Iducus"
+
+#: monsterlist_v069_npcs.json:jueth
+msgid "Jueth"
+msgstr "Jueth"
+
+#: monsterlist_v069_npcs.json:keneg
+msgid "Keneg"
+msgstr "Keneg"
+
+#: monsterlist_v069_npcs.json:laecca
+msgid "Laecca"
+msgstr "Laecca"
+
+#: monsterlist_v069_npcs.json:laede
+msgid "Laede"
+msgstr "Laede"
+
+#: monsterlist_v069_npcs.json:mazeg
+msgid "Mazeg"
+msgstr "Mazeg"
+
+#: monsterlist_v069_npcs.json:moyra
+msgid "Moyra"
+msgstr "Moyra"
+
+#: monsterlist_v069_npcs.json:samar
+msgid "Samar"
+msgstr "Samar"
+
+#: monsterlist_v069_npcs.json:throdna
+msgid "Throdna"
+msgstr "Throdna"
+
+#: monsterlist_v070_charwood.json:ccentip0
+msgid "Carrion centipede"
+msgstr "Ciempiés carroñero"
+
+#: monsterlist_v070_charwood.json:ccentip1
+msgid "Ravenous carrion centipede"
+msgstr "Ciempiés carroñero hambriento"
+
+#: monsterlist_v070_charwood.json:ccentip2
+msgid "Bloated carrion centipede"
+msgstr "Ciempiés carroñero hinchado"
+
+#: monsterlist_v070_charwood.json:forestfox2
+msgid "Young forest fox"
+msgstr "Zorro del bosque joven"
+
+#: monsterlist_v070_charwood.json:forestfox3
+msgid "Forest fox"
+msgstr "Zorro del bosque"
+
+#: monsterlist_v070_charwood2.json:thukuzun
+msgid "Thukuzun"
+msgstr "Thukuzun"
+
+#: monsterlist_v070_lodar5cave.json:cavebat1
+msgid "Gray cave bat"
+msgstr "Murciélago de cueva gris"
+
+#: monsterlist_v070_lodar5cave.json:cavebat2
+msgid "Black cave bat"
+msgstr "Murciélago de cueva negro"
+
+#: monsterlist_v070_lodar5cave.json:cavebat3
+msgid "Brown cave bat"
+msgstr "Murciélago de cueva marrón"
+
+#: monsterlist_v070_lodar5cave.json:cavebat4
+msgid "Cave bat"
+msgstr "Murciélago de cueva"
+
+#: monsterlist_v070_lodar5cave.json:cavebat5
+msgid "Aggressive cave bat"
+msgstr "Murciélago de cueva agresivo"
+
+#: monsterlist_v070_lodarcave.json:hirazinn
+msgid "Hira'zinn"
+msgstr "Hira'zinn"
+
+#: monsterlist_v070_lodarmaze.json:dungfly1
+msgid "Giant dungfly"
+msgstr "Mosca de estiércol gigante"
+
+#: monsterlist_v070_lodarmaze.json:dungfly2
+msgid "Aggressive dungfly"
+msgstr "Mosca de estiércol agresiva"
+
+#: monsterlist_v070_lodarmaze.json:lbridge
+msgid "Guardian of the Bridge"
+msgstr "Guardián del puente"
+
+#: monsterlist_v070_lodarmaze.json:pig
+msgid "Pig"
+msgstr "Cerdo"
+
+#: monsterlist_v070_lodarmaze.json:vermin2
+msgid "Roach"
+msgstr "Cucaracha"
+
+#: monsterlist_v070_lodarmaze.json:vscale1
+msgid "Puny venomscales"
+msgstr "Serpiente venenosa enclenque"
+
+#: monsterlist_v070_lodarmaze.json:vscale2
+msgid "Young venomscales"
+msgstr "Serpiente venenosa joven"
+
+#: monsterlist_v070_lodarmaze.json:vscale3
+msgid "Gray venomscales"
+msgstr "Serpiente venenosa gris"
+
+#: monsterlist_v070_lodarmaze.json:vscale4
+msgid "Aggressive venomscales"
+msgstr "Serpiente venenosa agresiva"
+
+#: monsterlist_v070_lodarmaze.json:vscale5
+msgid "Quick venomscales"
+msgstr "Serpiente venenosa rápida"
+
+#: monsterlist_v070_lodarmaze.json:vscale7
+msgid "Strong venomscales"
+msgstr "Serpiente venenosa fuerte"
+
+#: monsterlist_v070_lodarmaze.json:vscale8
+msgid "Tough venomscales"
+msgstr "Serpiente venenosa dura"
+
+#: monsterlist_v070_lodarmaze.json:vscaleb1
+msgid "Breeder of venomscales"
+msgstr "Criador de serpientes venenosas"
+
+#: monsterlist_v070_lodarmaze.json:vscaleb2
+msgid "Venomscale Master"
+msgstr "Maestro de las serpientes venenosas"
+
+#: monsterlist_v070_lodarnpcs.json:lodar0_g
+msgid "Forest guardian"
+msgstr "Guardián del bosque"
+
+#: monsterlist_v070_npcs.json:agthor
+msgid "Agthor"
+msgstr "Agthor"
+
+#: monsterlist_v070_npcs.json:agthor_guard
+msgid "Agthor's guard"
+msgstr "Guardia de Agthor"
+
+#: monsterlist_v070_npcs.json:askyl
+msgid "Askyl"
+msgstr "Askyl"
+
+#: monsterlist_v070_npcs.json:aulowenn
+msgid "Aulowenn"
+msgstr "Aulowenn"
+
+#: monsterlist_v070_npcs.json:erethori
+msgid "Erethori"
+msgstr "Erethori"
+
+#: monsterlist_v070_npcs.json:falothen0 monsterlist_v070_npcs.json:falothen1
+msgid "Falothen"
+msgstr "Falothen"
+
+#: monsterlist_v070_npcs.json:fayvara0 monsterlist_v070_npcs.json:fayvara1
+msgid "Fayvara"
+msgstr "Fayvara"
+
+#: monsterlist_v070_npcs.json:kantya
+msgid "Kantya"
+msgstr "Kantya"
+
+#: monsterlist_v070_npcs.json:khorailla
+msgid "Khorailla"
+msgstr "Khorailla"
+
+#: monsterlist_v070_npcs.json:lethenlor
+msgid "Lethenlor"
+msgstr "Lethenlor"
+
+#: monsterlist_v070_npcs.json:lleglaris
+msgid "Lleglaris"
+msgstr "Lleglaris"
+
+#: monsterlist_v070_npcs.json:lodar
+msgid "Lodar"
+msgstr "Lodar"
+
+#: monsterlist_v070_npcs.json:lowyna
+msgid "Lowyna"
+msgstr "Lowyna"
+
+#: monsterlist_v070_npcs.json:maevalia
+msgid "Maevalia"
+msgstr "Maevalia"
+
+#: monsterlist_v070_npcs.json:tiqui
+msgid "Tiqui"
+msgstr "Tiqui"
+
+#: monsterlist_wilderness.json:forest_beetle
+msgid "Forest Beetle"
+msgstr "Escarabajo del bosque"
+
+#: monsterlist_wilderness.json:forest_serpent
+msgid "Forest serpent"
+msgstr "Serpiente del bosque"
+
+#: monsterlist_wilderness.json:gargoyle
+msgid "Gargoyle"
+msgstr "Gárgola"
+
+#: monsterlist_wilderness.json:hunting_dog
+msgid "Hunting dog"
+msgstr "Perro de caza"
+
+#: monsterlist_wilderness.json:large_cave_rat
+msgid "Large cave rat"
+msgstr "Rata de cueva grande"
+
+#: monsterlist_wilderness.json:narael
+msgid "Narael"
+msgstr "Narael"
+
+#: monsterlist_wilderness.json:rabid_wolf
+msgid "Rabid Wolf"
+msgstr "Lobo rabioso"
+
+#: monsterlist_wilderness.json:wild_boar
+msgid "Wild Boar"
+msgstr "Cerdo salvaje"
+
+#: monsterlist_wilderness.json:wild_fox
+msgid "Wild Fox"
+msgstr "Zorro salvaje"
+
+#: monsterlist_wilderness.json:winged_demon
+msgid "Winged demon"
+msgstr "Demonio alado"
+
+#: monsterlist_wilderness.json:wolf
+msgid "Wolf"
+msgstr "Lobo"
+
+#: monsterlist_wilderness.json:young_wolf
+msgid "Young wolf"
+msgstr "Lobo joven"
+
+#: questlist.json:andor
+msgid "Search for Andor"
+msgstr "La búsqueda de Andor"
+
+#: questlist_v068.json:kaori
+msgid "Kaori's errands"
+msgstr "Mandado de Kaori"
+
+#: questlist_v070_lodar.json:lodar13_rest:30
+msgid "I attacked the creature before it could spew out more of its foul lies."
+msgstr "He atacado a la criatura antes de que siguiera escupiendo sus mentiras."
+
+#: questlist_v070_lodar.json:lodar13_rest:31
+msgid "I attacked Aulowenn."
+msgstr "He atacado Aulowenn."
+
+#: questlist_v070_lodar.json:lodar_pots
+msgid "Lodar's potions"
+msgstr "Pociones de Lodar"
+
+#: questlist_v070_lodar.json:xulviir:30
+msgid "I have destroyed the Xul'viir."
+msgstr "Yo he destruído la Xul'viir."
+
+#: questlist_v070_lowyna.json:lleglaris:30
+msgid "I have given the amulet back to Lleglaris."
+msgstr "Le he dado el amuleto de nuevo a Llegaris."
+
+#: questlist_v070_lowyna.json:lowyna
+msgid "Sweet sweet rat poison"
+msgstr "Dulce, dulce veneno para ratas"
+
+#: questlist_v070_lowyna.json:lowyna:20
+msgid "Lowyna will now allow me to trade with her."
+msgstr "Ahora Lowyna me permitirá comerciar con ella."
+
+#: questlist_v070_misc.json:antifoodp
+msgid "Taste is everything"
+msgstr "El sabor lo es todo"
+
+#: questlist_v070_misc.json:antifoodp:30
+msgid "I have brought the ingredients for the potion."
+msgstr "He traído los ingredientes para la poción."
+
+#: questlist_v070_misc.json:antifoodp:35
+msgid "I received a potion of antidote, that should help me if I get food-poisoning."
+msgstr "He recibido una poción de antídoto, esto puede ayudarme si soy envenenado por la comida."
+
+#: questlist_v070_misc.json:antifoodp:40
+msgid "I can bring him more ingredients if I want him to create more antidote potions in the future."
+msgstr "Puedo traerle más ingredientes si quiero que cree más pociones de antídoto en el futuro."

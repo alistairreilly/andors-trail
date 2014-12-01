@@ -9,7 +9,9 @@ import com.gpl.rpg.AndorsTrail.model.ability.*;
 import com.gpl.rpg.AndorsTrail.model.actor.Actor;
 import com.gpl.rpg.AndorsTrail.model.actor.Monster;
 import com.gpl.rpg.AndorsTrail.model.actor.Player;
-import com.gpl.rpg.AndorsTrail.model.conversation.*;
+import com.gpl.rpg.AndorsTrail.model.conversation.ConversationCollection;
+import com.gpl.rpg.AndorsTrail.model.conversation.Phrase;
+import com.gpl.rpg.AndorsTrail.model.conversation.Reply;
 import com.gpl.rpg.AndorsTrail.model.item.ItemTypeCollection;
 import com.gpl.rpg.AndorsTrail.model.item.Loot;
 import com.gpl.rpg.AndorsTrail.model.map.LayeredTileMap;
@@ -280,7 +282,7 @@ public final class ConversationController {
 		private final WorldContext world;
 		private final ControllerContext controllers;
 		private final Player player;
-		private String phraseID;
+		private String currentPhraseID;
 		private Phrase currentPhrase;
 		private Monster npc;
 		public final ConversationStateListener listener;
@@ -294,7 +296,7 @@ public final class ConversationController {
 
 		public void setCurrentNPC(Monster currentNPC) { this.npc = currentNPC; }
 		public Monster getCurrentNPC() { return npc; }
-		public String getCurrentPhraseID() { return phraseID; }
+		public String getCurrentPhraseID() { return currentPhraseID; }
 
 		public void playerSelectedReply(final Resources res, Reply r) {
 			applyReplyEffect(world, r);
@@ -317,7 +319,7 @@ public final class ConversationController {
 		}
 
 		private void setCurrentPhrase(final Resources res, String phraseID) {
-			this.phraseID = phraseID;
+			this.currentPhraseID = phraseID;
 			this.currentPhrase = world.conversationLoader.loadPhrase(phraseID, conversationCollection, res);
 			if (AndorsTrailApplication.DEVELOPMENT_DEBUGMESSAGES) {
 				if (currentPhrase == null) currentPhrase = new Phrase("(phrase \"" + phraseID + "\" not implemented yet)", null, null, null);

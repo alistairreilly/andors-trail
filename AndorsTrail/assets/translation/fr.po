@@ -3,16 +3,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Andors Trail\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: Sat Oct 26 09:46:51 CEST 2013\n"
-"PO-Revision-Date: 2013-10-31 15:28+0000\n"
-"Last-Translator: Marwane K. <Unknown>\n"
+"POT-Creation-Date: Sun Nov 10 11:14:56 CET 2013\n"
+"PO-Revision-Date: 2014-02-26 20:52+0000\n"
+"Last-Translator: pokekrom <clement-cherblanc@laposte.net>\n"
 "Language-Team: American English <kde-i18n-doc@kde.org>\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-11-03 15:16+0000\n"
-"X-Generator: Launchpad (build 16820)\n"
+"X-Launchpad-Export-Date: 2014-05-28 22:13+0000\n"
+"X-Generator: Launchpad (build 17017)\n"
 
 #: [none]
 msgid "translator-credits"
@@ -20,7 +20,8 @@ msgstr ""
 "Launchpad Contributions:\n"
 "  Marwane K. https://launchpad.net/~marwane-ka\n"
 "  Oskar Wiksten https://launchpad.net/~oskar-wiksten\n"
-"  olivier https://launchpad.net/~yeye-phone"
+"  olivier https://launchpad.net/~yeye-phone\n"
+"  pokekrom https://launchpad.net/~clement-cherblanc"
 
 #: actorconditions_v0610.json:chaotic_curse
 msgid "Chaotic curse"
@@ -1261,18 +1262,296 @@ msgstr "Je n'ai jamais entendu parler de cette famille."
 msgid "Where is Feygard?"
 msgstr "Où est Feygard ?"
 
+#: conversationlist_ambelie.json:ambelie_3
+msgid "Feygard, the great city of peace. Surely you must know of it. Northwest in our great land."
+msgstr "Feygard, la grande cité de la paix. On vous en a fort probablement déjà parlé. Elle se situe au nord-ouest d'ici."
+
+#: conversationlist_ambelie.json:ambelie_3:1
+msgid "No, I have never heard of it."
+msgstr "Non, je n'en ai jamais entendu parler."
+
+#: conversationlist_ambelie.json:ambelie_4
+msgid "Pfft. That just proves everything I have heard of you savages here in the southern land. So uneducated."
+msgstr "Pfff... Cela ne fait que montrer à quel point ce qui ce dit sur vous autres sauvages du sud. De vrais ignares."
+
+#: conversationlist_ambelie.json:ambelie_5
+msgid "I, Ambelie, of the house of Laumwill in Feygard, am on an excursion to the southern Nor City."
+msgstr "Moi, Ambélie, de la maison de Laumwill de Faygard, suis en excursion vers la cité de Norville, au sud."
+
+#: conversationlist_ambelie.json:ambelie_6
+msgid "An excursion to see if Nor City really is all that I have heard about it. If it really can compare itself to the glamour of the great city of Feygard."
+msgstr "Je souhaite découvrir si Norville est vraiment fidèle à ce qu'on dit d'elle. Si ses richesses et sa beauté sont vraiment comparables à celles de Feygard."
+
 #: conversationlist_ambelie.json:ambelie_6:0
 #: conversationlist_ambelie.json:ambelie_9:0
 msgid "Nor City, where is that?"
 msgstr "Norville, où est-ce que cela se trouve ?"
 
+#: conversationlist_ambelie.json:ambelie_6:1
+msgid "If you like it so much in Feygard, why would you even leave?"
+msgstr "Si vous aimez tant Feygard, pourquoi partir ?"
+
+#: conversationlist_ambelie.json:ambelie_7
+msgid "Don't you know of Nor City? I will take note that the savages here haven't even heard of the city."
+msgstr "Vous ne connaissez donc pas Norville ? Je me surprends encore de découvrir à quel point les sauvages peuvent être ignorants."
+
+#: conversationlist_ambelie.json:ambelie_8
+msgid "I am beginning to be even more certain that Nor City will never, even in my wildest dreams, be comparable to the great city of Feygard."
+msgstr "Je commence à avoir la certitude que Norville ne sera jamais, même dans mes rêves les plus fous, comparable à la grande cité de Feygard."
+
+#: conversationlist_ambelie.json:ambelie_8:0
+#: conversationlist_ambelie.json:ambelie_9:1
+msgid "Good luck on your excursion."
+msgstr "Bonne chance pour votre voyage."
+
+#: conversationlist_ambelie.json:ambelie_9
+msgid "All the noblewomen in Feygard keep talking about the mysterious Shadow in Nor City. I just have to see it myself."
+msgstr "Tous les nobles de Feygard ne parlent que de la mystérieuse Ombre de Norville. Je souhaite la découvrir de mes propres yeux."
+
+#: conversationlist_arghes.json:arghes_1
+msgid "You will find no business here, child."
+msgstr "Vous n'avez rien à faire ici, mon petit."
+
+#: conversationlist_arghes.json:arghes_2
+msgid "How interesting. The child from Fallhaven, here in Remgard?"
+msgstr "Oh, intéressant. L'enfant de Fallhaven, ici à Remgard ?"
+
 #: conversationlist_arghes.json:arghes_2:0
 msgid "I'm not from Fallhaven, I am from Crossglen, west of Fallhaven."
 msgstr "Je ne suis pas de Fallhaven, je viens de Crossglen, à l'ouest de Fallhaven."
 
+#: conversationlist_arghes.json:arghes_2:2
+msgid "How do you know where I am from?"
+msgstr "Comment savez-vous d'où je viens ?"
+
+#: conversationlist_arghes.json:arghes_3a
+msgid "Is that so? Hm, most interesting. It does not change anything, however."
+msgstr "Vraiment ? Hmmm, très intéressant. Cela n'y change rien, cela dit."
+
+#: conversationlist_arghes.json:arghes_3b
+msgid "Who I am is of no importance in this situation. You on the other hand, are most important."
+msgstr "Qui je suis n'a pas d'importance dans cette situation. Qui vous êtes, par contre, est important."
+
+#: conversationlist_arghes.json:arghes_3c
+msgid "I know .. a great deal of things."
+msgstr "Je sais... Un certain nombre de choses."
+
+#: conversationlist_arghes.json:arghes_4
+msgid "$playername - yes, that is what they call you."
+msgstr "$playername... Oui, c'est le nom qu'ils vous donnent."
+
+#: conversationlist_arghes.json:arghes_4:0
+msgid "How do you know my name? Who are you?"
+msgstr "Comment connaissez-vous mon nom ? Qui êtes vous ?"
+
+#: conversationlist_arghes.json:arghes_5
+msgid "Let's just say that I am a .. friend. You would do well to keep your .. friends close."
+msgstr "Disons simplement que je suis... un ami. Et il faut toujours... rester proche de ses amis."
+
+#: conversationlist_arghes.json:arghes_6
+msgid "Now, how may I help you? Equipment? Information?"
+msgstr "Bref, comment puis-je vous aider ? De l'équipement ? Des informations ?"
+
+#: conversationlist_arghes.json:arghes_6:1
+msgid "What information do you have?"
+msgstr "Quelles informations avez vous ?"
+
+#: conversationlist_arghes.json:arghes_7
+#: conversationlist_rothses.json:rothses_imp_s0
+msgid "Hm, let me see."
+msgstr "Hmmm, laissez-moi réfléchir."
+
+#: conversationlist_arghes.json:arghes_8
+msgid "No, I cannot tell you anything at this time. You are welcome to return once your path has become .. clearer."
+msgstr "Non, je ne peux encore rien vous dévoiler pour le moment. Vous serez le bienvenu pour en rediscuter quand votre chemin sera devenir... plus clair."
+
+#: conversationlist_arghes.json:arghes_shop
+#: conversationlist_ervelyn.json:ervelyn_shop
+msgid "Certainly."
+msgstr "Avec plaisir."
+
+#: conversationlist_aulowenn.json:aulowenn1
+msgid "Halt! Do not come any closer. The contents of these crates is property of Feygard."
+msgstr "Halte ! Pas un pas de plus. Le contenu de ces caisses est la propriété de Feygard."
+
+#: conversationlist_aulowenn.json:aulowenn1:0
+msgid "I mean you no harm. Who are you?"
+msgstr "Je ne vous veux pas de mal. Qui êtes-vous ?"
+
+#: conversationlist_aulowenn.json:aulowenn1:1
+msgid "Sure. I'll just stay right here. Who are you?"
+msgstr "D'accord, je reste ici. Qui êtes-vous ?"
+
+#: conversationlist_aulowenn.json:aulowenn1:2
+#: conversationlist_prim_fulus.json:bjorgur_bandit:0
+msgid "Fine. I will leave."
+msgstr "D'accord, je m'en vais."
+
+#: conversationlist_aulowenn.json:aulowenn10
+msgid "I have two theories. My first thought is that some of the local creatures that we've been having problems with here might have captured them, or even killed them. I know for a fact that some were killed by the creatures, since we even buried some of my men to the east of here, but I am not certain of the others."
+msgstr "J'ai deux théories. La première possibilité est que certaines des créatures locales qui nous ont posé problème les ont capturés, voire tués. Il n'y a pas de doute que plusieurs ont été tués, puisque nous en avons retrouvé et enterré quelques uns à l'est d'ici. Mais je ne suis pas sûre pour les autres."
+
+#: conversationlist_aulowenn.json:aulowenn11
+msgid "The creatures in these woods are intelligible, but fierce. Luckily, we've been able to kill them off before they've been able to spew their foul lies. There are still a few of them around though."
+msgstr "Les créatures de ces bois savent parler, mais sont sauvages et féroces. Heureusement, nous avons réussi à les vaincre avant qu'elles ne déversent leurs mensonges sur nous. Il en reste encore quelques unes en vie."
+
+#: conversationlist_aulowenn.json:aulowenn12
+msgid "My second theory is that the madman that we are looking for must have done something to them. Maybe the madman has smeared some of his madness onto them."
+msgstr "Ma deuxième théorie est que l'homme fou dont nous étions à la recherche leur a fait quelque chose. Peut-être même qu'il a réussi à imprégner sa folie en eux."
+
+#: conversationlist_aulowenn.json:aulowenn13
+msgid "Regardless, there isn't much that I am able to do here. I need to guard these crates."
+msgstr "Dans tous les cas, je ne peux rien faire d'ici. Je dois garder ces caisses."
+
+#: conversationlist_aulowenn.json:aulowenn14
+msgid "Also, I do hope that those creatures that seem to live here don't return. They've been a real pest."
+msgstr "J'espère seulement que ces créatures ne s'approcheront plus de cet endroit. Elles sont dangereuses."
+
+#: conversationlist_aulowenn.json:aulowenn14:0
+#: conversationlist_gandoren.json:gandoren_5:1
+msgid "Anything I can do to help?"
+msgstr "Que puis-je faire pour aider ?"
+
 #: conversationlist_aulowenn.json:aulowenn14:1
 msgid "Good luck with that. Goodbye."
 msgstr "Bonne chance pour ça. Au revoir."
+
+#: conversationlist_aulowenn.json:aulowenn15
+msgid "Oh yes, would you? There is one thing you could do."
+msgstr "Vous nous aideriez, vraiment ? Il y a bien une chose que je peux vous demander."
+
+#: conversationlist_aulowenn.json:aulowenn16
+msgid "As I mentioned, some of my men were killed by the local creatures here. We buried them to the east of here."
+msgstr "Comme je l'ai dit, certains de mes hommes ont été tués par les créatures de ces bois. Nous les avons enterrés à l'est d'ici."
+
+#: conversationlist_aulowenn.json:aulowenn17
+msgid "I haven't been there for a few days now, but last I visited the graves, there was one of those foul creatures standing over the graves."
+msgstr "Je ne m'y suis pas rendue depuis plusieurs jours, mais à ma dernière visite une de ces infectes créatures rôdait près des tombes."
+
+#: conversationlist_aulowenn.json:aulowenn18
+msgid "I've seen that particular creature there before, it seems to be haunting the graves of my fellow men."
+msgstr "Je l'y ai déjà vue auparavant, je pense qu'elle hante les tombes de mes compagnons."
+
+#: conversationlist_aulowenn.json:aulowenn19
+msgid "Of course, it must be up to no good. I would like your help in either removing or defeating that thing."
+msgstr "Je ne sais pas ce qu'elle fait exactement, mais je n'aime pas l'idée de la savoir rôder près des tombes. Il faut s'en débarrasser d'une manière ou d'une autre."
+
+#: conversationlist_aulowenn.json:aulowenn19:0
+msgid "So, you want me to go visit the graves to the east and defeat whatever creature is there?"
+msgstr "Donc, vous voulez que j'aille voir les tombes à l'est, et que j'élimine la créature qui s'y trouve ?"
+
+#: conversationlist_aulowenn.json:aulowenn2
+msgid "I am Aulowenn of Feygard."
+msgstr "Je suis Aulowenn de Feygard."
+
+#: conversationlist_aulowenn.json:aulowenn2:0
+msgid "What are doing out here?"
+msgstr "Que faites-vous ici ?"
+
+#: conversationlist_aulowenn.json:aulowenn20
+msgid "Yes, that's it. I should also warn you that those creatures are intelligible, so I would urge you to act quickly when encountering it, before it can spew its foul lies."
+msgstr "Oui, c'est ça. Je dois aussi vous prévenir que ces créatures sont douées de parole, et qu'elles s'en servent surtout pour mentir et comploter. Il faut la tuer avant qu'elle ne dise quoi que ce soit."
+
+#: conversationlist_aulowenn.json:aulowenn20:0
+#: conversationlist_prim_fulus.json:fulus_8:0
+msgid "Sounds easy enough. I'll do it."
+msgstr "Cela me semble jouable, je m'en occupe."
+
+#: conversationlist_aulowenn.json:aulowenn20:1
+msgid "Great, more blood for my sword. I'll do it."
+msgstr "Très bien, ma lame a soif de sang. Je m'en occupe."
+
+#: conversationlist_aulowenn.json:aulowenn20:2
+msgid "Anything to help a fellow Feygard friend."
+msgstr "Je ferais tout pour aider mes amis de Feygard."
+
+#: conversationlist_aulowenn.json:aulowenn20:3
+#: conversationlist_aulowenn.json:aulowenn_ms0:3
+msgid "I don't think I should get involved in this."
+msgstr "Je ne préfère pas me mêler de cette histoire."
+
+#: conversationlist_aulowenn.json:aulowenn20:4
+#: conversationlist_aulowenn.json:aulowenn_ms0:4
+msgid "I'll go visit the graves, but I can't promise that I'll kill anyone."
+msgstr "J'irai voir les tombes, mais je ne promets pas que je tuerai qui que ce soit."
+
+#: conversationlist_aulowenn.json:aulowenn20:5
+msgid "I have already killed it."
+msgstr "Je l'ai déjà tuée."
+
+#: conversationlist_aulowenn.json:aulowenn21
+msgid "Good. Return here once you are done."
+msgstr "Bien. Revenez me voir une fois la tâche accomplie."
+
+#: conversationlist_aulowenn.json:aulowenn21a
+msgid "Glory to Feygard. Return here once you are done."
+msgstr "Gloire à Feygard. Revenez me voir une fois la tâche accomplie."
+
+#: conversationlist_aulowenn.json:aulowenn21b
+msgid "You do as you wish. I'll be here regardless."
+msgstr "Faites ce qui vous semble juste. Je serai ici dans tous les cas."
+
+#: conversationlist_aulowenn.json:aulowenn3
+msgid "I'm guarding these crates. That's what I do. At least until my company gets back from their scouting party."
+msgstr "Je surveille ces caisses. C'est ce que je fais. En tout cas jusqu'au retour de mes compagnons partis en éclaireurs."
+
+#: conversationlist_aulowenn.json:aulowenn4
+msgid "Oh I hope they do get back. Come to think of it, they have been away for quite some time now."
+msgstr "Oh j'espère qu'ils reviendront. Quand j'y pense, ils sont partis depuis assez longtemps maintenant..."
+
+#: conversationlist_aulowenn.json:aulowenn5
+msgid "I sure hope they are well. Unlike the others.."
+msgstr "J'espère sincèrement qu'ils sont sains et saufs. Contrairement aux autres..."
+
+#: conversationlist_aulowenn.json:aulowenn5:0
+msgid "What about the others?"
+msgstr "Qu'est-il arrivé aux autres ?"
+
+#: conversationlist_aulowenn.json:aulowenn6
+msgid "In my squad, we were a band of six guards that, together with other squads, were sent out here to find a dangerous madman that takes his refuge somewhere in the nearby hills around here."
+msgstr "Nous étions une escouade de six gardes, envoyée avec d'autres groupes pour retrouver un homme fou et dangereux qui se réfugie quelque part dans les collines alentours."
+
+#: conversationlist_aulowenn.json:aulowenn7
+msgid "But something started to happen once we got here. Some of my fellow guards started acting .. odd."
+msgstr "Mais des choses étranges ont commencé à se produire à notre arrivée. Certains gardes ont eu des comportements... bizarres."
+
+#: conversationlist_aulowenn.json:aulowenn8
+msgid "I don't know if was just me imagining things or if something truly happened to them. Anyway, one by one, we started to get fewer and fewer."
+msgstr "Je ne sais pas si c'est juste moi qui imaginais ces choses où s'il fallait vraiment s'en préoccuper. Mais, un par un, nous avons fini par perdre nos compagnons."
+
+#: conversationlist_aulowenn.json:aulowenn9
+msgid "Some of my men were killed by the creatures that live in these woods, some ran away by themselves and some have never come back from their scouting trips."
+msgstr "Certains de mes hommes ont été tués par les créatures qui vivent dans ces bois, d'autres ont pris la fuite, d'autres encore ne sont jamais revenus de leur mission d'éclairage."
+
+#: conversationlist_aulowenn.json:aulowenn9:0
+#: conversationlist_maevalia.json:maevalia11:0
+msgid "What do you think has happened to them?"
+msgstr "Qu'est-ce qui leur est arrivé d'après vous ?"
+
+#: conversationlist_aulowenn.json:aulowenn_atk0
+msgid "For Feygard!"
+msgstr "Pour Feygard !"
+
+#: conversationlist_aulowenn.json:aulowenn_atk0:0
+#: conversationlist_tiqui.json:tiqui_atk0:0
+#: conversationlist_toszylae_guard.json:toszylae_guard_1_n:0
+#: conversationlist_toszylae_guard.json:toszylae_guard_2_n:0
+#: conversationlist_toszylae_guard.json:toszylae_guard_8:0
+#: conversationlist_ulirfendor.json:ulirfendor_helmet_keep3:0
+msgid "Attack!"
+msgstr "À l'attaque !"
+
+#: conversationlist_aulowenn.json:aulowenn_k0
+msgid "Excellent. Maybe now my brethren can rest peacefully. Thank you so much for helping me."
+msgstr "Excellent. Mes compagnons peuvent peut-être reposer en paix à présent. Merci beaucoup pour m'avoir aidée."
+
+#: conversationlist_aulowenn.json:aulowenn_k1
+msgid "In return, you are very welcome to use my bed to rest whenever you wish."
+msgstr "En retour, n'hésitez pas à vous offrir un peu de repos dans mon lit dès que vous le souhaitez."
+
+#: conversationlist_aulowenn.json:aulowenn_ms0
+msgid "Hello again. Were you successful in defeating that beast?"
+msgstr "Re-bonjour. Avez-vous finalement réussi à vaincre cette créature ?"
 
 #: conversationlist_aulowenn.json:aulowenn_ms0:0
 #: conversationlist_blackwater_harlenn.json:harlenn_killguth_1:1
@@ -1297,12 +1576,267 @@ msgstr "Bonne chance pour ça. Au revoir."
 msgid "What was I supposed to do again?"
 msgstr "Qu'est-ce que j'étais supposé faire, déjà ?"
 
+#: conversationlist_aulowenn.json:aulowenn_ms0:1
+msgid "Yes, I defeated the creature."
+msgstr "Oui, je l'ai vaincue."
+
+#: conversationlist_aulowenn.json:aulowenn_ms0:2
+msgid "Not yet. I'll do it soon enough though."
+msgstr "Pas encore. Mais ce sera fait très bientôt."
+
+#: conversationlist_aulowenn.json:aulowenn_ms0:5
+msgid "I met Tiqui by those graves. He had an interesting tale to tell."
+msgstr "J'ai rencontré Tiqui près des tombes. Il m'a raconté une histoire bien intéressante."
+
+#: conversationlist_aulowenn.json:aulowenn_tq0
+msgid "You actually listened to it? Please, indulge me, what lies did it have you believe?"
+msgstr "Vous l'avez finalement écouté ? Bravo, dans ce cas dites-moi quels mensonges il a bien pu vous sortir."
+
+#: conversationlist_aulowenn.json:aulowenn_tq0:0
+msgid "He told me that you have been killing off his kin."
+msgstr "Il m'a dit que vous avez massacré ses compagnons."
+
+#: conversationlist_aulowenn.json:aulowenn_tq1
+msgid "Of course we have! They've been attacking us, and we've taken precautions by hunting them so they can't kill more of us."
+msgstr "Bien sûr que oui ! Ils nous attaquaient sans répit, nous n'avions pas d'autre choix que de les éliminer afin qu'il ne puissent plus tuer les nôtres."
+
+#: conversationlist_aulowenn.json:aulowenn_tq2
+msgid "To think that they believe they have a chance against the forces of Feygard. Hah! We will cut them down like sheep once the reinforcements get here."
+msgstr "Et dire qu'ils pensaient avoir la moindre chance contre les forces de Feygard. Ha ! Nous les étriperons comme des moutons une fois les renforts arrivés."
+
+#: conversationlist_aulowenn.json:aulowenn_tq2:0
+#: conversationlist_aulowenn.json:aulowenn_tq3:1
+#: conversationlist_aulowenn.json:aulowenn_tq4:1
+msgid "I should leave before there is more bloodshed."
+msgstr "Je devrais partir avant que le sang ne coule à nouveau."
+
+#: conversationlist_aulowenn.json:aulowenn_tq2:1
+msgid "I don't like your tone. They haven't done anything to you."
+msgstr "Je n'aime pas votre ton. Ils ne vous ont rien fait de mal."
+
+#: conversationlist_aulowenn.json:aulowenn_tq2:2
+msgid "I was also asked to take care of you, and I intend to do just that."
+msgstr "On m'a aussi demandé de m'occuper de vous, et c'est bien ce que je compte faire."
+
+#: conversationlist_aulowenn.json:aulowenn_tq3
+msgid "Hah! Take care of me? That will be the day."
+msgstr "Ha ! S'occuper de moi ? C'est bien ma journée."
+
+#: conversationlist_aulowenn.json:aulowenn_tq3:0
+#: conversationlist_aulowenn.json:aulowenn_tq4:0
+msgid "You will be no match for me."
+msgstr "Vous ne pouvez rien contre moi."
+
+#: conversationlist_aulowenn.json:aulowenn_tq4
+msgid "Hah! See, there are those lies that I told you about. They. Attacked. Us. Get it?"
+msgstr "Ha ! Vous voyez, les voilà ces mensonges dont je vous parlais. Ils. Nous. Ont... Attaqués ! Compris ?"
+
+#: conversationlist_aulowenn.json:aulowenn_wb0
+msgid "Welcome back my friend. Thank you for helping me defeat that foul creature that was haunting the grave of my fellow guards."
+msgstr "Vous revoilà mon ami. Merci de m'avoir aidé à combattre cette créature démoniaque qui hantait les tombes de mes amis."
+
+#: conversationlist_benbyr.json:benbyr_accept_1
+msgid "Splendid!"
+msgstr "Splendide !"
+
+#: conversationlist_benbyr.json:benbyr_accept_2
+msgid "I happen to know that there are eight of his sheep in total, and they should all be to the northwest of here."
+msgstr "Je suis informé qu'il y a huit moutons au total, ils devraient tous se trouver au nord-ouest d'ici."
+
+#: conversationlist_benbyr.json:benbyr_accept_3
+msgid "Return to me with proof that you have slain all eight of them."
+msgstr "Revenez me voir avec la preuve que vous les avez tous éliminés."
+
+#: conversationlist_benbyr.json:benbyr_complete_1
+msgid "Hello again. We sure showed that bastard Tinlyn. That should teach him not to mess with me again."
+msgstr "Re-bonjour. Nous avons bien montré à ce bâtard de Tinlyn de quel bois on se chauffe. Cela devrait lui apprendre à ne plus me causer d'ennuis."
+
+#: conversationlist_benbyr.json:benbyr_complete_2
+msgid "This is a glorious day indeed! Tinlyn should have known not to mess with me!"
+msgstr "C'est un grand jour n'est-ce pas ! Tinlyn n'aurait jamais dû se frotter à moi !"
+
+#: conversationlist_benbyr.json:benbyr_complete_3
+msgid "As for you my friend, seek out my friends in Brightport. I am sure they would extend their hospitality to you."
+msgstr "Et en ce qui vous concerne mon ami, rendez visite à mes amis de Clairport. Je suis certain qu'ils vous offriront leur hospitalité."
+
+#: conversationlist_benbyr.json:benbyr_decline_1
+msgid "Very well, but remember that I have my eyes on you.. adventurer."
+msgstr "Très bien, mais souvenez vous que j'ai mes yeux rivés sur vous... aventurier."
+
+#: conversationlist_benbyr.json:benbyr_declined
+msgid "I have nothing more to say to you. Leave me."
+msgstr "Je n'ai rien d'autre à vous dire. Laissez-moi."
+
+#: conversationlist_benbyr.json:benbyr_mission_1
+msgid "Ah, my walking accident returns. He he."
+msgstr "Ah, mon Monsieur Accident est de retour, héhé."
+
 #: conversationlist_benbyr.json:benbyr_mission_1:0
 #: conversationlist_jan.json:jan_return:1
 #: conversationlist_lleglaris.json:lleglaris_r1:0
 #: conversationlist_tiqui.json:tiqui_r0:1
 msgid "Can you tell me your story again?"
 msgstr "Pouvez-vous me raconter une nouvelle fois votre histoire ?"
+
+#: conversationlist_benbyr.json:benbyr_mission_1:1
+msgid "I am still looking for those sheep."
+msgstr "Je suis toujours à la recherche de ces moutons."
+
+#: conversationlist_benbyr.json:benbyr_mission_1:2
+msgid "I have slain all eight of Tinlyn's sheep for you."
+msgstr "J'ai tué les huit moutons de Tinlyn pour vous."
+
+#: conversationlist_benbyr.json:benbyr_mission_2
+msgid "Ha ha! That fool Tinlyn must be in tears. The Shadow surely walks with you my friend."
+msgstr "Haha ! Ce fou de Tinlyn doit être en larmes. L'Ombre est vraiment à vos côtés mon ami."
+
+#: conversationlist_benbyr.json:benbyr_story_1
+msgid "Psst, hey. Over here."
+msgstr "Psss, hé. Par ici."
+
+#: conversationlist_benbyr.json:benbyr_story_10
+msgid "I want to get revenge on that fool Tinlyn of course. Now, my plan is the following:"
+msgstr "Je veux avoir ma revanche sur ce fou de Tinlyn bien sur. Alors, voici mon plan :"
+
+#: conversationlist_benbyr.json:benbyr_story_11
+msgid "I have heard that he is herding sheep these days. This is an excellent opportunity for .. shall we say .. an accident to happen to his sheep. He he."
+msgstr "J'ai entendu dire qu'il tient un troupeau de moutons ces temps-ci. C'est une excellente opportunité pour que... disons... un accident arrive à ses moutons, hein ?"
+
+#: conversationlist_benbyr.json:benbyr_story_12
+msgid "You, my friend, would be the perfect walking accident. I want you to find all of Tinlyn's sheep and make sure they are forever united with the Shadow."
+msgstr "Vous, mon ami, seriez le parfait Monsieur Accident. Je veux que vous retrouviez tous les moutons de Tinlyn, et que vous fassiez en sorte qu'ils rejoignent l'Ombre pour l'éternité."
+
+#: conversationlist_benbyr.json:benbyr_story_13
+msgid "Do this, and I will have avenged that fool Tinlyn."
+msgstr "Faites ça, et j'aurai enfin ma vengance sur cet idiot de Tinlyn."
+
+#: conversationlist_benbyr.json:benbyr_story_13:0
+msgid "Sounds like just my type of thing. I'll do it!"
+msgstr "Ça m'a l'air tout pile dans mes compétences. Je m'en occupe !"
+
+#: conversationlist_benbyr.json:benbyr_story_13:1
+msgid "This sounds a bit shady, but I'll do it anyway."
+msgstr "Cela me semble un peu douteux, mais je m'en occuperai."
+
+#: conversationlist_benbyr.json:benbyr_story_13:2
+msgid "No way, killing innocent sheep is beneath me. I will never do your task."
+msgstr "Jamais de la vie. Je ne pourrai jamais tuer ces moutons innocents..."
+
+#: conversationlist_benbyr.json:benbyr_story_2
+msgid "You look like an aspiring adventurer. Are you willing to do some .. (Benbyr pauses) .. adventuring? He he."
+msgstr "Vous m'avez l'air d'un bien bel aventurier. Est-ce que vous seriez prêt à faire... ehem... une aventure ? Héhé."
+
+#: conversationlist_benbyr.json:benbyr_story_2:0
+msgid "What are we talking about here?"
+msgstr "De quoi est-ce que vous parlez ?"
+
+#: conversationlist_benbyr.json:benbyr_story_2:1
+msgid "Depends on what I get in return."
+msgstr "Cela dépend de ce que j'obtiens en échange."
+
+#: conversationlist_benbyr.json:benbyr_story_2:2
+msgid "I try to help people where ever they might need help."
+msgstr "Je suis toujours prêt à rendre service à ceux qui veulent mon aide."
+
+#: conversationlist_benbyr.json:benbyr_story_3_1
+msgid "Straight to the point eh? I like that."
+msgstr "Concis et direct, hein ? J'aime bien ça."
+
+#: conversationlist_benbyr.json:benbyr_story_3_2
+msgid "Ah, the adventurer seeks compensation. Tell me, is the thrill of an adventure not reward enough?"
+msgstr "Ah oui, un aventurier se doit d'être récompensé. Dis-moi, est-ce que l'adrénaline d'une excitante aventure ne suffit pas ?"
+
+#: conversationlist_benbyr.json:benbyr_story_3_2:0
+msgid "Yes, you are right."
+msgstr "Oui, vous avez raison."
+
+#: conversationlist_benbyr.json:benbyr_story_3_2:1
+#: conversationlist_crossroads_3.json:crossroads_backguard_5
+#: conversationlist_crossroads_3.json:crossroads_backguard_6
+msgid "No."
+msgstr "Non."
+
+#: conversationlist_benbyr.json:benbyr_story_3_3
+msgid "The noble adventurer. He he, I like that. Yes, you will do fine."
+msgstr "Quel noble aventurier. Héhé, j'aime bien ça. Oui, vous ferez très bien l'affaire."
+
+#: conversationlist_benbyr.json:benbyr_story_3_4
+msgid "Then I will surely disappoint you. Return to me once you are ready for my task."
+msgstr "Dans ce cas je risque de vous décevoir. Revenez une fois que vous serez prêt pour ma quête."
+
+#: conversationlist_benbyr.json:benbyr_story_4
+msgid "A while ago, I did some business with a certain man called Tinlyn, over here at this Crossroads guardhouse."
+msgstr "Il y a quelques temps, j'ai eu une affaire avec un certain Tinlyn, là-bas à au poste de garde du Croisement."
+
+#: conversationlist_benbyr.json:benbyr_story_5
+msgid "As to the nature of our business, I can't really tell you. Let's just say that our business was of the kind that it was mutually beneficial that the guards did not know about it."
+msgstr "De quel genre d'affaire il s'agit, ça je ne peux pas en parler. Disons juste que c'était dans notre intérêt que les gardes n'en entendent pas parler."
+
+#: conversationlist_benbyr.json:benbyr_story_6
+msgid "We were ready to finish the big deal, me and Tinlyn. That's when he decided to turn on me."
+msgstr "Nous étions sur le point de conclure l'affaire, Tinlyn et moi. C'est là qu'il s'est retourné contre moi."
+
+#: conversationlist_benbyr.json:benbyr_story_7
+msgid "He reported me to the guards, and made me take the whole blame for our business."
+msgstr "Il m'a dénoncé aux gardes, et m'a fait porter toute la responsabilité dans cette histoire."
+
+#: conversationlist_benbyr.json:benbyr_story_8
+msgid "I was sent to Feygard prison, while he himself was set free for reporting me."
+msgstr "J'ai été envoyé à la prison de Feygard, et lui est resté en liberté, pour m'avoir dénoncé."
+
+#: conversationlist_benbyr.json:benbyr_story_9
+msgid "Argh, that fool Tinlyn. I hope the Shadow never shows him any mercy."
+msgstr "Ah, cet imbécile de Tinlyn. J'espère que l'Ombre sera sans merci avec lui."
+
+#: conversationlist_benbyr.json:benbyr_story_9:0
+msgid "Get to the point already."
+msgstr "Bref, conclusion ?"
+
+#: conversationlist_benbyr.json:benbyr_story_9:1
+msgid "What do you need me to do?"
+msgstr "Qu'attendez-vous de moi."
+
+#: conversationlist_blackwater_harlenn.json:harlenn_1
+msgid "Welcome, traveller."
+msgstr "Bienvenue, voyageur."
+
+#: conversationlist_blackwater_harlenn.json:harlenn_10
+msgid "Well, yes. But just killing them won't have any effect. We have tried that, to no avail. They just keep coming back."
+msgstr "Bien, mais les tuer simplement n'aura aucun effet. On a déjà essayé ça mais ils reviennent toujours."
+
+#: conversationlist_blackwater_harlenn.json:harlenn_12
+msgid "Gornaud? I haven't heard about those. But I'm sure they couldn't possibly be worse than these beasts up here."
+msgstr "Gornaud ? Jamais entendu parlé mais je suis sur qu'ils ne sont pas pires que ces bêtes là !"
+
+#: conversationlist_blackwater_harlenn.json:harlenn_15:0
+#: conversationlist_bwm_agent_3.json:bwm_agent_3_5:0
+msgid "What have they done?"
+msgstr "Qu'ont-ils fait ?"
+
+#: conversationlist_blackwater_harlenn.json:harlenn_15:2
+#: conversationlist_blackwater_harlenn.json:harlenn_17:1
+#: conversationlist_elwyl.json:elwyl_8:1 conversationlist_lodar.json:lodar_5:0
+#: conversationlist_prim_inn.json:laecca_12:0
+#: conversationlist_prim_inn.json:laecca_8:0
+#: conversationlist_talion_2.json:talion_infect_7:1
+msgid "Is there anything I can do to help?"
+msgstr "Qu'est-ce que je peux faire pour vous aider ?"
+
+#: conversationlist_blackwater_harlenn.json:harlenn_16
+msgid "They come here at night and sabotage our supplies."
+msgstr "Ils viennent ici la nuit et pillent nos provisions."
+
+#: conversationlist_blackwater_harlenn.json:harlenn_21
+msgid "Either they stop their attacks, or we will have to deal with them."
+msgstr "S'ils n'arrêtent pas leurs attaques, on va devoir passer un accord avec eux."
+
+#: conversationlist_blackwater_harlenn.json:harlenn_22
+msgid "Good. Now hurry! We don't know how much time we have left before they attack again."
+msgstr "Parfait ! Mais on doit s'activer, on ne sait pas quand la prochaine attaque aura lieu !"
+
+#: conversationlist_blackwater_harlenn.json:harlenn_3
+msgid "We need your help in dealing with some .. problems."
+msgstr "Nous allons avoir besoin de votre aide pour régler ces quelques ... problèmes."
 
 #: conversationlist_blackwater_harlenn.json:harlenn_lookforsigns_1:0
 #: conversationlist_blackwater_harlenn.json:harlenn_return_3:1
@@ -1397,12 +1931,115 @@ msgstr "Non"
 msgid "Ok, goodbye."
 msgstr "Ok, au revoir."
 
+#: conversationlist_charwood1.json:charwd_guard0
+msgid "You better talk to Maevalia."
+msgstr "Vous devriez vous adresser à Maevalia."
+
+#: conversationlist_charwood1.json:charwd_guard0:0
+#: conversationlist_charwood1.json:charwd_guard4:1
+msgid "I've already talked to her, and I have agreed to help find your missing people."
+msgstr "Je lui ai déjà parlé, et j'ai accepté de vous aider à trouver les disparus."
+
+#: conversationlist_charwood1.json:charwd_guard0:1
+msgid "What's back here?"
+msgstr "Qui a-t-il là-derrière ?"
+
+#: conversationlist_charwood1.json:charwd_guard0:2
+#: conversationlist_charwood1.json:charwd_guard4:0
+msgid "Ok, I'll go talk to her."
+msgstr "Ok, je vais lui parler."
+
+#: conversationlist_charwood1.json:charwd_guard1
+msgid "Good. We need all the help we can get."
+msgstr "Bien. Nous avons besoin d'autant d'aide que possible."
+
+#: conversationlist_charwood1.json:charwd_guard2
+msgid "I'll let you enter the hills. Keep heading east, and then turn north once you see the mountain side."
+msgstr "Je vous laisse accéder aux collines. Continuez vers l'est, puis tournez vers le nord quand vous verrez le flanc de la montagne."
+
+#: conversationlist_charwood1.json:charwd_guard2:1
+msgid "I sure hope there's some reward for all of this later."
+msgstr "J'espère bien qu'il y a une récompense au bout de cette mission."
+
+#: conversationlist_charwood1.json:charwd_guard3
+msgid "Yes, you do that."
+msgstr "Oui, faites cela."
+
+#: conversationlist_charwood1.json:charwd_guard4
+msgid "Behind me is the path up to the Charwood mining town. You really should go talk to Maevalia though. She's inside the cabin."
+msgstr "Derrière moi se trouve le chemin vers la ville minière de Charbois. Vous devriez vraiment parler à Maevalia par contre. Elle se trouve dans la cabane."
+
+#: conversationlist_charwood1.json:charwood_rest
+msgid "Khorailla shouts to you: Hey! Get away from there!"
+msgstr "(Khorailla vous crie :) Hé ! Éloignez-vous de là !"
+
+#: conversationlist_charwood1.json:drashad1
+msgid "Thank you for helping us!"
+msgstr "Merci de nous avoir aidés !"
+
+#: conversationlist_charwood1.json:drashad2
+msgid "Please, you have to help us!"
+msgstr "Par pitié, vous devez nous aider ?"
+
+#: conversationlist_charwood1.json:khorailla1
+msgid "Thank you so much for finding our missing people!"
+msgstr "Merci infiniment pour avoir retrouvés nos disparus !"
+
 #: conversationlist_charwood1.json:khorailla1:1
 #: conversationlist_kantya.json:kantya1:0
 #: conversationlist_mikhail.json:mikhail_bread_complete2:0
 #: conversationlist_twoteeth.json:twoteeth_c4:1
 msgid "You're welcome."
 msgstr "De rien."
+
+#: conversationlist_charwood1.json:khorailla2
+msgid "It's not much, but I have some food if you'd like."
+msgstr "Ce n'est pas grand-chose, mais j'ai un peu de nourriture si cela vous intéresse."
+
+#: conversationlist_charwood1.json:khorailla3
+msgid "What ever will we do? Poor Ayell and Fayvara, I sure hope they're alright."
+msgstr "Que pouvons nous faire... ? Pauvres Ayell et Fayvara, j'espère qu'ils vont bien."
+
+#: conversationlist_charwood1.json:khorailla3:1
+msgid "What happened to them?"
+msgstr "Que leur est-il arrivé ?"
+
+#: conversationlist_charwood1.json:khorailla4
+msgid "You should talk to Maevalia over there."
+msgstr "Vous devriez vous adresser à Maevalia là-bas."
+
+#: conversationlist_charwood1.json:khorailla5
+msgid "I'm sorry, I'm too distracted to help you right now."
+msgstr "Je suis désolé, mais je suis trop occupé pour vous aider tout de suite."
+
+#: conversationlist_charwood2.json:ayell
+msgid "You see a pile of bloody body parts."
+msgstr "Un corps démembré et ensanglanté est disposé en tas."
+
+#: conversationlist_charwood2.json:ayell:0
+msgid "[examine the pile]"
+msgstr "[examiner le tas]"
+
+#: conversationlist_charwood2.json:ayell:1
+#: conversationlist_charwood2.json:morenavia:1
+msgid "[leave it alone]"
+msgstr "[laisser le tas]"
+
+#: conversationlist_charwood2.json:ayell_1
+msgid "Among the remains, you find a ring with the insignia 'Ayell'. This must be what's left of the former healer of the Charwood hills."
+msgstr "Parmi les restes, vous trouvez un anneau avec l'insigne 'Ayell'. Ce corps doit être celui de l'ancien guérisseur de Charbois."
+
+#: conversationlist_charwood2.json:charwoodm
+msgid "Bow before the might of the Thukuzun!"
+msgstr "Pliez devant la puissance du Thukuzun !"
+
+#: conversationlist_charwood2.json:charwoodm:0
+msgid "I bow to no one."
+msgstr "Je ne plie devant personne."
+
+#: conversationlist_charwood2.json:charwoodm:1
+msgid "Bow down to your own death!"
+msgstr "Pliez devant votre propre mort !"
 
 #: conversationlist_crossglen.json:arambold1
 msgid ""
@@ -10156,8 +10793,8 @@ msgid "Lodar can create a potion of strength if I bring him a dead spider and th
 msgstr "Lodar peut créer une potion de force si je lui amène une Araignée morte et des ailes d'insecte."
 
 #: questlist_v070_lodar.json:lodar_pots:43
-msgid "Lodar can create a potent defensive potion if I bring him two Arulir skins and a claw from some monster."
-msgstr "Lodar peut créer une potion supérieure de défense si je lui amène deux Peaux d'Arulir et une griffe de monstre."
+msgid "Lodar can create a potent defensive potion if I bring him two Arulir skins and a claw from some monster. The Arulir beasts can be found somewhere up in the north, and the claws can apparently be found from creatures that dwell underground and in caves somewhere outside Fallhaven."
+msgstr "Lodar peut créer une puissante potion défensive si je lui rapporte deux peaux d'Arulir et une griffe de quelque monstre. Les Arulir peuvent être trouvés quelque part dans le Nord, et les griffes peuvent être prises sur des créatures vivant dans des souterrains et des cavernes aux alentours de Fallhaven."
 
 #: questlist_v070_lodar.json:xulviir
 msgid "A creeping fear"

@@ -4,19 +4,15 @@
 	<string name="app_name">Andor\'s Trail</string>
 	<string name="app_description">Um RPG de fantasia baseado em aventuras</string>
 
-	<string name="exit">Sair</string>
 	<string name="exit_to_menu">Ir para menu</string>
-	<string name="menu_pause">Pausa</string>
 	<string name="menu_settings">Preferências</string>
 	<string name="menu_save">Guardar</string>
-	<string name="menu_load">Carregar</string>
 	<string name="menu_save_gamesaved">O jogo foi guardado na posição %1$d</string>
 	<string name="menu_save_failed">Falha ao guardar o jogo! O cartão SD está montado e com permissões de escrita?</string>
 
 	<string name="loadsave_title_save">Guardar jogo</string>
 	<string name="loadsave_title_load">Carregar jogo guardado</string>
 	<string name="loadsave_selectslot">Escolher posição</string>
-	<string name="loadsave_slot_empty">(vazio)</string>
 	<string name="savegame_currenthero_displayinfo">nível %1$d, %2$d exp, %3$d moedas</string>
 
 	<string name="dialog_loading_message">A carregar recursos...</string>
@@ -26,27 +22,17 @@
 
 	<string name="dialog_close">Fechar</string>
 
-	<string name="dialog_confirmexit_title">Sair</string>
-	<string name="dialog_confirmexit_message">Tem a certeza que quer sair?</string>
-
-	<string name="dialog_paused_title">Pausa</string>
-	<string name="dialog_paused_message">O jogo está em pausa</string>
-	<string name="dialog_paused_resume">Continuar</string>
-
 	<string name="dialog_monsterencounter_title">Combate</string>
 	<string name="dialog_monsterencounter_message">Deseja atacar?\nDificuldade: %1$s</string>
 	<string name="dialog_monsterencounter_info">Informação</string>
 
 	<string name="status_hp">HP:</string>
-	<string name="status_mp">MP:</string>
 	<string name="status_ap">AP:</string>
 	<string name="status_exp">Nível:</string>
 
 	<string name="heroinfo_char">Vista Geral</string>
 	<string name="heroinfo_inv">Inventário</string>
-	<string name="heroinfo_wear">Em uso</string>
 	<string name="heroinfo_skill">Habilidades</string>
-	<string name="heroinfo_spell">Feitiços</string>
 	<string name="heroinfo_levelup">Subir de nível</string>
 	<string name="heroinfo_level">Nível</string>
 	<string name="heroinfo_totalexperience">Experiência total</string>
@@ -59,7 +45,6 @@
 	<string name="combat_attack">Atacar (%1$d AP)</string>
 	<string name="combat_move">Deslocar (%1$d AP)</string>
 	<string name="combat_use">Usar objecto</string>
-	<string name="combat_spell">Feitiço</string>
 	<string name="combat_endturn">Terminar turno</string>
 	<!-- <string name="combat_endcombat">Terminar combate</string>-->
 	<string name="combat_flee">Fuga</string>
@@ -108,10 +93,7 @@
 	<string name="actorinfo_class">Classe:</string>
 	<string name="actorinfo_difficulty">Dificuldade:</string>
 	<string name="actorinfo_health">Saúde:</string>
-	<string name="actorinfo_attacksperturn">Ataques/turno:</string>
-	<string name="actorinfo_movesperturn">Deslocação/turno:</string>
 	<string name="actorinfo_attack">Ataque:</string>
-	<string name="actorinfo_criticalhit">Golpe crítico:</string>
 	<string name="actorinfo_defense">Defesa:</string>
 	<string name="actorinfo_movecost">Custo de deslocação (AP):</string>
 	<string name="actorinfo_basetraits">Estatíticas de combate base (sem equipamento nem habilidades)</string>
@@ -134,18 +116,6 @@
 	<string name="iteminfo_action_use_ap">Usar (%1$d AP)</string>
 	<string name="iteminfo_action_equip_ap">Equipar (%1$d AP)</string>
 	<string name="iteminfo_action_unequip_ap">Desequipar (%1$d AP)</string>
-
-	<string name="itemcategory_money">Dinheiro</string>
-	<string name="itemcategory_weapon">Arma</string>
-	<string name="itemcategory_shield">Escudo</string>
-	<string name="itemcategory_wearable_head">Usável (cabeça)</string>
-	<string name="itemcategory_wearable_body">Usável (corpo)</string>
-	<string name="itemcategory_wearable_hand">Usável (mãos)</string>
-	<string name="itemcategory_wearable_feet">Usável (pés)</string>
-	<string name="itemcategory_wearable_neck">Usável (pescoço)</string>
-	<string name="itemcategory_wearable_ring">Usável (anel)</string>
-	<string name="itemcategory_potion">Poção</string>
-	<string name="itemcategory_other">Outra</string>
 
 	<string name="startscreen_continue">Continuar o jogo actual</string>
 	<string name="startscreen_newgame">Novo jogo</string>
@@ -228,7 +198,6 @@
 		Muito obrigado por todos os contactos!
 	</string>
 
-	<string name="questlog_title">Aventuras</string>
 	<string name="questlog_includecompleted_prompt">Selecção das aventuras a mostrar</string>
 	<string name="questlog_includecompleted_hidecompleted">Esconder aventuras terminadas</string>
 	<string name="questlog_includecompleted_includecompleted">Incluir aventuras terminadas</string>

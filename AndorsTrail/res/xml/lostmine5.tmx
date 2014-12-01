@@ -132,15 +132,15 @@
  </layer>
  <layer name="Above" width="12" height="29">
   <data encoding="base64" compression="zlib">
-   eJxjYKAOSBcgTT4Nj3qQWm9eBgYfXuLsDidgdyqaPLp6dHlSzUcHskykmQ8ChMIPHYRjCaO3PMS7idaAHP8MdfXTiEyvxJqPHIb48gtMLSE1uOx/ToQ+XO51xZHmkNXD0j++fEBOHsOX3rGBwZAmAQd9E3A=
+   eJxjYKAOCBcgTT4Nj/p0oJw3LwODDy917E5Fk0dXjy5PqvnoQJaJNPNBIJ1EO8KxhNFbHuLdRGtAjn+GuvppRKZXYs1HVoMvv4AAKLwJqcFl9nMS3YIMXHGkOWT1sPSPLx+Qk8fwpXdsYDCkSQBHLhNA
   </data>
  </layer>
- <layer name="Walkable" width="12" height="29">
+ <layer name="Walkable" width="12" height="29" visible="0">
   <data encoding="base64" compression="zlib">
    eJxzFWBgcB0gDAKkqIUBYtXhUosujwvgMxddPy47kOWpaT42c4kNU3zuoDT8sfmflumBFmaTa/5gcg8xdqCnG3zqCQFi3EvILlLMp1eaobZ6ANTRVFc=
   </data>
  </layer>
- <objectgroup name="Mapevents" width="12" height="29">
+ <objectgroup name="Mapevents" width="0" height="0">
   <object name="up lostmine5" type="mapchange" x="224" y="64" width="32" height="32">
    <properties>
     <property name="map" value="lostmine4"/>
@@ -154,7 +154,7 @@
    </properties>
   </object>
  </objectgroup>
- <objectgroup name="Spawn" width="12" height="29">
+ <objectgroup name="Spawn" width="0" height="0">
   <object name="ash3" type="spawn" x="32" y="128" width="320" height="288">
    <properties>
     <property name="quantity" value="3"/>
@@ -184,5 +184,5 @@
   </object>
   <object name="ash4" type="spawn" x="128" y="800" width="32" height="32"/>
  </objectgroup>
- <objectgroup name="Keys" width="12" height="29"/>
+ <objectgroup name="Keys" width="0" height="0"/>
 </map>

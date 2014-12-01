@@ -1,0 +1,88 @@
+# Chinese (Simplified) translation for andors-trail
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the andors-trail package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: andors-trail\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: Sun Nov 10 11:14:56 CET 2013\n"
+"PO-Revision-Date: 2014-04-29 13:23+0000\n"
+"Last-Translator: KL <sumoisrock@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-05-28 22:16+0000\n"
+"X-Generator: Launchpad (build 17017)\n"
+
+#: [none]
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  KL https://launchpad.net/~sumoisrock"
+
+#: actorconditions_v0611.json:stunned
+msgid "Stunned"
+msgstr "被震慑"
+
+#: actorconditions_v069.json:bless
+msgid "Bless"
+msgstr "祝福"
+
+#: actorconditions_v069.json:str
+msgid "Strength"
+msgstr "力量"
+
+#: actorconditions_v069_bwm.json:intoxicated
+msgid "Intoxicated"
+msgstr "醉酒"
+
+#: actorconditions_v070.json:haste
+msgid "Haste"
+msgstr "加速"
+
+#: actorconditions_v070.json:regen2
+msgid "Regeneration"
+msgstr "急速自愈"
+
+#: conversationlist_agthor.json:agthor_guard0:0
+#: conversationlist_ambelie.json:ambelie_1:0
+#: conversationlist_arghes.json:arghes_2:1
+#: conversationlist_blackwater_harlenn.json:harlenn_3:0
+#: conversationlist_blackwater_throdna.json:throdna_loop_1:1
+#: conversationlist_elythom_1.json:elythom_knight2:0
+#: conversationlist_esfiume.json:erethori0:1
+#: conversationlist_farrik.json:farrik_1:0
+#: conversationlist_foamingflask_guards.json:ff_captain_1:2
+#: conversationlist_foamingflask_outsideguard.json:ff_outsideguard_1:0
+#: conversationlist_lethenlor.json:lethenlor0:0
+#: conversationlist_lethenlor.json:lethenlor3:0
+#: conversationlist_loneford_3.json:sienn:0
+#: conversationlist_loneford_3.json:sienn_pet_1:0
+#: conversationlist_loneford_kuldan.json:kuldan_1:1
+#: conversationlist_lowyna.json:lowyna_1:0
+#: conversationlist_lowyna.json:lowyna_4:1
+#: conversationlist_prim_arghest.json:arghest_1:1
+#: conversationlist_prim_arghest.json:arghest_4:0
+#: conversationlist_prim_guthbered.json:guthbered_1:1
+#: conversationlist_prim_outside.json:moyra_1:1
+#: conversationlist_reinkarr.json:reinkarr:0
+#: conversationlist_reinkarr.json:reinkarr_1:0
+#: conversationlist_reinkarr.json:reinkarr_2:0
+#: conversationlist_thievesguild_1.json:thievesguild_pickpocket_1:0
+#: conversationlist_thorin.json:thorin_2:1
+#: conversationlist_ulirfendor.json:ulirfendor_2:2
+msgid "Who are you?"
+msgstr "您是谁？"
+
+#: conversationlist_agthor.json:agthor_guard0:2
+msgid "Are you from Feygard?"
+msgstr "你从 Feygard 来吗？"
+
+#: conversationlist_agthor.json:agthor_y4:0
+#: conversationlist_crossroads_2.json:gallain_trade_1:0
+msgid "Trade"
+msgstr "交易"

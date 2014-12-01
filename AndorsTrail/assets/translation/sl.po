@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: andors-trail\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: Sat Oct 26 09:46:51 CEST 2013\n"
-"PO-Revision-Date: 2013-11-03 06:51+0000\n"
+"POT-Creation-Date: Sun Nov 10 11:14:56 CET 2013\n"
+"PO-Revision-Date: 2013-12-23 19:26+0000\n"
 "Last-Translator: Andrej Znidarsic <andrej.znidarsic@gmail.com>\n"
 "Language-Team: Slovenian <sl@li.org>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-11-03 15:18+0000\n"
-"X-Generator: Launchpad (build 16820)\n"
+"X-Launchpad-Export-Date: 2014-05-28 22:15+0000\n"
+"X-Generator: Launchpad (build 17017)\n"
 
 #: [none]
 msgid "translator-credits"
@@ -112,17 +112,97 @@ msgstr "Regeneracija Sence"
 msgid "Strength"
 msgstr "Moč"
 
+#: actorconditions_v069_bwm.json:blackwater_misery
+msgid "Blackwater misery"
+msgstr "Črnovodna beda"
+
 #: actorconditions_v069_bwm.json:bleeding_wound
 msgid "Bleeding wound"
 msgstr "Krvaveča rana"
+
+#: actorconditions_v069_bwm.json:dazed
+msgid "Dazed"
+msgstr "Omotičen"
+
+#: actorconditions_v069_bwm.json:fatigue_minor
+msgid "Minor fatigue"
+msgstr "Manjša utrujenost"
+
+#: actorconditions_v069_bwm.json:feebleness_minor
+msgid "Minor weapon feebleness"
+msgstr "Manjša šibkost orožja"
 
 #: actorconditions_v069_bwm.json:intoxicated
 msgid "Intoxicated"
 msgstr "Zastrupljen"
 
+#: actorconditions_v069_bwm.json:rage_minor
+msgid "Minor berserker rage"
+msgstr "Manjši nori bes"
+
 #: actorconditions_v069_bwm.json:speed_minor
 msgid "Minor speed"
 msgstr "Manjša hitrost"
+
+#: actorconditions_v070.json:barkskin
+msgid "Bark skin"
+msgstr "Utrjena koža"
+
+#: actorconditions_v070.json:courage
+msgid "Courage"
+msgstr "Pogum"
+
+#: actorconditions_v070.json:crit_aware
+msgid "Vulnerability awareness"
+msgstr "Zavedanje ranljivosti"
+
+#: actorconditions_v070.json:def
+msgid "Fortified defense"
+msgstr "Okrepljena obramba"
+
+#: actorconditions_v070.json:fear
+msgid "Fear"
+msgstr "Strah"
+
+#: actorconditions_v070.json:fire
+msgid "Ablaze"
+msgstr "V ognju"
+
+#: actorconditions_v070.json:haste
+msgid "Haste"
+msgstr "Naglica"
+
+#: actorconditions_v070.json:regen2
+msgid "Regeneration"
+msgstr "Regeneracija"
+
+#: actorconditions_v070.json:sense_1
+msgid "Heightened senses"
+msgstr "Občutljiva čutila"
+
+#: actorconditions_v070.json:shadow_acc
+msgid "Shadow's accuracy"
+msgstr "Senčina natančnost"
+
+#: actorconditions_v070.json:shadow_dmg
+msgid "Shadow's strength"
+msgstr "Senčnina moč"
+
+#: actorconditions_v070.json:shadow_prot
+msgid "Shadow's protection"
+msgstr "Senčina zaščita"
+
+#: actorconditions_v070.json:slime
+msgid "Corrosive Slime"
+msgstr "Razjedajoča sluz"
+
+#: actorconditions_v070.json:sting_minor
+msgid "Minor sting"
+msgstr "Manjši pik"
+
+#: conversationlist_agthor.json:agthor0
+msgid "Hello there. Please move along. These things are property of Feygard, and you have no business here."
+msgstr "Pozdravljen. Premakni se naprej. Te stvari so lastnost Feygarda in tukaj nimaš kaj delati."
 
 #: itemcategories_1.json:2hsword
 msgid "Two-handed sword"

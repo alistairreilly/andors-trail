@@ -1,0 +1,124 @@
+# Thai translation for andors-trail
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the andors-trail package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: andors-trail\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: Sun Nov 10 11:14:56 CET 2013\n"
+"PO-Revision-Date: 2014-04-29 13:40+0000\n"
+"Last-Translator: KL <sumoisrock@gmail.com>\n"
+"Language-Team: Thai <th@li.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-05-28 22:16+0000\n"
+"X-Generator: Launchpad (build 17017)\n"
+
+#: [none]
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  KL https://launchpad.net/~sumoisrock"
+
+#: actorconditions_v069.json:str
+msgid "Strength"
+msgstr "ความแข็งแรง"
+
+#: actorconditions_v069_bwm.json:intoxicated
+msgid "Intoxicated"
+msgstr "เมา"
+
+#: conversationlist_agthor.json:agthor_guard0
+msgid "Talk to Agthor."
+msgstr "คุยกับแอกเทอร์ซะ"
+
+#: conversationlist_agthor.json:agthor_guard0:0
+#: conversationlist_ambelie.json:ambelie_1:0
+#: conversationlist_arghes.json:arghes_2:1
+#: conversationlist_blackwater_harlenn.json:harlenn_3:0
+#: conversationlist_blackwater_throdna.json:throdna_loop_1:1
+#: conversationlist_elythom_1.json:elythom_knight2:0
+#: conversationlist_esfiume.json:erethori0:1
+#: conversationlist_farrik.json:farrik_1:0
+#: conversationlist_foamingflask_guards.json:ff_captain_1:2
+#: conversationlist_foamingflask_outsideguard.json:ff_outsideguard_1:0
+#: conversationlist_lethenlor.json:lethenlor0:0
+#: conversationlist_lethenlor.json:lethenlor3:0
+#: conversationlist_loneford_3.json:sienn:0
+#: conversationlist_loneford_3.json:sienn_pet_1:0
+#: conversationlist_loneford_kuldan.json:kuldan_1:1
+#: conversationlist_lowyna.json:lowyna_1:0
+#: conversationlist_lowyna.json:lowyna_4:1
+#: conversationlist_prim_arghest.json:arghest_1:1
+#: conversationlist_prim_arghest.json:arghest_4:0
+#: conversationlist_prim_guthbered.json:guthbered_1:1
+#: conversationlist_prim_outside.json:moyra_1:1
+#: conversationlist_reinkarr.json:reinkarr:0
+#: conversationlist_reinkarr.json:reinkarr_1:0
+#: conversationlist_reinkarr.json:reinkarr_2:0
+#: conversationlist_thievesguild_1.json:thievesguild_pickpocket_1:0
+#: conversationlist_thorin.json:thorin_2:1
+#: conversationlist_ulirfendor.json:ulirfendor_2:2
+msgid "Who are you?"
+msgstr "เจ้าเป็นใคร?"
+
+#: conversationlist_agthor.json:agthor_guard0:1
+#: conversationlist_thorin.json:thorin_2:0
+#: conversationlist_thorin.json:thorin_who_1:0
+msgid "What are you doing here?"
+msgstr "เจ้ามาทำอะไรที่นี่?"
+
+#: conversationlist_agthor.json:agthor_guard0:2
+msgid "Are you from Feygard?"
+msgstr "เจ้ามาจากเฟย์การ์ดหรือเปล่า?"
+
+#: conversationlist_agthor.json:agthor_guard0_1
+msgid "Agthor. Talk to him. *points at Agthor*"
+msgstr "แอกเทอร์ พูดกับเขาว่า *ชี้ที่ข้าซะ* ซะ"
+
+#: conversationlist_ailshara.json:ailshara_deliver_1:1
+#: conversationlist_ailshara.json:ailshara_interested_1:0
+msgid "Never mind that, let me see what you have to trade."
+msgstr "ไม่ต้องห่วงเรื่องนั้นหรอก เอาสิ่งที่เจ้าจะเอามาประทับตรามาให้ข้าดูซิ"
+
+#: conversationlist_ailshara.json:ailshara_deliver_1:2
+#: conversationlist_ailshara.json:ailshara_interested_8:1
+msgid "No. I will help Feygard instead."
+msgstr "ไม่ได้ ข้าจะช่วยเฟย์การ์ดแทน"
+
+#: conversationlist_ailshara.json:ailshara_deliver_1:3
+#: conversationlist_prim_guthbered.json:guthbered_killharl_1:0
+msgid "Can you tell me again what I was supposed to do?"
+msgstr "เจ้าบอกข้าอีกทีได้ไหมว่าข้าควรจะทำอะไร?"
+
+#: conversationlist_ailshara.json:ailshara_deliver_1:4
+msgid "Not yet."
+msgstr "ยังเลย"
+
+#: conversationlist_ailshara.json:ailshara_deliver_2
+msgid "Good. You should also try to convince Gandoren into thinking that you helped him."
+msgstr "ดีมาก เจ้าควรจะลองเชื่อมั่นแกนโดเรนดูแล้วคิดไว้ซะว่าเจ้าช่วยพวกเขาแล้ว"
+
+#: conversationlist_ailshara.json:ailshara_deliver_3
+msgid "Excellent! You do indeed walk with the Shadow my friend. I am glad to hear that there are at least a few decent folk still around."
+msgstr "ดีมาก! เจ้าทำเดินจริงกับชาโดว์ เพื่อนข้าได้ ข้าดีใจด้วยที่ได้ข่าวว่ายังมีความเป็นพื้นบ้านที่ดีอยู่ไม่มาก"
+
+#: conversationlist_ailshara.json:ailshara_delivered_1
+msgid "Your help will be most appreciated by the people of Nor City, and you will be welcome among us."
+msgstr "ความช่วยเหลือของเจ้าจะถูกชื่นชมจากคนในเมืองนอร์ แล้วเจ้าจะถูกต้อนรับท่ามกลางพวกเรา"
+
+#: conversationlist_ailshara.json:ailshara_fg_1
+msgid "By the Shadow, you sound like one of those deceptive snobs from Feygard."
+msgstr "นี่ ชาโดว์ เสียงเจ้านี่เหมือนหนึ่งในบรรดาคนเสแสร้งหลอกหลวงของเฟย์การ์ดเลยนะ"
+
+#: conversationlist_ailshara.json:ailshara_fg_2
+msgid "Shadow help you, child. You should question yourself whether you really are making the right choice here."
+msgstr "ชาโดว์จะช่วยเจ้านะ ไอ้หนู ถามตัวเองซะไม่ว่าเจ้าจะทำสิ่งที่ถูกต้องอยู่นี่"
+
+#: conversationlist_ailshara.json:ailshara_interested_1
+msgid "Psst, hey you! I saw you talking to Gandoren over there, and I happened to notice that you exchanged some items. Anything interesting?"
+msgstr "นี่! ข้าเห็นเจ้ากำลังคุยกับแกนโดเรนอยู่ตรงนั้น แล้วข้าอยากแจ้งเจ้าว่าเจ้าได้แลกเปลี่ยนบางสิ่งบางอย่างไปแล้วนะ มีอะไรสนใจไหม?"

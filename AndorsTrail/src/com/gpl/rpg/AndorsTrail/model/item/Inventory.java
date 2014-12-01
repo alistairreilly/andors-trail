@@ -92,6 +92,8 @@ public final class Inventory extends ItemContainer {
 	public Inventory(DataInputStream src, WorldContext world, int fileversion) throws IOException {
 		this.readFromParcel(src, world, fileversion);
 	}
+
+	@Override
 	public void readFromParcel(DataInputStream src, WorldContext world, int fileversion) throws IOException {
 		super.readFromParcel(src, world, fileversion);
 		gold = src.readInt();
@@ -120,8 +122,9 @@ public final class Inventory extends ItemContainer {
 		}
 	}
 
-	public void writeToParcel(DataOutputStream dest, int flags) throws IOException {
-		super.writeToParcel(dest, flags);
+	@Override
+	public void writeToParcel(DataOutputStream dest) throws IOException {
+		super.writeToParcel(dest);
 		dest.writeInt(gold);
 		dest.writeInt(NUM_WORN_SLOTS);
 		for(int i = 0; i < NUM_WORN_SLOTS; ++i) {

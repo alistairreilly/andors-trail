@@ -122,41 +122,35 @@
  </tileset>
  <layer name="Ground" width="20" height="20">
   <data encoding="base64" compression="zlib">
-   eJzTY2JgcKAS1gNifSD2FqQO1oWaFy1IHQwzj52deOwggBujmydOpHm45Ehx3wtmBgYDJoh5MkCaCwvWI9M8AxxxSK77DHDEIbJ5hMIO3Txyw0+cRPP0cIQtNqxPpPuITf/o7stlgeA8IM5nwZ4/CoDiWUDcC8SFQJwDxEVAXMxCfPip8jMwqPETjmNqxAcu82B+hPmZkHlpQDXpUJwBxJkskDAEmQeiqeG+aKh50RSah5zWiSkP5vPjL4fQMT7zQOlZhgSMrB9dDmQWAOtiTOo=
+   eJzTY2JgcKAS1gNifSD2FqQO1oWaFy1IHQwzj52dODyfH+gvAdwY3TxxIswE6cMlR4r7XjAzMBgwQcyTAdJcWLAemeYZ4IhDct1ngCMOkc0jFHbo5pEbfuIkmqeHI2yxYX0i3Uds+kd3Xy4LBOcBcT4L9vxRABTPAuJeIC4E4hwgLgLiYhbiw08VmO7V+AnHMTXiA5d5MD/C/EzIvDSgmnQozgDiTBZIGILMA9HUcF801LxoCs0jppzAZp4dC/FuxZeeZaiEQWYBADx2SjY=
   </data>
  </layer>
  <layer name="Objects" width="20" height="20">
   <data encoding="base64" compression="zlib">
-   eJxjYKA+eMkFoZW5EWwhKFuEG6HGix8hj6wPnU1toI7E3s6MHacK4Dejnx/BNqeR+85w4WaTAmDuu8OFm40OVkDjC5mmxH1uLAwMfcBw7QfiCcwQPiXuC2OBxNF8oFkLmCF8StxHCxDLjIoHG6hlgeA6IK5nwa6mASg+F4obgbgGiJuAuBmHemzAFJhXzPgJqyMWEBt/HlA7w/kRfoT5GTl/Y0tfZUA15VBcAcSVJPiXXODNjIopBVuZUTE5QJYJQkszYZcHALy+ORo=
+   eJxjYKA+eMkFoZW5EWwhKFuEG6HGix8hj6wPnU1toI7E3s6MHacK4Dejnx/BNqeR+85w4WaTAmDuu8OFm40OVkDjC5mmxH1uLAwMfcBw7QfiCcwQPiXuC2OBxNF8oFkLmCF8StxHCxDLjIqRwUxG+rgBH6hlgeA6IK5nwa6mASg+F4obgbgGiJuAuBmHemzAFJhXzKD5pZMK/kaOP3zh6AG1M5wf4UeYn5HzN7b0VQZUUw7FFUBcSYJ/PzMTVoMNeDOjYhhgBtqtDrVfl4Vw2QQDW5lRMS0AAJ/jPGo=
   </data>
  </layer>
  <layer name="Above" width="20" height="20">
   <data encoding="base64" compression="zlib">
-   eJxjYKA+CBcYNW+omgdTi0/PYDFvHjMDgyY37d1HChhK4TdqHunmpQmg0pSaRwygtnnUBACRChCl
+   eJxjYKA+CBcY/OalU9FMkHnUdCO6eek42OSah4uNzMfnn8Fi3jxmBgZNbtq7jxRArH+HgnnEpDVSzEujsnnEAGqbl0aEXwZ7+UdNAAB6+xiZ
   </data>
  </layer>
- <layer name="Walkable" width="20" height="20" visible="0">
+ <layer name="Walkable" width="20" height="20">
   <data encoding="base64" compression="zlib">
    eJxzFWBgcB2BGAYIyeMDpKglxTyYmYTY2PiE/IqLTYp5w9F9hOKDlHRFK/Oole5JiRdq+pcQwGcnujixYUsr8/D5l1qAUvOokV4IpQMA2g1XqQ==
   </data>
  </layer>
- <objectgroup name="Mapevents" width="20" height="20">
+ <objectgroup name="Mapevents" width="0" height="0">
   <object name="north" type="mapchange" x="576" y="96" width="32" height="32">
    <properties>
     <property name="map" value="blackwater_mountain43"/>
     <property name="place" value="south"/>
    </properties>
   </object>
-  <object name="south" type="mapchange" x="32" y="576" width="32" height="32">
+  <object name="south" type="mapchange" x="352" y="96" width="32" height="32">
    <properties>
     <property name="map" value="blackwater_mountain45"/>
     <property name="place" value="south"/>
-   </properties>
-  </object>
-  <object name="west" type="mapchange" x="416" y="608" width="32" height="32">
-   <properties>
-    <property name="map" value="blackwater_mountain52"/>
-    <property name="place" value="north"/>
    </properties>
   </object>
   <object name="rest6" type="rest" x="224" y="192" width="32" height="32"/>
@@ -167,7 +161,7 @@
   <object name="rest1" type="rest" x="32" y="128" width="32" height="32"/>
   <object name="rest3" type="rest" x="32" y="256" width="32" height="32"/>
  </objectgroup>
- <objectgroup name="Spawn" width="20" height="20" visible="0">
+ <objectgroup name="Spawn" width="0" height="0">
   <object name="blackwater_sleephall" type="spawn" x="64" y="96" width="32" height="32"/>
   <object name="herec" type="spawn" x="160" y="288" width="32" height="32"/>
   <object name="iducus" type="spawn" x="64" y="448" width="128" height="64"/>
@@ -176,28 +170,28 @@
   <object name="blackwater_guard1" type="spawn" x="448" y="128" width="96" height="32"/>
   <object name="blackwater_guard1" type="spawn" x="448" y="512" width="32" height="32"/>
  </objectgroup>
- <objectgroup name="Keys" width="20" height="20" visible="0">
+ <objectgroup name="Keys" width="0" height="0">
   <object name="nondisplay:16" type="key" x="224" y="160" width="32" height="160">
    <properties>
     <property name="phrase" value="bwm_sleephall_1"/>
-    <property name="requireType" value="questProgress"/>
     <property name="requireId" value="nondisplay"/>
+    <property name="requireType" value="questProgress"/>
     <property name="requireValue" value="16"/>
    </properties>
   </object>
   <object name="nondisplay:16" type="key" x="128" y="160" width="32" height="160">
    <properties>
     <property name="phrase" value="bwm_sleephall_1"/>
-    <property name="requireType" value="questProgress"/>
     <property name="requireId" value="nondisplay"/>
+    <property name="requireType" value="questProgress"/>
     <property name="requireValue" value="16"/>
    </properties>
   </object>
   <object name="nondisplay:16" type="key" x="32" y="96" width="32" height="224">
    <properties>
     <property name="phrase" value="bwm_sleephall_1"/>
-    <property name="requireType" value="questProgress"/>
     <property name="requireId" value="nondisplay"/>
+    <property name="requireType" value="questProgress"/>
     <property name="requireValue" value="16"/>
    </properties>
   </object>

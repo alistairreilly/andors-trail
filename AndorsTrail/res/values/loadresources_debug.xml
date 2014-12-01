@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    
+	<array name="loadresource_actorconditions_debug">
+		<item>@raw/actorconditions_debug</item>
+	</array>
+    
 	<array name="loadresource_items_debug">
 		<item>@raw/itemlist_money</item>
 		<item>@raw/itemlist_weapons</item>

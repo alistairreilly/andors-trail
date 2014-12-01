@@ -10,7 +10,6 @@ import com.gpl.rpg.AndorsTrail.model.ability.ActorCondition;
 import com.gpl.rpg.AndorsTrail.model.ability.SkillCollection;
 import com.gpl.rpg.AndorsTrail.model.item.DropListCollection;
 import com.gpl.rpg.AndorsTrail.model.item.Inventory;
-import com.gpl.rpg.AndorsTrail.model.item.ItemTypeCollection;
 import com.gpl.rpg.AndorsTrail.model.item.Loot;
 import com.gpl.rpg.AndorsTrail.model.quest.QuestProgress;
 import com.gpl.rpg.AndorsTrail.resource.tiles.TileManager;
@@ -49,7 +48,7 @@ public final class Player extends Actor {
 	private final HashMap<String, Integer> alignments = new HashMap<String, Integer>();
 
 	// Unequipped stats
-	public class PlayerBaseTraits {
+	public static final class PlayerBaseTraits {
 		public int iconID;
 		public int maxAP;
 		public int maxHP;
@@ -93,7 +92,7 @@ public final class Player extends Actor {
 		this.inventory = new Inventory();
 	}
 
-	public void initializeNewPlayer(ItemTypeCollection types, DropListCollection dropLists, String name) {
+	public void initializeNewPlayer(DropListCollection dropLists, String playerName) {
 		baseTraits.iconID = TileManager.CHAR_HERO;
 		baseTraits.maxAP = 10;
 		baseTraits.maxHP = 25;
@@ -107,7 +106,7 @@ public final class Player extends Actor {
 		baseTraits.damageResistance = 0;
 		baseTraits.useItemCost = 5;
 		baseTraits.reequipCost = 5;
-		this.name = name;
+		this.name = playerName;
 		this.level = 1;
 		this.totalExperience = 1;
 		this.inventory.clear();
@@ -261,7 +260,7 @@ public final class Player extends Actor {
 
 	// ====== PARCELABLE ===================================================================
 
-	public static Player readFromParcel(DataInputStream src, WorldContext world, ControllerContext controllers, int fileversion) throws IOException {
+	public static Player newFromParcel(DataInputStream src, WorldContext world, ControllerContext controllers, int fileversion) throws IOException {
 		Player player = new Player(src, world, fileversion);
 		LegacySavegameFormatReaderForPlayer.upgradeSavegame(player, world, controllers, fileversion);
 		return player;
@@ -357,7 +356,7 @@ public final class Player extends Actor {
 		}
 	}
 
-	public void writeToParcel(DataOutputStream dest, int flags) throws IOException {
+	public void writeToParcel(DataOutputStream dest) throws IOException {
 		dest.writeInt(baseTraits.iconID);
 		dest.writeInt(baseTraits.maxAP);
 		dest.writeInt(baseTraits.maxHP);
@@ -367,23 +366,23 @@ public final class Player extends Actor {
 		dest.writeInt(baseTraits.attackChance);
 		dest.writeInt(baseTraits.criticalSkill);
 		dest.writeFloat(baseTraits.criticalMultiplier);
-		baseTraits.damagePotential.writeToParcel(dest, flags);
+		baseTraits.damagePotential.writeToParcel(dest);
 		dest.writeInt(baseTraits.blockChance);
 		dest.writeInt(baseTraits.damageResistance);
 		dest.writeInt(baseTraits.moveCost);
 
-		ap.writeToParcel(dest, flags);
-		health.writeToParcel(dest, flags);
-		position.writeToParcel(dest, flags);
+		ap.writeToParcel(dest);
+		health.writeToParcel(dest);
+		position.writeToParcel(dest);
 		dest.writeInt(conditions.size());
 		for (ActorCondition c : conditions) {
-			c.writeToParcel(dest, flags);
+			c.writeToParcel(dest);
 		}
-		lastPosition.writeToParcel(dest, flags);
-		nextPosition.writeToParcel(dest, flags);
+		lastPosition.writeToParcel(dest);
+		nextPosition.writeToParcel(dest);
 		dest.writeInt(level);
 		dest.writeInt(totalExperience);
-		inventory.writeToParcel(dest, flags);
+		inventory.writeToParcel(dest);
 		dest.writeInt(baseTraits.useItemCost);
 		dest.writeInt(baseTraits.reequipCost);
 		dest.writeInt(skillLevels.size());

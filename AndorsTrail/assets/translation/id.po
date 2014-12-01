@@ -7,22 +7,360 @@ msgid ""
 msgstr ""
 "Project-Id-Version: andors-trail\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: Sat Oct 26 09:46:51 CEST 2013\n"
-"PO-Revision-Date: 2013-10-26 08:31+0000\n"
-"Last-Translator: Launchpad Translations Administrators <Unknown>\n"
+"POT-Creation-Date: Sun Nov 10 11:14:56 CET 2013\n"
+"PO-Revision-Date: 2014-05-10 06:16+0000\n"
+"Last-Translator: Arief Setiadi Wibowo <q_thrynx@yahoo.com>\n"
 "Language-Team: Indonesian <id@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-10-26 09:06+0000\n"
-"X-Generator: Launchpad (build 16810)\n"
+"X-Launchpad-Export-Date: 2014-05-28 22:14+0000\n"
+"X-Generator: Launchpad (build 17017)\n"
 
 #: [none]
 msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
+"  Arief Setiadi Wibowo https://launchpad.net/~q-thrynx\n"
 "  Noza Putra Pratama https://launchpad.net/~mas-noza"
+
+#: actorconditions_v0611_2.json:crit1
+msgid "Internal bleeding"
+msgstr "Perdarahan dalam"
+
+#: actorconditions_v0611_2.json:crit2
+msgid "Fracture"
+msgstr "Tulang"
+
+#: actorconditions_v0612_2.json:foodp
+msgid "Food-poisoning"
+msgstr "Racun makanan"
+
+#: actorconditions_v069.json:poison_weak
+msgid "Weak Poison"
+msgstr "Racun ringan"
+
+#: actorconditions_v069.json:str
+msgid "Strength"
+msgstr "Kekuatan"
+
+#: actorconditions_v069_bwm.json:bleeding_wound
+msgid "Bleeding wound"
+msgstr "Luka perdarahan"
+
+#: actorconditions_v069_bwm.json:speed_minor
+msgid "Minor speed"
+msgstr "Kecepatan rendah"
+
+#: actorconditions_v070.json:barkskin
+msgid "Bark skin"
+msgstr "Kulit pohon"
+
+#: actorconditions_v070.json:courage
+msgid "Courage"
+msgstr "Keberanian"
+
+#: actorconditions_v070.json:crit_aware
+msgid "Vulnerability awareness"
+msgstr "Kesadaran akan kerawanan"
+
+#: actorconditions_v070.json:def
+msgid "Fortified defense"
+msgstr "Pertahanan yang diperkuat"
+
+#: actorconditions_v070.json:fear
+msgid "Fear"
+msgstr "Takut"
+
+#: actorconditions_v070.json:fire
+msgid "Ablaze"
+msgstr "Menyala"
+
+#: actorconditions_v070.json:haste
+msgid "Haste"
+msgstr "Mempercepat"
+
+#: actorconditions_v070.json:regen2
+msgid "Regeneration"
+msgstr "Regenerasi"
+
+#: actorconditions_v070.json:sense_1
+msgid "Heightened senses"
+msgstr "Indera meningkat"
+
+#: actorconditions_v070.json:shadow_acc
+msgid "Shadow's accuracy"
+msgstr "Akurasi bayangan"
+
+#: actorconditions_v070.json:shadow_dmg
+msgid "Shadow's strength"
+msgstr "Kekuatan bayangan"
+
+#: actorconditions_v070.json:shadow_prot
+msgid "Shadow's protection"
+msgstr "Perlindungan bayangan"
+
+#: actorconditions_v070.json:slime
+msgid "Corrosive Slime"
+msgstr "Lendir korosif"
+
+#: actorconditions_v070.json:sting_minor
+msgid "Minor sting"
+msgstr "Sengatan kecil"
+
+#: conversationlist_agthor.json:agthor0
+msgid "Hello there. Please move along. These things are property of Feygard, and you have no business here."
+msgstr "Hallo. Silakan jalan terus. Barang ini adalah properti dari Feygard, anda tidak memiliki urusan disini."
+
+#: conversationlist_agthor.json:agthor_guard0
+msgid "Talk to Agthor."
+msgstr "Bicara pada Agthor."
+
+#: conversationlist_agthor.json:agthor_guard0:0
+#: conversationlist_ambelie.json:ambelie_1:0
+#: conversationlist_arghes.json:arghes_2:1
+#: conversationlist_blackwater_harlenn.json:harlenn_3:0
+#: conversationlist_blackwater_throdna.json:throdna_loop_1:1
+#: conversationlist_elythom_1.json:elythom_knight2:0
+#: conversationlist_esfiume.json:erethori0:1
+#: conversationlist_farrik.json:farrik_1:0
+#: conversationlist_foamingflask_guards.json:ff_captain_1:2
+#: conversationlist_foamingflask_outsideguard.json:ff_outsideguard_1:0
+#: conversationlist_lethenlor.json:lethenlor0:0
+#: conversationlist_lethenlor.json:lethenlor3:0
+#: conversationlist_loneford_3.json:sienn:0
+#: conversationlist_loneford_3.json:sienn_pet_1:0
+#: conversationlist_loneford_kuldan.json:kuldan_1:1
+#: conversationlist_lowyna.json:lowyna_1:0
+#: conversationlist_lowyna.json:lowyna_4:1
+#: conversationlist_prim_arghest.json:arghest_1:1
+#: conversationlist_prim_arghest.json:arghest_4:0
+#: conversationlist_prim_guthbered.json:guthbered_1:1
+#: conversationlist_prim_outside.json:moyra_1:1
+#: conversationlist_reinkarr.json:reinkarr:0
+#: conversationlist_reinkarr.json:reinkarr_1:0
+#: conversationlist_reinkarr.json:reinkarr_2:0
+#: conversationlist_thievesguild_1.json:thievesguild_pickpocket_1:0
+#: conversationlist_thorin.json:thorin_2:1
+#: conversationlist_ulirfendor.json:ulirfendor_2:2
+msgid "Who are you?"
+msgstr "Siapakah Anda?"
+
+#: conversationlist_agthor.json:agthor_guard0:1
+#: conversationlist_thorin.json:thorin_2:0
+#: conversationlist_thorin.json:thorin_who_1:0
+msgid "What are you doing here?"
+msgstr "Apa yang Anda lakukan disini?"
+
+#: conversationlist_agthor.json:agthor_guard0:2
+msgid "Are you from Feygard?"
+msgstr "Apakah Anda dari Feygard?"
+
+#: conversationlist_agthor.json:agthor_guard0:3
+msgid "Where can I get some of that nice armor that you're wearing?"
+msgstr "Dimanakah saya bisa mendapatkan baju besi yang bagus seperti yang anda kenakan?"
+
+#: conversationlist_agthor.json:agthor_guard0_1
+msgid "Agthor. Talk to him. *points at Agthor*"
+msgstr "Agthor. Bicaralah padanya. *menunjuk ke Agthor*"
+
+#: conversationlist_agthor.json:agthor_y1
+msgid "Hey, you're that kid! That kid that we've been hearing about. It's great to finally get a face on the stories we've heard."
+msgstr "Hei, kau anak itu! Anak yang sering kami dengar. Sungguh hebat rasanya akhirnya bisa bertemu dengan cerita yang kudengar."
+
+#: conversationlist_agthor.json:agthor_y2
+msgid "Please, anything I can help you with?"
+msgstr "Kumohon, adakah yang bisa kubantu?"
+
+#: conversationlist_agthor.json:agthor_y2:0
+msgid "Care to trade some items?"
+msgstr "Maukah bertukar sesuatu?"
+
+#: conversationlist_agthor.json:agthor_y2:1
+#: conversationlist_fallhaven_unnmir.json:unnmir_6:0
+msgid "I'm looking for my brother."
+msgstr "Saya mencari saudara saya."
+
+#: conversationlist_agthor.json:agthor_y3
+msgid "Sorry, can't help you there. You're the only kid I've seen running along here in a long time."
+msgstr "Maaf, tidak bisa membantumu. Kamu hanya anak kecil yang berlarian di sekitar sini untuk waktu yang lama."
+
+#: conversationlist_agthor.json:agthor_y4
+msgid "Sure thing. Here's what I've got."
+msgstr "Tentu. Ini yang aku punya."
+
+#: conversationlist_agthor.json:agthor_y4:0
+#: conversationlist_crossroads_2.json:gallain_trade_1:0
+msgid "Trade"
+msgstr "Berdagang"
+
+#: conversationlist_ailshara.json:ailshara_1
+msgid "Psst, hey. Interested in doing some trading? I am always looking for acquiring.. well, items of others.."
+msgstr "Ssst, hei. Mau barter? Aku selalu ingin membeli.. sesuatu item atau lainnya.."
+
+#: conversationlist_ailshara.json:ailshara_1:0
+#: conversationlist_charwood1.json:khorailla2:0
+msgid "Sure, let me see what you have."
+msgstr "Tentu, lihat apa yang kamu punya."
+
+#: conversationlist_ailshara.json:ailshara_1:1
+msgid "Items of others?"
+msgstr "Sesuatu untuk ditukar?"
+
+#: conversationlist_ailshara.json:ailshara_2
+msgid "Oh yes. You see, these Feygard patrol guards carry some really interesting things. They don't seem to care much if some of their shipments.. well, disappear."
+msgstr "Ya. Kamu lihat, patroli penjaga Feygard membawa sesuatu yang sangat menarik. Mereka sepertinya tidak terlalu memperhatikan beberapa barang kirimannya menghilang."
+
+#: conversationlist_ailshara.json:ailshara_2:0
+#: conversationlist_hadracor.json:hadracor_complete_3:1
+msgid "Ok, let me see what you have."
+msgstr "Ok, kita lihat apa yang kamu punya."
+
+#: conversationlist_ailshara.json:ailshara_2:1
+msgid "I should really not get involved in this. Goodbye."
+msgstr "Seharusnya aku tidak terlibat dengan ini. Selamat tinggal."
+
+#: conversationlist_ailshara.json:ailshara_completed_n_1
+msgid "Sigh, it's you. What do you want?"
+msgstr "Ah, kamu. Apa yang kamu inginkan?"
+
+#: conversationlist_ailshara.json:ailshara_completed_n_1:0
+#: conversationlist_ailshara.json:ailshara_completed_y_1:0
+#: conversationlist_arghes.json:arghes_6:0
+#: conversationlist_ervelyn.json:ervelyn_d:0
+msgid "Let me see what you have to trade."
+msgstr "Kita lihat apa yang kamu punya untuk ditukar."
+
+#: conversationlist_ailshara.json:ailshara_completed_y_1
+msgid "Hello again my Shadow friend. How may I help you?"
+msgstr "Halo lagi teman Bayanganku. Bagaimana aku bisa membantumu?"
+
+#: conversationlist_ailshara.json:ailshara_deliver_1
+msgid "Hello again. Did you deliver those items to the smith in Vilegard?"
+msgstr "Halo lagi. Apakah kamu mengirim benda itu ke pandai besi di Vilegard?"
+
+#: conversationlist_ailshara.json:ailshara_deliver_1:0
+#: conversationlist_blackwater_throdna.json:throdna_purify_1:0
+#: conversationlist_ulirfendor.json:ulirfendor_findparts_10:3
+msgid "Yes, it is done."
+msgstr "Ya, itu sudah selesai."
+
+#: conversationlist_ailshara.json:ailshara_deliver_1:1
+#: conversationlist_ailshara.json:ailshara_interested_1:0
+msgid "Never mind that, let me see what you have to trade."
+msgstr "Jangan dipikirkan, biar aku lihat apa yang kamu punya untuk ditukar."
+
+#: conversationlist_ailshara.json:ailshara_deliver_1:2
+#: conversationlist_ailshara.json:ailshara_interested_8:1
+msgid "No. I will help Feygard instead."
+msgstr "Tidak. Aku tetap akan membantu Feygard."
+
+#: conversationlist_ailshara.json:ailshara_deliver_1:3
+#: conversationlist_prim_guthbered.json:guthbered_killharl_1:0
+msgid "Can you tell me again what I was supposed to do?"
+msgstr "Bisakah kamu beritahu aku lagi apa yang seharusnya aku lakukan?"
+
+#: conversationlist_ailshara.json:ailshara_deliver_1:4
+msgid "Not yet."
+msgstr "Belum"
+
+#: conversationlist_ailshara.json:ailshara_deliver_2
+msgid "Good. You should also try to convince Gandoren into thinking that you helped him."
+msgstr "Baik. Kamu juga seharusnya meyakinkan Gandoren bahwa kamu membantunya."
+
+#: conversationlist_ailshara.json:ailshara_deliver_3
+msgid "Excellent! You do indeed walk with the Shadow my friend. I am glad to hear that there are at least a few decent folk still around."
+msgstr "Hebat. Kamu memang berjalan dengan Bayangan temanku. Senang mendengarnya bahwa masih ada beberapa rakyat yang layak masih ada."
+
+#: conversationlist_ailshara.json:ailshara_interested_1:1
+msgid "I better not talk about it."
+msgstr "Sebaiknya aku tidak membicarakan itu."
+
+#: conversationlist_ailshara.json:ailshara_interested_2:1
+msgid "I am doing this for the glory of Feygard."
+msgstr "Aku lakukan ini untuk kejayaan Feygard."
+
+#: conversationlist_ailshara.json:ailshara_interested_2:2
+msgid "Helping Feygard seems like the right thing to do."
+msgstr "Membantu Feygard sepertinya hal yang benar untuk dilakukan."
+
+#: conversationlist_ailshara.json:ailshara_interested_2:3
+msgid "What would you propose instead?"
+msgstr "Apa yang akan kamu usulkan sebagai gantinya?"
+
+#: conversationlist_ailshara.json:ailshara_interested_3:0
+msgid "Sounds interesting, please go on."
+msgstr "Sepertinya menarik, silakan lanjutkan."
+
+#: conversationlist_ailshara.json:ailshara_interested_3:1
+msgid "I have no problem helping Feygard without any personal gain."
+msgstr "Tidak masalah buatku menolong Feygard tanpa mendapat keuntungan buatku pribadi."
+
+#: conversationlist_ailshara.json:ailshara_interested_3:2
+msgid "I better not get involved in this, goodbye."
+msgstr "Sebaiknya aku tidak ikut campur dalam maslah ini, selamat tinggal."
+
+#: conversationlist_ailshara.json:ailshara_interested_8:0
+msgid "I will see what I can do."
+msgstr "Aku akan lihat apa yang aku bisa."
+
+#: conversationlist_ailshara.json:ailshara_interested_8:2
+msgid "Whatever, I choose my own path."
+msgstr "Terserah, aku pilih sendiri jalanku."
+
+#: conversationlist_algangror.json:algangror_1:0
+msgid "I am looking for my brother."
+msgstr "Aku mencari saudaraku."
+
+#: conversationlist_algangror.json:algangror_1:3
+msgid "I'd rather not tell."
+msgstr "Aku tidak ingin mengatakannya."
+
+#: conversationlist_algangror.json:algangror_1:4
+#: conversationlist_algangror.json:algangror_return_1:4
+#: conversationlist_algangror.json:algangror_return_d2:0
+msgid "I am sent by Jhaeld to end whatever it is you do to the people of Remgard."
+msgstr "Aku dikirim oleh Jhaeld untuk mengakhiri apapun yang kamu lakukan pada orang-orang Remgard."
+
+#: conversationlist_algangror.json:algangror_2d
+msgid "Clever. I like that."
+msgstr "Pintar, aku suka itu."
+
+#: conversationlist_algangror.json:algangror_3:0
+msgid "Sure, what's the problem?"
+msgstr "Tentu, apa masalahnya?"
+
+#: conversationlist_algangror.json:algangror_3:1
+msgid "Maybe, it depends on what the problem is."
+msgstr "Mungkin, itu tergantung pada masalahnya."
+
+#: conversationlist_algangror.json:algangror_3:2
+msgid "Maybe, it depends on what type of reward we are talking about."
+msgstr "Mungkin, itu tergantung pada jenis imbalan yang kita bicarakan."
+
+#: conversationlist_algangror.json:algangror_3:3
+msgid "No way. You are acting way too creepy for me."
+msgstr "Tidak mungkin. Kau berakting terlalu seram untukku."
+
+#: conversationlist_algangror.json:algangror_cmp3:0
+#: conversationlist_blackwater_lower.json:blackwater_throneguard_2:0
+#: conversationlist_charwood1.json:charwd_guard2:0
+#: conversationlist_ervelyn.json:ervelyn_give2:0
+#: conversationlist_fallhaven_potions.json:fallhaven_pot_antifp_q4:0
+#: conversationlist_fallhaven_potions.json:fallhaven_potions3:0
+#: conversationlist_fallhaven_unzel.json:unzel_30:1
+#: conversationlist_hjaldar.json:hjaldar_r15:0
+#: conversationlist_lodarfg.json:lodar_fg1_16
+#: conversationlist_loneford_4.json:arngyr_5
+#: conversationlist_maevalia.json:maevalia_d10
+#: conversationlist_talion_2.json:talion_bone_2
+#: conversationlist_talion_2.json:talion_hair_2
+#: conversationlist_talion_2.json:talion_irdegh_2
+#: conversationlist_talion_2.json:talion_vial_2
+#: conversationlist_thievesguild_1.json:thievesguild_cook_9:0
+msgid "Thank you."
+msgstr "Terima kasih."
 
 #: itemcategories_1.json:2hsword
 msgid "Two-handed sword"

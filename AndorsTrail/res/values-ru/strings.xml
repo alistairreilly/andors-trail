@@ -4,19 +4,15 @@
 	<string name="app_name">След Эндора</string>
 	<string name="app_description">Квестово-фэнтезийная RPG</string>
 
-	<string name="exit">Выйти</string>
 	<string name="exit_to_menu">В меню</string>
-	<string name="menu_pause">Пауза</string>
 	<string name="menu_settings">Настройки</string>
 	<string name="menu_save">Сохранить</string>
-	<string name="menu_load">Загрузить</string>
 	<string name="menu_save_gamesaved">Игра сохранена в слот №%1$d</string>
 	<string name="menu_save_failed">Ошибка сохранения! SD карта на месте?</string>
 
 	<string name="loadsave_title_save">Сохранить игру</string>
 	<string name="loadsave_title_load">Загрузить игру</string>
 	<string name="loadsave_selectslot">Выбери слот</string>
-	<string name="loadsave_slot_empty">(пустой)</string>
 	<string name="savegame_currenthero_displayinfo">уровень: %1$d, опыт: %2$d, золото: %3$d</string>
 
 	<string name="dialog_loading_message">Загрузка ресурсов...</string>
@@ -26,27 +22,17 @@
 
 	<string name="dialog_close">Закрыть</string>
 
-	<string name="dialog_confirmexit_title">Выход</string>
-	<string name="dialog_confirmexit_message">Вы точно хотите выйти?</string>
-
-	<string name="dialog_paused_title">Пауза</string>
-	<string name="dialog_paused_message">Игра на паузе</string>
-	<string name="dialog_paused_resume">Продолжить</string>
-
 	<string name="dialog_monsterencounter_title">Схватка</string>
 	<string name="dialog_monsterencounter_message">Атаковать?\nСложность: %1$s</string>
 	<string name="dialog_monsterencounter_info">Информация</string>
 
 	<string name="status_hp">ОЗ:</string>
-	<string name="status_mp">ОМ:</string>
 	<string name="status_ap">ОД:</string>
 	<string name="status_exp">Ур.:</string>
 
 	<string name="heroinfo_char">Обзор</string>
 	<string name="heroinfo_inv">Инвентарь</string>
-	<string name="heroinfo_wear">Надето</string>
 	<string name="heroinfo_skill">Навыки</string>
-	<string name="heroinfo_spell">Заклинания</string>
 	<string name="heroinfo_levelup">Уровень повышен</string>
 	<string name="heroinfo_level">Уровень</string>
 	<string name="heroinfo_totalexperience">Всего опыта</string>
@@ -59,7 +45,6 @@
 	<string name="combat_attack">Атака (%1$d ОД)</string>
 	<string name="combat_move">Движение (%1$d ОД)</string>
 	<string name="combat_use">Вещь</string>
-	<string name="combat_spell">Заклинание</string>
 	<string name="combat_endturn">Конец хода</string>
 	<!-- <string name="combat_endcombat">End combat</string>-->
 	<string name="combat_flee">Сбежать</string>
@@ -108,10 +93,7 @@
 	<string name="actorinfo_class">Класс:</string>
 	<string name="actorinfo_difficulty">Сложность:</string>
 	<string name="actorinfo_health">Здоровье:</string>
-	<string name="actorinfo_attacksperturn">Атак за ход:</string>
-	<string name="actorinfo_movesperturn">Движений за ход:</string>
 	<string name="actorinfo_attack">Атака:</string>
-	<string name="actorinfo_criticalhit">Критический удар:</string>
 	<string name="actorinfo_defense">Защита:</string>
 	<string name="actorinfo_movecost">Цена движения (ОД):</string>
 	<string name="actorinfo_basetraits">Боевая статистика без экипировки (базовая)</string>
@@ -134,18 +116,6 @@
 	<string name="iteminfo_action_use_ap">Использовать (%1$d ОД)</string>
 	<string name="iteminfo_action_equip_ap">Надеть (%1$d ОД)</string>
 	<string name="iteminfo_action_unequip_ap">Снять (%1$d ОД)</string>
-
-	<string name="itemcategory_money">Деньги</string>
-	<string name="itemcategory_weapon">Оружие</string>
-	<string name="itemcategory_shield">Защита</string>
-	<string name="itemcategory_wearable_head">Можно надеть (голова)</string>
-	<string name="itemcategory_wearable_body">Можно надеть (тело)</string>
-	<string name="itemcategory_wearable_hand">Можно надеть (руки)</string>
-	<string name="itemcategory_wearable_feet">Можно надеть (ноги)</string>
-	<string name="itemcategory_wearable_neck">Можно надеть (шея)</string>
-	<string name="itemcategory_wearable_ring">Можно надеть (кольцо)</string>
-	<string name="itemcategory_potion">Лекарство</string>
-	<string name="itemcategory_other">Другое</string>
 
 	<string name="startscreen_continue">Продолжить игру</string>
 	<string name="startscreen_newgame">Новая игра</string>
@@ -228,7 +198,6 @@
 		Спасибо за отзывы!
 	</string>
 
-	<string name="questlog_title">Задания</string>
 	<string name="questlog_includecompleted_prompt">Выберите задания для отображения</string>
 	<string name="questlog_includecompleted_hidecompleted">Спрятать завершенные задания</string>
 	<string name="questlog_includecompleted_includecompleted">Включая завершенные задания</string>

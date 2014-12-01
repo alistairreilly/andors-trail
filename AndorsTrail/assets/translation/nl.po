@@ -1,0 +1,1381 @@
+# Dutch translation for andors-trail
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the andors-trail package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: andors-trail\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: Sun Nov 10 11:14:56 CET 2013\n"
+"PO-Revision-Date: 2014-03-11 19:48+0000\n"
+"Last-Translator: Nils Berghs <nilsberghs@gmail.com>\n"
+"Language-Team: Dutch <nl@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-05-28 22:15+0000\n"
+"X-Generator: Launchpad (build 17017)\n"
+
+#: [none]
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  Nils Berghs https://launchpad.net/~nilsberghs"
+
+#: actorconditions_v0610.json:chaotic_curse
+msgid "Chaotic curse"
+msgstr "Chaotische vloek"
+
+#: actorconditions_v0610.json:chaotic_grip
+msgid "Chaotic grip"
+msgstr "Chaotische grip"
+
+#: actorconditions_v0611.json:contagion
+msgid "Insect contagion"
+msgstr "Insect besmetting"
+
+#: actorconditions_v0611.json:focus_ac
+msgid "Focused accuracy"
+msgstr "Geconcentreerde precisie"
+
+#: actorconditions_v0611.json:focus_dmg
+msgid "Focused damage"
+msgstr "Geconcentreerde schade"
+
+#: actorconditions_v0611.json:poison_irdegh
+msgid "Irdegh poison"
+msgstr "Irdegh vergif"
+
+#: actorconditions_v0611.json:stunned
+msgid "Stunned"
+msgstr "Verdoofd"
+
+#: actorconditions_v0611_2.json:concussion
+msgid "Concussion"
+msgstr "Hersenschudding"
+
+#: actorconditions_v0611_2.json:crit1
+msgid "Internal bleeding"
+msgstr "Interne bloeding"
+
+#: actorconditions_v0611_2.json:crit2
+msgid "Fracture"
+msgstr "Breuk"
+
+#: actorconditions_v0611_2.json:shadowbless_acc
+msgid "Blessing of Shadow accuracy"
+msgstr "Schaduw nauwkeurigheidszegening"
+
+#: actorconditions_v0611_2.json:shadowbless_guard
+msgid "Shadow guardian blessing"
+msgstr "Schaduw bewakerszegening"
+
+#: actorconditions_v0611_2.json:shadowbless_heal
+msgid "Blessing of Shadow regeneration"
+msgstr "Schaduw herlevingszegening"
+
+#: actorconditions_v0611_2.json:shadowbless_str
+msgid "Blessing of Shadow strength"
+msgstr "Schaduw krachtszegening"
+
+#: actorconditions_v0612_2.json:food
+msgid "Sustenance"
+msgstr "Voeding"
+
+#: actorconditions_v0612_2.json:foodp
+msgid "Food-poisoning"
+msgstr "Voedselvergiftiging"
+
+#: actorconditions_v069.json:bless
+msgid "Bless"
+msgstr "Zegenen"
+
+#: actorconditions_v069.json:poison_weak
+msgid "Weak Poison"
+msgstr "Zwak vergif"
+
+#: actorconditions_v069.json:regen
+msgid "Shadow Regeneration"
+msgstr "Herleving door schaduw"
+
+#: actorconditions_v069.json:str
+msgid "Strength"
+msgstr "Kracht"
+
+#: actorconditions_v069_bwm.json:blackwater_misery
+msgid "Blackwater misery"
+msgstr "Zwartwater ellende"
+
+#: actorconditions_v069_bwm.json:bleeding_wound
+msgid "Bleeding wound"
+msgstr "Bloedende wonde"
+
+#: actorconditions_v069_bwm.json:dazed
+msgid "Dazed"
+msgstr "Versuft"
+
+#: actorconditions_v069_bwm.json:fatigue_minor
+msgid "Minor fatigue"
+msgstr "Geringe vermoeidheid"
+
+#: actorconditions_v069_bwm.json:feebleness_minor
+msgid "Minor weapon feebleness"
+msgstr "Geringe wapen zwakte"
+
+#: actorconditions_v069_bwm.json:intoxicated
+msgid "Intoxicated"
+msgstr "Dronken"
+
+#: actorconditions_v069_bwm.json:rage_minor
+msgid "Minor berserker rage"
+msgstr "Geringe berserker woede"
+
+#: actorconditions_v069_bwm.json:speed_minor
+msgid "Minor speed"
+msgstr "Geringe snelheid"
+
+#: actorconditions_v070.json:barkskin
+msgid "Bark skin"
+msgstr "Schors huid"
+
+#: actorconditions_v070.json:courage
+msgid "Courage"
+msgstr "Moed"
+
+#: actorconditions_v070.json:crit_aware
+msgid "Vulnerability awareness"
+msgstr "kwetsbaarheidsbewust"
+
+#: actorconditions_v070.json:def
+msgid "Fortified defense"
+msgstr "Versterkte verdediging"
+
+#: actorconditions_v070.json:fear
+msgid "Fear"
+msgstr "Angst"
+
+#: actorconditions_v070.json:fire
+msgid "Ablaze"
+msgstr "Brandend"
+
+#: actorconditions_v070.json:haste
+msgid "Haste"
+msgstr "Haast"
+
+#: actorconditions_v070.json:regen2
+msgid "Regeneration"
+msgstr "Herleving"
+
+#: actorconditions_v070.json:sense_1
+msgid "Heightened senses"
+msgstr "Verscherpte zintuigen"
+
+#: actorconditions_v070.json:shadow_acc
+msgid "Shadow's accuracy"
+msgstr "Schaduw's nauwkeurigheid"
+
+#: actorconditions_v070.json:shadow_dmg
+msgid "Shadow's strength"
+msgstr "Schaduw's kracht"
+
+#: actorconditions_v070.json:shadow_prot
+msgid "Shadow's protection"
+msgstr "Schaduw's bescherming"
+
+#: actorconditions_v070.json:slime
+msgid "Corrosive Slime"
+msgstr "Bijtend slijm"
+
+#: actorconditions_v070.json:sting_minor
+msgid "Minor sting"
+msgstr "Geringe steek"
+
+#: conversationlist_agthor.json:agthor0
+msgid "Hello there. Please move along. These things are property of Feygard, and you have no business here."
+msgstr "Hallo daar. Doorlopen AUB. Deze goederen zijn eigendom van Feygard en jij hebt hier niets te zoeken."
+
+#: conversationlist_agthor.json:agthor_guard0
+msgid "Talk to Agthor."
+msgstr "Spreek met Agthor"
+
+#: conversationlist_agthor.json:agthor_guard0:0
+#: conversationlist_ambelie.json:ambelie_1:0
+#: conversationlist_arghes.json:arghes_2:1
+#: conversationlist_blackwater_harlenn.json:harlenn_3:0
+#: conversationlist_blackwater_throdna.json:throdna_loop_1:1
+#: conversationlist_elythom_1.json:elythom_knight2:0
+#: conversationlist_esfiume.json:erethori0:1
+#: conversationlist_farrik.json:farrik_1:0
+#: conversationlist_foamingflask_guards.json:ff_captain_1:2
+#: conversationlist_foamingflask_outsideguard.json:ff_outsideguard_1:0
+#: conversationlist_lethenlor.json:lethenlor0:0
+#: conversationlist_lethenlor.json:lethenlor3:0
+#: conversationlist_loneford_3.json:sienn:0
+#: conversationlist_loneford_3.json:sienn_pet_1:0
+#: conversationlist_loneford_kuldan.json:kuldan_1:1
+#: conversationlist_lowyna.json:lowyna_1:0
+#: conversationlist_lowyna.json:lowyna_4:1
+#: conversationlist_prim_arghest.json:arghest_1:1
+#: conversationlist_prim_arghest.json:arghest_4:0
+#: conversationlist_prim_guthbered.json:guthbered_1:1
+#: conversationlist_prim_outside.json:moyra_1:1
+#: conversationlist_reinkarr.json:reinkarr:0
+#: conversationlist_reinkarr.json:reinkarr_1:0
+#: conversationlist_reinkarr.json:reinkarr_2:0
+#: conversationlist_thievesguild_1.json:thievesguild_pickpocket_1:0
+#: conversationlist_thorin.json:thorin_2:1
+#: conversationlist_ulirfendor.json:ulirfendor_2:2
+msgid "Who are you?"
+msgstr "Wie bent u?"
+
+#: conversationlist_agthor.json:agthor_guard0:1
+#: conversationlist_thorin.json:thorin_2:0
+#: conversationlist_thorin.json:thorin_who_1:0
+msgid "What are you doing here?"
+msgstr "What doet u daar?"
+
+#: conversationlist_agthor.json:agthor_guard0:2
+msgid "Are you from Feygard?"
+msgstr "Bent u van Feygard"
+
+#: conversationlist_agthor.json:agthor_guard0:3
+msgid "Where can I get some of that nice armor that you're wearing?"
+msgstr "Waar kan ik zo'n mooi harnas, zoals u draagt, kopen?"
+
+#: conversationlist_agthor.json:agthor_guard0_1
+msgid "Agthor. Talk to him. *points at Agthor*"
+msgstr "Agthor. Spreek met hem. *wijst naar Agthor*"
+
+#: conversationlist_agthor.json:agthor_y1
+msgid "Hey, you're that kid! That kid that we've been hearing about. It's great to finally get a face on the stories we've heard."
+msgstr "Hey, jij bent die knaap! Dat knaap waar we over gehoord hebben. Het is geweldig om eindelijk een gezicht op die verhalen te kunnen plakken."
+
+#: conversationlist_agthor.json:agthor_y2
+msgid "Please, anything I can help you with?"
+msgstr "Is er niets waarmee ik u helpen kan?"
+
+#: conversationlist_agthor.json:agthor_y2:0
+msgid "Care to trade some items?"
+msgstr "Wil je goederen verhandelen?"
+
+#: conversationlist_agthor.json:agthor_y2:1
+#: conversationlist_fallhaven_unnmir.json:unnmir_6:0
+msgid "I'm looking for my brother."
+msgstr "Ik ben op zoek naar mijn broer."
+
+#: conversationlist_agthor.json:agthor_y3
+msgid "Sorry, can't help you there. You're the only kid I've seen running along here in a long time."
+msgstr "Sorry, daarmee kan ik je niet helpen. Je bent de enige knaap die ik in lange tijd voorbij heb zien komen"
+
+#: conversationlist_agthor.json:agthor_y4
+msgid "Sure thing. Here's what I've got."
+msgstr "Zeker. Dit is wat ik in de aanbieding heb."
+
+#: conversationlist_agthor.json:agthor_y4:0
+#: conversationlist_crossroads_2.json:gallain_trade_1:0
+msgid "Trade"
+msgstr "Handelen"
+
+#: conversationlist_ailshara.json:ailshara_1
+msgid "Psst, hey. Interested in doing some trading? I am always looking for acquiring.. well, items of others.."
+msgstr "Psst, hey. Interesse om wat te verhandelen? Ik ben altijd op zoek om dingen te bemachtigen.. 't is te zeggen, andermans dingen"
+
+#: conversationlist_ailshara.json:ailshara_1:0
+#: conversationlist_charwood1.json:khorailla2:0
+msgid "Sure, let me see what you have."
+msgstr "Zeker, wat bied je aan?"
+
+#: conversationlist_ailshara.json:ailshara_1:1
+msgid "Items of others?"
+msgstr "Andermans goederen"
+
+#: conversationlist_ailshara.json:ailshara_2
+msgid "Oh yes. You see, these Feygard patrol guards carry some really interesting things. They don't seem to care much if some of their shipments.. well, disappear."
+msgstr "O ja. Die patrouilles van Feygard zijn uitgerust met interessante goederen, ziet u. Ze lijken het niet echt erg te vinden als sommige van hun zendingen.. laat ons zeggen, verdwijnen"
+
+#: conversationlist_ailshara.json:ailshara_2:0
+#: conversationlist_hadracor.json:hadracor_complete_3:1
+msgid "Ok, let me see what you have."
+msgstr "Ok, wat bied je aan."
+
+#: conversationlist_ailshara.json:ailshara_2:1
+msgid "I should really not get involved in this. Goodbye."
+msgstr "Ik zou hier echt niet in betrokken mogen raken. Vaarwel"
+
+#: conversationlist_ailshara.json:ailshara_completed_n_1
+msgid "Sigh, it's you. What do you want?"
+msgstr "Zucht, jij bent het. Wat wil je?"
+
+#: conversationlist_ailshara.json:ailshara_completed_n_1:0
+#: conversationlist_ailshara.json:ailshara_completed_y_1:0
+#: conversationlist_arghes.json:arghes_6:0
+#: conversationlist_ervelyn.json:ervelyn_d:0
+msgid "Let me see what you have to trade."
+msgstr "Laat maar zien wat je te verhandelen hebt."
+
+#: conversationlist_ailshara.json:ailshara_completed_y_1
+msgid "Hello again my Shadow friend. How may I help you?"
+msgstr "Daar ben je weer shaduw vriend. Hoe kan ik je helpen?"
+
+#: conversationlist_ailshara.json:ailshara_deliver_1
+msgid "Hello again. Did you deliver those items to the smith in Vilegard?"
+msgstr "Daar ben je weer. Heb je de goederen afgeleverd bij de smid in Vilegard?"
+
+#: conversationlist_ailshara.json:ailshara_deliver_1:0
+#: conversationlist_blackwater_throdna.json:throdna_purify_1:0
+#: conversationlist_ulirfendor.json:ulirfendor_findparts_10:3
+msgid "Yes, it is done."
+msgstr "Ja, het is gelukt"
+
+#: conversationlist_ailshara.json:ailshara_deliver_1:1
+#: conversationlist_ailshara.json:ailshara_interested_1:0
+msgid "Never mind that, let me see what you have to trade."
+msgstr "Laat maar zitten, toon me liever wat je te verhandelen hebt"
+
+#: conversationlist_ailshara.json:ailshara_deliver_1:2
+#: conversationlist_ailshara.json:ailshara_interested_8:1
+msgid "No. I will help Feygard instead."
+msgstr "Nee. In plaats daarvan zal ik Fegard helpen."
+
+#: conversationlist_ailshara.json:ailshara_deliver_1:3
+#: conversationlist_prim_guthbered.json:guthbered_killharl_1:0
+msgid "Can you tell me again what I was supposed to do?"
+msgstr "Vertel me nog eens wat ik weeral moest doen?"
+
+#: conversationlist_ailshara.json:ailshara_deliver_1:4
+msgid "Not yet."
+msgstr "Nog niet"
+
+#: conversationlist_ailshara.json:ailshara_deliver_2
+msgid "Good. You should also try to convince Gandoren into thinking that you helped him."
+msgstr "Goed. Je zou ook moeten proberen Gandoren wijs te maken dat je hem geholpen hebt."
+
+#: conversationlist_ailshara.json:ailshara_deliver_3
+msgid "Excellent! You do indeed walk with the Shadow my friend. I am glad to hear that there are at least a few decent folk still around."
+msgstr "Uitstekend. Je bewandelt inderdaad het pad van de Schaduw mijn vriend. Ik ben blij te horen dat er ten minste nog enkele deftige mensen rondlopen."
+
+#: conversationlist_ailshara.json:ailshara_delivered_1
+msgid "Your help will be most appreciated by the people of Nor City, and you will be welcome among us."
+msgstr "Jouw hulp zal zeer gewaardeerd worden door de mensen van Nor Stad, en je zal welkom zijn bij ons."
+
+#: conversationlist_ailshara.json:ailshara_fg_1
+msgid "By the Shadow, you sound like one of those deceptive snobs from Feygard."
+msgstr "Bij de Schaduw, je klinkt net als één van die bedrieglijke snobs uit Feygard."
+
+#: conversationlist_ailshara.json:ailshara_fg_2
+msgid "Shadow help you, child. You should question yourself whether you really are making the right choice here."
+msgstr "Moge de Schaduw je helpen, knaap. Je moet jezelf beter afvragen of je hier wel echt de juiste keuze maakt."
+
+#: conversationlist_ailshara.json:ailshara_interested_1
+msgid "Psst, hey you! I saw you talking to Gandoren over there, and I happened to notice that you exchanged some items. Anything interesting?"
+msgstr "Psst, hey jij daar! Ik zag je spreken met Gandoren ginds, en het viel me op dat je goederen met hem ruilde. Iets interessant?"
+
+#: conversationlist_ailshara.json:ailshara_interested_1:1
+msgid "I better not talk about it."
+msgstr "Ik spreek er beter niet over."
+
+#: conversationlist_ailshara.json:ailshara_interested_1:2
+msgid "Gandoren specifically asked me not to talk to you about it."
+msgstr "Gandoren heeft me expliciet gevraagd er met jou niet over te spreken."
+
+#: conversationlist_ailshara.json:ailshara_interested_1:3
+msgid "Yes, Gandoren wants me to deliver some equipment for Feygard. Do you want a part of the deal?"
+msgstr "Ja, Gandoren wil dat ik uitrusting voor Feygard ga leveren. Wil je mee doen?"
+
+#: conversationlist_ailshara.json:ailshara_interested_2
+msgid "Hah, of course. Gandoren would not like it if I were to get a glimpse into his business. I assume you are helping him deliver those items somewhere. Tell me this, what did he promise you in return? Gold? Honor? No?"
+msgstr "Ha, natuurlijk. Gandoren zou het niet leuk vinden als ik mijn neus in zijn zaken stak. Ik veronderstel dat jij  hem helpt met die goederen ergens af te leveren. Vertel eens, wat beloofde hij je voor je moeite? Goed? Eer? Nee?"
+
+#: conversationlist_ailshara.json:ailshara_interested_2:0
+msgid "Now that you mention it, he didn't actually say there would be a reward."
+msgstr "Nu dat je't zegt, hij heeft eigenlijk niets over een beloning gezegd."
+
+#: conversationlist_ailshara.json:ailshara_interested_2:1
+msgid "I am doing this for the glory of Feygard."
+msgstr "Ik doe dit voor de glorie van Feygard"
+
+#: conversationlist_ailshara.json:ailshara_interested_2:2
+msgid "Helping Feygard seems like the right thing to do."
+msgstr "Feygard helpen, lijkt me de juiste keuze."
+
+#: conversationlist_ailshara.json:ailshara_interested_2:3
+msgid "What would you propose instead?"
+msgstr "Wat zou jij in de plaats daarvan voorstellen?"
+
+#: conversationlist_ailshara.json:ailshara_interested_3
+msgid "As usual, Feygard keeps all its riches to itself. What if I were to tell you there was a way for you to gain from all this as well?"
+msgstr "Zoals gewoonlijk houdt Feygard al z'n rijkdom voor zichzelf. Wat als ik je zou vertellen dat er een manier is waarop jij hier ook munt uit kunt slaan?"
+
+#: conversationlist_ailshara.json:ailshara_interested_3:0
+msgid "Sounds interesting, please go on."
+msgstr "Interessant, ga door."
+
+#: conversationlist_ailshara.json:ailshara_interested_3:1
+msgid "I have no problem helping Feygard without any personal gain."
+msgstr "Ik heb er geen probleem mee om Feygard kosteloos te helpen"
+
+#: conversationlist_ailshara.json:ailshara_interested_3:2
+msgid "I better not get involved in this, goodbye."
+msgstr "Ik zou hier beter niet in betrokken geraken, vaarwel."
+
+#: conversationlist_ailshara.json:ailshara_interested_4
+msgid "Let me tell you my plan. As you might know, everyone believes there will be some coming conflict between the deceptive snobs of Feygard and the glorious people of Nor City."
+msgstr "Dit is mijn plan. Zoals je misschien weet verwacht iedereen dat er een conflict zal uitbreken tussen de bedrieglijke snobs van Feygard en het glorieuze volk van de stad Nor"
+
+#: conversationlist_ailshara.json:ailshara_interested_5
+msgid "Any help we can bring to Nor City in this matter is welcome. These items that Gandoren gave you would be useful to our people in the southern lands."
+msgstr "Elke hulp die we de stad Nor in deze zaak kunnen bieden is welkom. Die goederen die Gandoren jou gegeven heeft zouden van pas komen bij onze mensen in de zuidelijke landen."
+
+#: conversationlist_ailshara.json:ailshara_interested_6
+msgid "These items, if you were to deliver them to our allies down in Vilegard, then the Shadow would look favorably upon you."
+msgstr "Deze goederen, als je die zou afleveren bij onze bondgenoten in Vilegard, dan zou je in de gunst van de Schaduw staan."
+
+#: conversationlist_ailshara.json:ailshara_interested_7
+msgid "This way, the people could get back some piece of the riches that Feygard has stolen from all of us."
+msgstr "Op deze manier zouden de mensen een deel van de rijkdom kunnen terugkrijgen die Feygard van ons allen gestolen heeft"
+
+#: conversationlist_ailshara.json:ailshara_interested_8
+msgid "If you indeed are walking in the Shadow, then deliver these items to the smith in Vilegard. He will be able to make good use of them. He might also have some other task for you."
+msgstr "Als je echt het pad van Schaduw bewandelt, lever deze goederen dan aan de smid in Vilegard. Hij zal ze goed gebruiken. Mogelijk heeft hij ook een andere taak voor jou."
+
+#: conversationlist_ailshara.json:ailshara_interested_8:0
+msgid "I will see what I can do."
+msgstr "Ik zal zien wat ik kan doen."
+
+#: conversationlist_ailshara.json:ailshara_interested_8:2
+msgid "Whatever, I choose my own path."
+msgstr "Hoe dan ook, ik ga mijn eigen gang."
+
+#: conversationlist_ailshara.json:ailshara_interested_9
+msgid "Shadow be with you. May the Shadow guide you on the clouded paths that you walk."
+msgstr "Moge de Schaduw met je zijn. Moge de Schaduw je leiden op duister paden."
+
+#: conversationlist_algangror.json:algangror_1
+msgid "Oh my, a child. He he, how nice. Tell me, what brings you here?"
+msgstr "O, een kind. Hehe, tof. Zeg eens wat brengt jou hier?"
+
+#: conversationlist_algangror.json:algangror_1:0
+msgid "I am looking for my brother."
+msgstr "Ik ben op zoek naar mijn broer."
+
+#: conversationlist_algangror.json:algangror_1:1
+msgid "I just entered to see if there's any loot to be found here."
+msgstr "Ik ben hier enkel binnengekomen, om te kijken of ik iets buit kan maken."
+
+#: conversationlist_algangror.json:algangror_1:2
+msgid "I'm an adventurer, looking to help anyone in need of help."
+msgstr "Ik ben een avonturier, bereid iedereen te helpen die daar nood aan heeft."
+
+#: conversationlist_algangror.json:algangror_1:3
+msgid "I'd rather not tell."
+msgstr "Dat zeg ik liever niet"
+
+#: conversationlist_algangror.json:algangror_1:4
+#: conversationlist_algangror.json:algangror_return_1:4
+#: conversationlist_algangror.json:algangror_return_d2:0
+msgid "I am sent by Jhaeld to end whatever it is you do to the people of Remgard."
+msgstr "Ik ben gestuurd door Jhaeld om een einde te maken aan wat het ook is dat je de mensen van Remgard aandoet."
+
+#: conversationlist_algangror.json:algangror_2a
+msgid "Run away, has he? He he."
+msgstr "Hij is weggelopen, niet? Hehe."
+
+#: conversationlist_algangror.json:algangror_2b
+msgid "Oh sure, you think you can just pick up anything and claim it as yours?"
+msgstr "Jij denkt zeker dat je zomaar vanalles kan oprapen en dan beweren dat het van jou is?"
+
+#: conversationlist_algangror.json:algangror_2c
+msgid "How noble. Maybe you can be of use to me."
+msgstr "Heel nobel. Misschien kan je me nog van nut zijn."
+
+#: conversationlist_algangror.json:algangror_2d
+msgid "Clever. I like that."
+msgstr "Slim. Daar hou ik van."
+
+#: conversationlist_algangror.json:algangror_3
+msgid "Tell me, now that you have entered this house, would you be willing to help me with a small.. problem?"
+msgstr "Zeg eens, nu je toch binnengekomen bent, zou je bereid zijn met te helpen met een klein.. probleem?"
+
+#: conversationlist_algangror.json:algangror_3:0
+msgid "Sure, what's the problem?"
+msgstr "Zeker, wat is er aan de hand?"
+
+#: conversationlist_algangror.json:algangror_3:1
+msgid "Maybe, it depends on what the problem is."
+msgstr "Misschien, dat hangt van het probleem af?"
+
+#: conversationlist_algangror.json:algangror_3:2
+msgid "Maybe, it depends on what type of reward we are talking about."
+msgstr "Misschien, dat hangt af van de beloning die je in gedachten hebt."
+
+#: conversationlist_algangror.json:algangror_3:3
+msgid "No way. You are acting way too creepy for me."
+msgstr "Geen sprake van. Je doet veel te griezelig naar mijn zin."
+
+#: conversationlist_algangror.json:algangror_3c
+msgid "Reward? No, no, I don't have anything to give you, unfortunately."
+msgstr "Beloning? Nee, nee, spijtig genoeg heb ik niets dat ik je geven kan."
+
+#: conversationlist_algangror.json:algangror_3c:0
+msgid "I guess you won't get any help either then."
+msgstr "Ik denk dat je dan ook geen hulp zal krijgen."
+
+#: conversationlist_algangror.json:algangror_3c:1
+msgid "Fine, what's the problem you want help with?"
+msgstr "Goed, bij welk probleem heb je hulp nodig?"
+
+#: conversationlist_algangror.json:algangror_3c:2
+#: conversationlist_algangror.json:algangror_8:2
+msgid "Something feels wrong here. I better not get involved in this."
+msgstr "Dit voelt fout aan. Ik zou hier beter niet in betrokken raken."
+
+#: conversationlist_algangror.json:algangror_4
+msgid "You see, I have this slight problem with .. ahem .. vermin."
+msgstr "Ik heb een klein probleem met .. euhm .. ongedierte, snap je."
+
+#: conversationlist_algangror.json:algangror_5
+msgid "Always sneaking around, always trying to cause mischief."
+msgstr "Altijd rond sluipend, altijd kattenkwaad uithalend."
+
+#: conversationlist_algangror.json:algangror_6
+msgid "Fortunately, I managed to capture some of them, and locked them in my basement."
+msgstr "Gelukkig ben ik er in geslaagd om sommige van hen te vangen en in mijn kelder op te sluiten."
+
+#: conversationlist_algangror.json:algangror_7
+msgid "Now, I can't handle them myself because of certain .. issues."
+msgstr "Nee, ik kan ze niet zelf aanpakken omwille van bepaalde .. kwesties."
+
+#: conversationlist_algangror.json:algangror_8
+msgid "That's where you come in. Would you be willing to .. ahem .. handle those rodents for me?"
+msgstr "Dat is waarom ik jou nodig heb. Zou jij bereid zijn om met deze knaagdiern.. euhm .. af te rekenen."
+
+#: conversationlist_algangror.json:algangror_8:0
+msgid "Sure, some rodents, I can handle that."
+msgstr "Zeker, enkele knaagdieren, die kan ik wel aan."
+
+#: conversationlist_algangror.json:algangror_8:1
+msgid "No problem, I'll be right back once I have killed them."
+msgstr "Geen probleem, ik ben tergu zodra ik ze gedood heb."
+
+#: conversationlist_algangror.json:algangror_9
+msgid "Splendid. Return to me with some proof that they have been dealt with."
+msgstr "Uitstekend. Breng me het bewijs dat je met hen afgerekend hebt."
+
+#: conversationlist_algangror.json:algangror_cmp1
+msgid "So, for helping me with the idols, I believe I promised you my enchanted necklace, 'Marrowtaint'."
+msgstr "Dus, om me te helpen met de afgoden, geloof ik dat ik jou mijn betoverde halssnoer 'Marrowtaint' beloofd heb."
+
+#: conversationlist_algangror.json:algangror_cmp2
+msgid "Wear it well, my friend. Do not let others get hold of the power that Marrowtaint provides."
+msgstr "Draag het trots, mijn vriend. Laat de kracht die Marrowtaint geeft niet in andermans handen vallen."
+
+#: conversationlist_algangror.json:algangror_cmp3
+#: conversationlist_talion_2.json:talion_bone_1:0
+#: conversationlist_talion_2.json:talion_hair_1:0
+#: conversationlist_talion_2.json:talion_irdegh_1:0
+msgid "Here you go."
+msgstr "Voila."
+
+#: conversationlist_algangror.json:algangror_cmp3:0
+#: conversationlist_blackwater_lower.json:blackwater_throneguard_2:0
+#: conversationlist_charwood1.json:charwd_guard2:0
+#: conversationlist_ervelyn.json:ervelyn_give2:0
+#: conversationlist_fallhaven_potions.json:fallhaven_pot_antifp_q4:0
+#: conversationlist_fallhaven_potions.json:fallhaven_potions3:0
+#: conversationlist_fallhaven_unzel.json:unzel_30:1
+#: conversationlist_hjaldar.json:hjaldar_r15:0
+#: conversationlist_lodarfg.json:lodar_fg1_16
+#: conversationlist_loneford_4.json:arngyr_5
+#: conversationlist_maevalia.json:maevalia_d10
+#: conversationlist_talion_2.json:talion_bone_2
+#: conversationlist_talion_2.json:talion_hair_2
+#: conversationlist_talion_2.json:talion_irdegh_2
+#: conversationlist_talion_2.json:talion_vial_2
+#: conversationlist_thievesguild_1.json:thievesguild_cook_9:0
+msgid "Thank you."
+msgstr "Bedankt"
+
+#: conversationlist_algangror.json:algangror_cmp3:1
+msgid "That's all? One lousy necklace for all this trouble I went through?"
+msgstr "Is dat alles? Eén armzalig halssnoer voor alles wat ik doorgemaakt heb?"
+
+#: conversationlist_algangror.json:algangror_cmp4
+msgid "Do not underestimate it, my friend."
+msgstr "Onderschat het niet, mijn vriend."
+
+#: conversationlist_algangror.json:algangror_cmp5
+msgid "Again, thank you for helping me. You will always be welcome here, friend."
+msgstr "Nogmaals bedankt om me te helpen. Jij bent hier steeds welkom vriend."
+
+#: conversationlist_algangror.json:algangror_decline_1
+msgid "Ah yes. After all, you are just a child and I can understand such a task would be too much for you. He he."
+msgstr "Ach ja. Uiteindelijk ben je nog maar een kind en begrijp ik goed dat zo'n taak te veel van je gevraagd is. Hehe."
+
+#: conversationlist_algangror.json:algangror_fight_3
+msgid "Jhaeld, the fool. He hides behind his guards and his stone walls. Such a pitiful man he is. Yes, I made those people disappear, but they were all worth it. I will have my revenge!"
+msgstr "Jhaeld, de dwaas. Hij verschuilt zich achter wachters en dikke muren. Een zielig man, dat is hij. Ja, Ik deed die mensen verdwijnen, maar ze hadden het verdiend. Mijn wraak zal zoet zijn."
+
+#: conversationlist_algangror.json:algangror_fight_4
+msgid "And you, what are you trying to accomplish by running his errands? How fortunate that you entered my house. He he."
+msgstr "En jij, wat hoop je te bereiken door zijn loopjongen te spelen? Wat een geluk dat jij mijn huis binnenkwam. Hehe"
+
+#: conversationlist_algangror.json:algangror_fight_5
+msgid "Do you really think you can defeat *me*? Ha ha, this will be fun!"
+msgstr "Denk je echt dat jij *mij* kan verslaan? Haha, dit wordt lachen."
+
+#: conversationlist_algangror.json:algangror_fight_5:0
+#: conversationlist_buceth.json:buceth_fight_1:0
+#: conversationlist_charwood2.json:charwoodm:2
+#: conversationlist_highwayman1.json:highwayman1_6:0
+#: conversationlist_kaverin.json:kaverin_fight_1:0
+#: conversationlist_lodarfg3.json:lodar_fg3_3:0
+#: conversationlist_lodarmobs.json:lbridge:0
+#: conversationlist_lodarmobs.json:zortakb:0
+#: conversationlist_pwcave.json:iqhan_boss_1:0
+#: conversationlist_thukuzun.json:thukuzun_1:1
+msgid "Fight!"
+msgstr "Vecht!"
+
+#: conversationlist_algangror.json:algangror_remgard_1
+msgid "Oh, it's not far from here. Doesn't matter really."
+msgstr "O, 't is niet ver van hier. Maar dat heeft geen belang."
+
+#: conversationlist_algangror.json:algangror_remgard_2
+msgid "You see, I used to live there. To make a long story short, there were some .. ahem .. misunderstandings."
+msgstr "Ik woonde hier, ziet u. Om een lang verhaal kort te maken, er waren enkele .. euhm .. misverstanden."
+
+#: conversationlist_algangror.json:algangror_remgard_3
+msgid "These days, I think they are looking for me, for some reason. Can't think of any reason why really. But I believe they are."
+msgstr "Tegenwoordig, denk is dat ze me om één of andere reden zoeken. 'K zou niet weten waarom eigenlijk. Maar ik geloof de ze me zoeken."
+
+#: conversationlist_algangror.json:algangror_remgard_4
+msgid "Because of our previous .. misunderstanding, I think it's best they don't find out that I'm here."
+msgstr "Omwille van onze eerdere .. misverstanden, denk ik dat het beter is als ze niet te weten komen dat ik hier ben."
+
+#: conversationlist_algangror.json:algangror_remgard_5
+msgid "Therefore, I ask of you not to reveal my whereabouts to them."
+msgstr "Daarom vraag ik je, mijn verblijfplaats niet aan hen te onthullen."
+
+#: conversationlist_algangror.json:algangror_remgard_5:0
+#: conversationlist_algangror.json:algangror_remgard_6:0
+#: conversationlist_crossglen_odair.json:odair5:0
+msgid "Ok"
+msgstr "Ok"
+
+#: conversationlist_algangror.json:algangror_remgard_5:1
+msgid "(Lie) Ok"
+msgstr "(Lieg) Ok"
+
+#: conversationlist_algangror.json:algangror_remgard_6
+msgid "Thank you. Under no circumstances should you tell them where I am. They will most likely try to persuade you into revealing my location."
+msgstr "Bedant. Vertel hen onder geen beding waar ik ben. Hoogst waarschijnlijk zullen ze je proberen te overhalen mijn verblijfplaats te onhullen."
+
+#: conversationlist_algangror.json:algangror_remgard_7
+msgid "Under no circumstances."
+msgstr "Onder geen beding."
+
+#: conversationlist_algangror.json:algangror_return_1
+msgid "You return. Did you handle all those .. ahem .. rodents in my basement?"
+msgstr "Je bent terug. Heb je met al die .. knaagdieren .. in mijn kelder afgerekend?"
+
+#: conversationlist_algangror.json:algangror_return_1:0
+msgid "Yes, they are all dead."
+msgstr "Ja, ze zijn allemaal dood."
+
+#: conversationlist_algangror.json:algangror_return_1:1
+msgid "I am still working on it. Goodbye."
+msgstr "Ik ben er nog mee bezig. Tot ziens."
+
+#: conversationlist_algangror.json:algangror_return_1:2
+msgid "I won't do your stupid task, count me out."
+msgstr "Ik zal je stomme taak niet uitvoeren, reken maar niet op mij."
+
+#: conversationlist_algangror.json:algangror_return_1:3
+msgid "I have decided not to help you with your rodents."
+msgstr "Ik heb beslist je niet te helpen met je knaagdieren."
+
+#: conversationlist_algangror.json:algangror_return_2
+msgid "He he. I bet you sure showed them. Excellent. Thank you for .. ahem .. helping me."
+msgstr "Hehe, Ik durf wedden dat je hen hebt laten zien wat je waard bent. Uitstekend. Bedankt om me te .. euhm .. helpen."
+
+#: conversationlist_algangror.json:algangror_return_3
+msgid "Those rodents have really been bothering me. Good thing I managed to catch some of them. He he."
+msgstr "Die knaagdieren hebben echt op mijn zenuwen gewerkt. Gelukkig dat ik er in geslaagd ben enkele van hen te vangen. Hehe"
+
+#: conversationlist_algangror.json:algangror_return_4
+msgid "Now, there was something else I wanted to talk to you about. Have you been to the city of Remgard in your travels?"
+msgstr "Zo,er was nog iets anders waarover ik met je wou praten. Heb je tijdens je reizen de stad Remgard bezocht?"
+
+#: conversationlist_algangror.json:algangror_return_4:0
+msgid "Yes, I have been there."
+msgstr "Ja, daar ben ik geweest."
+
+#: conversationlist_algangror.json:algangror_return_4:1
+msgid "No, where is that?"
+msgstr "No, waar is dat?"
+
+#: conversationlist_algangror.json:algangror_return_c1
+msgid "You return. Thank you for helping me with my .. ahem .. rodent problem earlier."
+msgstr "Je bent terug. Bedankt om me daarstraks te helpen met mijn .. euhm .. knaagdier probleem."
+
+#: conversationlist_algangror.json:algangror_return_c3
+msgid "I hope that will teach those *other* rats."
+msgstr "Ik hoop dat dat die *andere* ratten zal leren."
+
+#: conversationlist_algangror.json:algangror_return_c4
+msgid "Say, you seem like a resourceful person. Would you be interested in helping me with yet another .. task?"
+msgstr "Zeg, jij lijkt me een vindingrijk iemand. Zou je geïnteresseerd zijn om me te helpen met nog een andere .. taak?"
+
+#: conversationlist_algangror.json:algangror_return_c4:0
+msgid "Depends on the task."
+msgstr "Hangt van de taak af."
+
+#: conversationlist_algangror.json:algangror_return_c4:1
+#: conversationlist_bwm_agent_3.json:bwm_agent_3_6:0
+#: conversationlist_kaverin.json:kaverin_9:1
+#: conversationlist_prim_guthbered.json:guthbered_21:0
+msgid "Sure."
+msgstr "Zeker"
+
+#: conversationlist_algangror.json:algangror_return_c4:2
+msgid "Not right now."
+msgstr "Niet nu nee."
+
+#: conversationlist_algangror.json:algangror_return_d1
+#: conversationlist_lodarfg.json:lodar_fg1_r1
+#: conversationlist_lodarfg.json:lodar_fg1_r2
+msgid "Oh, it's you again."
+msgstr "Oh, jij bent het weer."
+
+#: conversationlist_algangror.json:algangror_return_d2
+msgid "You should probably leave before you tip something over that might .. ahem .. break. He he."
+msgstr "Je zou waarschijnlijk beter vertrekken voor je iets laat vallen dat .. euhm .. breekbaar is. Hehe"
+
+#: conversationlist_algangror.json:algangror_return_d2:1
+msgid "Watch your tongue, witch."
+msgstr "Let op je woorden, heks."
+
+#: conversationlist_algangror.json:algangror_return_d2:2
+msgid "You are right, I had better leave."
+msgstr "Je hebt gelijk, best dat ik vertrek."
+
+#: conversationlist_algangror.json:algangror_story
+msgid "Let me tell you my story."
+msgstr "Laat me je mijn verhaal vertellen."
+
+#: conversationlist_algangror.json:algangror_story:0
+#: conversationlist_jan.json:jan_default2:0
+msgid "Please do."
+msgstr "Graag."
+
+#: conversationlist_algangror.json:algangror_story:1
+msgid "Can we just skip to the end?"
+msgstr "Kunnen we tot de clue komen?"
+
+#: conversationlist_algangror.json:algangror_story1
+msgid "You see, I used to live in the city of Remgard. The times were good, and the city prospered."
+msgstr "Ik woonde in de stad Remgard, ziet u. Het waren goede tijden, en de stad bloeide."
+
+#: conversationlist_algangror.json:algangror_story10
+msgid "So I told myself that others would not hinder me in my curiosity to better myself."
+msgstr "Dus maakte ik mezef wijs dan anderen mij niet zouden tegenhouden in mijn nieuwsgierigheid om mezelf te verbeteren."
+
+#: conversationlist_algangror.json:algangror_story11
+msgid "Those books that I bought from the Blackmarrow residence in Nor City - I must have read them all perhaps five times over. This was something completely new to me, and at the same time very exciting."
+msgstr "Die boeken die ik gekocht heb van de Blackmarrow residentie in Nor City - die heb ik allemaal wel een keer of vijf gelezen. Dit was iets volledig nieuw voor mij, en ter zelfe tijd zeer opwindend."
+
+#: conversationlist_algangror.json:algangror_story11:0
+#: conversationlist_algangror.json:algangror_story7:0
+msgid "What then?"
+msgstr "En dan?"
+
+#: conversationlist_algangror.json:algangror_story12
+msgid "For some reason, the others in Remgard started giving me strange looks, and I could hear the whispers behind my back."
+msgstr "Om één of andere reden begonnen de anderen in Remgard me na te staren, en werd er over me geroddeld."
+
+#: conversationlist_algangror.json:algangror_story13
+msgid "I was even barred from the tavern. 'People come here for a good time, and we don't want people like you here ruining that' they said. What fools they are."
+msgstr "De toegang tot de Taverne werd me zelfs ontzegd. 'De mensen komen hier om plezier te maken, en we willen niet dat mensen zoals jij dat verpesten', zeiden ze. Onnozelaars."
+
+#: conversationlist_algangror.json:algangror_story14
+msgid "I heard one woman whispering to her boy, 'Don't look at her, she'll turn you to stone!'. Others just turned the other way when they met me."
+msgstr "Ik hoorde een vrouw haar kind toefluistern: 'kijk niet naar haar, ze zal je in steen veranderen!'. Anderen liepen een andere richting uit als ze me tegenkwamen."
+
+#: conversationlist_algangror.json:algangror_story15
+msgid "What fools they are."
+msgstr "Onnozelaars, dat zijn het."
+
+#: conversationlist_algangror.json:algangror_story15:0
+msgid "So what happened?"
+msgstr "Wat is er dan gebeurd?"
+
+#: conversationlist_algangror.json:algangror_story16
+msgid "One day, Jhaeld showed up at my doorstep with a group of guards."
+msgstr "Op een dag verscheen Jhaeld met een groep wachters aan mijn deur."
+
+#: conversationlist_algangror.json:algangror_story17
+msgid "The people of Remgard had decided that I could not stay there anymore, he said. The things I did were causing other people harm, he said."
+msgstr "De mensen van Remgard hadden besloten dat ik er niet langer kon blijven, zei hij. De dingen die ik deed, schaadden andere mensen, beweerde hij."
+
+#: conversationlist_algangror.json:algangror_story18
+msgid "What had I done, I asked myself? I had never hurt anyone, much less affected anyone with my .. experiments. Am I not allowed to do what I wish?"
+msgstr "Ik vroeg me af wat ik gedaan had. Ik had nooit iemand pijn gedaan, en zeker niets aangedaan met mijn .. experimenten. Mag ik dan niet doen wat ik wil?"
+
+#: conversationlist_algangror.json:algangror_story19
+msgid "I had little chance to argue, however. The guards led me out of the city. They did not even let me gather my things. All my books, all my notes and all my findings - gone. I lost everything."
+msgstr "Ik kreeg echter geen kans me te verdedigen. De wachters begeleidden me uit de stad. Ze lieten me zelf mijn spullen niet mee nemen. All mijn boeken, mijn notities, mijn bevindingen - weg. I verloor alles."
+
+#: conversationlist_algangror.json:algangror_story19:0
+#: conversationlist_maevalia.json:maevalia15:0
+#: conversationlist_maevalia.json:maevalia_r0:1
+#: conversationlist_talion_2.json:talion_cured_1:1
+#: conversationlist_wrye.json:wrye_story_8:0
+msgid "What now?"
+msgstr "Wat nu?"
+
+#: conversationlist_algangror.json:algangror_story2
+msgid "Our crops grew well, and some people had very fortunate trading agreements with other cities, making the life for most of us living in Remgard very easy."
+msgstr "Onze gewassen groeiden goed, en sommigen hadden zeer fortuinlijke handelsverdragen met andere steden, waardoor het leven voor de meeste inwoners van Remgard gemakkelijk was."
+
+#: conversationlist_algangror.json:algangror_story20
+msgid "All this happened several seasons ago. I knew I had to get revenge for what they did to me."
+msgstr "Dit was verschillende jaren terug. Ik wist dat ik wraak moest nemen voor wat ze me aangedaan hadden."
+
+#: conversationlist_algangror.json:algangror_story21
+msgid "Oh, how I despise them all. The people that gave me those looks, the people that whispered behind my back, and most of all that fool Jhaeld."
+msgstr "Ik veracht ze echt allemaal. De mensen die me na staarden, de mensen die achter mijn rug roddelden, maar vooral die dwaas Jhaeld."
+
+#: conversationlist_algangror.json:algangror_story22
+msgid "So, I decided to extend my .. experiments .. to larger things. To people, to living things. This is the perfect opportunity to learn even more than what is in the books."
+msgstr "Dus  besloot ik mijn .. experimenten .. uit te breiden naar groter dingen. Naar mensen, naar levende dingen. Dit is de perfecte mogelijkheid om nog meer te leren dan wat er in de boeken staat."
+
+#: conversationlist_algangror.json:algangror_story23
+msgid "To think that I could do it while at the same time get revenge on those despicable people - it's an excellent plan, if I may say so myself. He he."
+msgstr "Het idee dat ik terzelfder tijd wraak kon nemen op die verachtelijk mensen - was briliant, al zeg ik het zelf. Hehe"
+
+#: conversationlist_algangror.json:algangror_story23:0
+msgid "So, what happened to all those people that have gone missing?"
+msgstr "Dus, wat is er gebeurd met al die mensen die vermist zijn?"
+
+#: conversationlist_algangror.json:algangror_story24
+msgid "I lured them here. Once I managed to trap them, I placed a curse on them that, in theory, should have only made them unable to speak."
+msgstr "Ik lokte hen hierheen. Zodra ik er in geslaagd was hen in de val te lokken, betoverde ik hen waardoor ze, in theorie, enkel hun spraak zouden verliezen."
+
+#: conversationlist_algangror.json:algangror_story25
+msgid "Maybe I haven't understood everything correctly from the books that I have read, since instead of making them unable to speak, they were all turned into rats instead."
+msgstr "Misschien heb ik niet alles juist begrepen uit de boeken die ik gelezen heb, omdat ze in plaats van niet meer te kunnen spreken, allemaal in ratten veranderd zijn."
+
+#: conversationlist_algangror.json:algangror_story26
+msgid "Practice makes perfect, I suppose. Ha ha."
+msgstr "Oefening baart kunst, veronderstel ik. Haha"
+
+#: conversationlist_algangror.json:algangror_story26:0
+msgid "Wait, does this mean that those rats I killed for you were.."
+msgstr "Wacht, betekent dat dat die ratten die ik voor je doodde eigenlijk.."
+
+#: conversationlist_algangror.json:algangror_story27
+msgid "Oh yes. With your help, they are now one less problem to deal with, so to speak. He he."
+msgstr "O ja. Danzij jou hulp heb ik, bij wijze van spreken, nu al één probleem minder. Hehe"
+
+#: conversationlist_algangror.json:algangror_story28
+msgid "So, that's my story. Thank you for listening to it."
+msgstr "Dus, dat is mijn verhaal. Bedankt om ernaar te luisteren."
+
+#: conversationlist_algangror.json:algangror_story28:0
+msgid "I understand, and I agree with your actions."
+msgstr "I begrijp het, en ik ben het eens met wat je deed."
+
+#: conversationlist_algangror.json:algangror_story28:1
+msgid "I do not fully agree with your actions."
+msgstr "Ik ben niet volledig eens met wat je deed."
+
+#: conversationlist_algangror.json:algangror_story28:2
+msgid "What you did could never be justified!"
+msgstr "Wat jij deed kan nooit gerechtvaardigd worden."
+
+#: conversationlist_algangror.json:algangror_story29a
+msgid "Thank you. It is good to know there are more people interested in learning more."
+msgstr "Bedankt, het is goed te weten dat er nog mensen geïnteresseerd zijn in bij te leren."
+
+#: conversationlist_algangror.json:algangror_story29b
+msgid "I never expected you to understand it. No one else seems to understand me either. Oh well, your loss, I guess."
+msgstr "Ik had ook niet verwacht dat jij het zou begrijpen. Niemand anders lijkt mij te begrijpen. Wel, pech voor jou zou ik zeggen."
+
+#: conversationlist_algangror.json:algangror_story3
+msgid "I even sold some of the baskets that I used to make to a wealthy merchant that visited us from Nor City."
+msgstr "Ik verkocht zelfs enkele van de manden die ik placht te maken aan een rijke handelaar, uit de stad Nor, die ons bezocht."
+
+#: conversationlist_algangror.json:algangror_story4
+msgid "However, even the easy life gets boring after a while. I believe it is in our nature to strive for new and better things, to free us from the boredom of day-to-day life."
+msgstr "Maar, zelfs het goede leven wordt saai na een tijd. Ik geloof dat het in onze natuur zit om te streven naar nieuwe en betere dingen, om ons te bevrijden van de dagelijkse sleur."
+
+#: conversationlist_algangror.json:algangror_story5
+msgid "I wanted to learn more of things that I knew nothing about, and wanted to explore things I had only read of in books before."
+msgstr "Ik wilde meer weten over zaken waar ik niks van wist, en ik wilde dingen onderzoeken die ik enkel in boeken had gelezen."
+
+#: conversationlist_algangror.json:algangror_story6
+msgid "So I went to Nor City myself, and visited many .. interesting people and .. dark corners."
+msgstr "Dus ging ik zelf naar de stad Nor, en ik bezocht er vershillende .. interessante personen en .. donkere hoeken."
+
+#: conversationlist_algangror.json:algangror_story7
+msgid "Naturally, I was thrilled of the knowledge I gained from the experience, and from what I learned while there."
+msgstr "Natuurlijk, was ik opgewonden door de kennins die ik door die ervaring opdeed, en door wat ik leerde terwijl ik er was."
+
+#: conversationlist_algangror.json:algangror_story8
+msgid "As I got back home, I wanted to continue practicing what I had observed and learned while in Nor City."
+msgstr "Toen ik terug thuis kwam, wilde ik blijven oefenen op wat ik aanschouwd en geleerd had in de Stad Nor"
+
+#: conversationlist_algangror.json:algangror_story9
+msgid "You could say I got obsessed with learning more. I guess the others living in Remgard did not .. share my enthusiasm. Some of them even questioned the fact that I wanted to learn more."
+msgstr "Je zou kunnen stellen dat ik geobsedeerd raakte met meer te leren. Ik denk dat de andere inwoners van Remgard mijn .. enthousiasme niet deelden. Sommigen stelden zelfs in vraag of ik wel meer wilde leren."
+
+#: conversationlist_algangror.json:algangror_task2_1
+msgid "Now, I can't tell you what task I have in mind before I am confident that you will actually help me. Granted, you have already shown some level of respect for my need of discretion."
+msgstr "Nu, ik kan je niet zeggen welke taak ik in gedachten had alvorens ik er vertrouwen in heb dat je me echt zal helpen. Al moet ik wel zeggen dat je reeds aangetoond hebt mijn noodzaak aan discretie te respecteren."
+
+#: conversationlist_algangror.json:algangror_task2_10
+msgid "Remember, it is of utmost importance that you be as discreet as possible about this. The idols must not be found once you have placed them, and no one must notice that you place the idols."
+msgstr "Onthoudt, het is van het grootste belang dat je in deze zo discreet mogelijk bent. De afgoden mogen niet gevonden worden eens je ze geplaatst hebt en niemand mag merken dat je de afgoden plaatst"
+
+#: conversationlist_algangror.json:algangror_task2_10:0
+msgid "Go on."
+msgstr "Ga verder."
+
+#: conversationlist_algangror.json:algangror_task2_11
+msgid "So, the first person that I want you to visit is Jhaeld. I hear that he spends most of his time in the Remgard tavern these days."
+msgstr "Dus, de eerste persoon die ik wil dat je bezoekt is Jhaeld. Naar ik hoor brengt hij tegenwoordig het zijn dagen vooral door in de taverne van Remgard."
+
+#: conversationlist_algangror.json:algangror_task2_12
+msgid "Secondly, I want you to visit one of the farmers named Larni. He lives with his wife Caeda here in Remgard in one of the northern cabins."
+msgstr "Ten tweede, wil ik dat je een van de boeren bezoekt, Larni genaamd. Hij woont met zijn vrouw Caeda hier in Remgard in een van de noordelijke hutten."
+
+#: conversationlist_algangror.json:algangror_task2_13
+#: questlist_v0611_3.json:fiveidols:33
+msgid "The third person is Arnal the weapon-smith, that lives in the northwest of Remgard."
+msgstr "De derde persoon is Arnal de wapensmid, die in het noordwesten van Remgard woont."
+
+#: conversationlist_algangror.json:algangror_task2_14
+msgid "Fourth is Emerei, that can probably be found in his house to the southeast of Remgard."
+msgstr "Ten vierde is er Emerei, die waarschijnlijk te vinden is in zijn huis ten zuidoosten van Remgard."
+
+#: conversationlist_algangror.json:algangror_task2_15
+msgid "The fifth person is the farmer Carthe. Carthe lives on the eastern shore of Remgard, near the tavern."
+msgstr "De vijde persoon is de boer Carthe. Carthe woont aan de oostelijke kust van Remgard, nabij de taverne"
+
+#: conversationlist_algangror.json:algangror_task2_16
+msgid "Once you have placed these five idols by the beds of these five people, return to me as soon as possible."
+msgstr "Eens je deze vijf afgoden bij de bedden van deze vijf mensen geplaatst hebt, keer je zo snel mogelijk naar me terug."
+
+#: conversationlist_algangror.json:algangror_task2_17
+msgid "Again, I cannot stress this enough - you must not tell anyone about these idols, and you must not be seen while placing them."
+msgstr "En nogmaals, ik kan het niet genoeg benadrukken - je mag niemand iets vertellen over de afgoden, en je mag niet gezien worden terwijl je hen plaatst."
+
+#: conversationlist_algangror.json:algangror_task2_17:0
+msgid "I understand."
+msgstr "Ik begrijp het."
+
+#: conversationlist_algangror.json:algangror_task2_18
+msgid "Here are the idols."
+msgstr "Hier zijn de afgoden."
+
+#: conversationlist_algangror.json:algangror_task2_18:0
+msgid "I will be back shortly."
+msgstr "Ik ben zo terug."
+
+#: conversationlist_algangror.json:algangror_task2_18:1
+msgid "This should be easy."
+msgstr "Dit zou geen probleem mogen zijn."
+
+#: conversationlist_algangror.json:algangror_task2_19
+msgid "Now go, and please hurry, we might not have much time."
+msgstr "Ga nu, en schiet op aub, we hebben misschien niet veel tijd."
+
+#: conversationlist_algangror.json:algangror_task2_2
+msgid "Nor can I describe my reasoning behind this task before you are done with it."
+msgstr "Noch kan mijn redenen voor deze taak uitleggen voor je er klaar mee bent."
+
+#: conversationlist_algangror.json:algangror_task2_3
+msgid "Rest assured, you will be sufficiently rewarded by helping me. In fact, you see this necklace here? It has some peculiar powers that many people seek."
+msgstr "Wees gerust, je zal voldoende beloond worden voor je hulp. Zie je bijvoorbeeld dit halssnoer? Het heeft bijzondere krachten waar veel mense naar zoeken."
+
+#: conversationlist_algangror.json:algangror_task2_4
+msgid "The world around you seems to move a bit slower when you wear it."
+msgstr "The wereld rondom je lijkt trager te draaien wanneer je het draagt."
+
+#: conversationlist_algangror.json:algangror_task2_4:0
+msgid "Ok. I will help you with your task."
+msgstr "Ok, ik zal je helpen met je taak."
+
+#: conversationlist_algangror.json:algangror_task2_4:1
+#: conversationlist_algangror.json:algangror_task2_5:1
+msgid "Ok, I'll help. I'm always interested in new items."
+msgstr "Ok, ik zal helpen. Ik ben altijd geïnteresseerd in nieuwe items."
+
+#: conversationlist_algangror.json:algangror_task2_4:2
+msgid "It all depends on what you want me to do."
+msgstr "Alles hangt af van wat je van me verwacht."
+
+#: conversationlist_algangror.json:algangror_task2_4:3
+msgid "Something feels wrong here. I don't think I should help you."
+msgstr "Hier zit een geurtje aan. Ik denk niet dat ik je ga helpen."
+
+#: conversationlist_algangror.json:algangror_task2_5
+msgid "As I said, I cannot tell you what task I have in mind, or my reasoning behind it until you are done. I would need your total .. cooperation with this."
+msgstr "Zoals ik al zei, ik kan je niet vertellen welke taak ik in gedachten hebt, of mijn redenen ervoor, alvorens je klaar bent. Ik heb je .. volledige medewerking hiervoor nodig."
+
+#: conversationlist_algangror.json:algangror_task2_5:0
+msgid "Ok. I will agree to help you with your task."
+msgstr "Ok, I ga akkoord om je te helpen."
+
+#: conversationlist_algangror.json:algangror_task2_5:2
+msgid "No. I will not help you unless you tell me what you want me to do."
+msgstr "Nee,ik zal je niet helpen tenzij je me vertelt wat je van me verlangt."
+
+#: conversationlist_algangror.json:algangror_task2_5:3
+msgid "No, I would never help someone like you."
+msgstr "Nee, ik zou nooit iemand als jij helpen."
+
+#: conversationlist_algangror.json:algangror_task2_6
+msgid "Good, good."
+msgstr "Goed, goed."
+
+#: conversationlist_algangror.json:algangror_task2_7
+msgid "You will tell no one of this task that I am about to give you, and you must be as discreet as possible."
+msgstr "Je zal niemand iets vertellen van de taak die ik je zal geven, en je moet zo discreet mogelijk zijn."
+
+#: conversationlist_algangror.json:algangror_task2_8
+msgid "I have in my possession five idols. Five idols with very unique .. qualities. What I want you to do is .. deliver these idols to various people in the town of Remgard."
+msgstr "Ik bezit vijf beelden van afgoden. Vijf afgoden met unieke .. eigenschappen. Wat je moet doen is deze afgoden .. afleveren bij verschillende mensen in Remgard."
+
+#: conversationlist_algangror.json:algangror_task2_9
+msgid "You will place them by the beds of five particular persons, and you must hide it well so that the person does not find the idol itself."
+msgstr "Je moet ze bij het bed van vijf bepaalde personen plaatsen, en je moet ze goed verstoppen zodat de personen in kwestie die afgoden zelf niet vinden."
+
+#: conversationlist_algangror.json:algangror_task2_d
+msgid "Very well, return to me once you are ready."
+msgstr "Zeer goed, kom terug bij me wanneer je klaar bent."
+
+#: conversationlist_algangror.json:algangror_task2_done1
+msgid "Excellent. Maybe, now I can rest easily. Thank you so much for helping me."
+msgstr "Uitstekend. Misschien kan ik nu goed slapen. Nogmaals bedankt om me te helpen."
+
+#: conversationlist_algangror.json:algangror_task2_done2
+msgid "Did anyone see you or where you placed the idols?"
+msgstr "Heeft iemand gezien waar je de afgoden geplaatst hebt?"
+
+#: conversationlist_algangror.json:algangror_task2_done2:0
+msgid "No, I hid the idols as you instructed."
+msgstr "Nee, ik heb ze verstopt zoals je gezegd had."
+
+#: conversationlist_algangror.json:algangror_task2_done3
+msgid "Good. Thank you again for helping me."
+msgstr "Goed, nogmaals bedankt voor je hulp."
+
+#: conversationlist_algangror.json:algangror_task2_n
+msgid "Ah yes. After all, you are just a child and I can understand that all of this must be too much for you. He he."
+msgstr "Ach ja, uiteindelijk ben je nog maar een kind en ik begrijp dat dit alles wat veel voor je is. Hehe"
+
+#: conversationlist_algangror.json:algangror_task2_n2
+msgid "Can I at least urge you not to disclose my location to the people of Remgard?"
+msgstr "Kan ik je dan ten minste vragen mijn schuilplaats niet te verklappen aan de mensen van Remgard?"
+
+#: conversationlist_algangror.json:algangror_task2_n2:0
+msgid "I will keep your location secret. Goodbye."
+msgstr "Ik schuilplaats geheim houden. Vaarwel."
+
+#: conversationlist_algangror.json:algangror_task2_n2:1
+msgid "We'll see. Goodbye."
+msgstr "We zullen zien. Vaarwel."
+
+#: conversationlist_algangror.json:algangror_task2_n2:2
+msgid "Don't tell me what to do! Goodbye."
+msgstr "Vertel mij niet wat ik moet doen. Vaarwel."
+
+#: conversationlist_algangror.json:algangror_task2_ret1
+msgid "Tell me, how goes the task of placing the idols?"
+msgstr "Vertel eens, hoe gaat het met het plaatsen van de afgoden?"
+
+#: conversationlist_algangror.json:algangror_task2_ret1:0
+msgid "Can you repeat what you wanted me to do?"
+msgstr "Kan je nog eens herhalen wat ik moet doen?"
+
+#: conversationlist_algangror.json:algangror_task2_ret1:1
+msgid "I am still trying to find everyone."
+msgstr "Ik probeer nog steeds iedereen te vinden."
+
+#: conversationlist_algangror.json:algangror_task2_ret1:2
+msgid "It is done."
+msgstr "Het is klaar."
+
+#: conversationlist_algangror.json:algangror_task2_ret1:3
+msgid "I won't do your stupid task."
+msgstr "Ik ga je stomme taak niet uitvoeren."
+
+#: conversationlist_algangror.json:algangror_task2_ret1:4
+msgid "I will not help you with your task."
+msgstr "Ik ga je niet helpen met je taak."
+
+#: conversationlist_algangror.json:algangror_task2_ret2
+msgid "Please hurry, we might not have much time."
+msgstr "Schiet op AUB, we hebben misschien niet veel tijd."
+
+#: conversationlist_algangror.json:algangror_told_2
+msgid "Say, despite my previous urging to you to keep my location a secret to the people of Remgard, I have this feeling that this trust has been broken. Please tell me it isn't so."
+msgstr "Zeg eens, ondanks dat ik er bij je heb op aangedrongen mijn locatie geheim te houden voor de mensen van Remgard, heb ik het gevoel dat je mijn vertrouwen geschonden hebt. Zeg me AUB dat dat niet waar is."
+
+#: conversationlist_algangror.json:algangror_told_2:0
+msgid "Yes, I have told Jhaeld where you are."
+msgstr "Ja, Ik heb Jhaeld verteld waar je bent."
+
+#: conversationlist_algangror.json:algangror_told_2:1
+msgid "(Lie) No, I have not told anyone."
+msgstr "(Lieg) Nee, ik heb het aan niemand verteld."
+
+#: conversationlist_algangror.json:algangror_told_3
+msgid "I can feel it in me."
+msgstr "Ik voel het vanbinnen."
+
+#: conversationlist_alynndir.json:alynndir_1
+msgid "Hello there. Welcome to my cabin."
+msgstr "Hallo daar, welkom in mijn hut."
+
+#: conversationlist_alynndir.json:alynndir_1:0
+#: conversationlist_elythom_1.json:krell_1:2
+#: conversationlist_esfiume.json:esfiume1:1
+#: conversationlist_esfiume.json:esfiume2:0
+#: conversationlist_farrik.json:farrik_2:0
+#: conversationlist_foamingflask_guards.json:ff_captain_2:1
+#: conversationlist_foamingflask_outsideguard.json:ff_outsideguard_2:1
+#: conversationlist_norath.json:norath_1:2
+#: conversationlist_norath.json:norath_2:1
+#: conversationlist_prim_inn.json:laecca_1:0
+#: conversationlist_remgard_villagers1.json:skylenar:1
+#: conversationlist_thievesguild_1.json:thievesguild_troublemaker_1:1
+msgid "What do you do around here?"
+msgstr "Wat doe jij hier zoal?"
+
+#: conversationlist_alynndir.json:alynndir_1:1
+#: conversationlist_alynndir.json:alynndir_2:1
+msgid "What can you tell me about the surroundings here?"
+msgstr "Wat can je me vertellen over de omgeving hier?"
+
+#: conversationlist_alynndir.json:alynndir_2
+msgid "Mostly, I trade with travelers on the main road on the way to Nor City."
+msgstr "Ik drijf voornamelijk handel, met reizigers op de hoofdweg naar de stad Nor"
+
+#: conversationlist_alynndir.json:alynndir_2:0
+#: conversationlist_charwood1.json:khorailla1:0
+#: conversationlist_charwood1.json:khorailla3:0
+#: conversationlist_crossglen.json:arambold1:1
+#: conversationlist_crossglen.json:mara_default:0
+#: conversationlist_crossglen_tharal.json:tharal1:0
+#: conversationlist_fallhaven_tavern.json:ganos:0
+#: conversationlist_gandoren.json:gandoren_completed_2:0
+#: conversationlist_kendelow.json:kendelow_d:1
+#: conversationlist_minarra.json:minarra_completed_1:0
+#: conversationlist_minarra.json:minarra_completing_1:0
+#: conversationlist_minarra.json:minarra_first_5:0
+#: conversationlist_minarra.json:minarra_return_1:1
+#: conversationlist_norath.json:norath_1:1
+#: conversationlist_remgard_villagers1.json:skylenar:0
+#: conversationlist_remgard_villagers1.json:skylenar_2:1
+#: conversationlist_talion.json:talion_0:1
+#: conversationlist_talion_2.json:talion_infect_30:6
+#: conversationlist_thorin.json:thorin_2:3
+#: conversationlist_thorin.json:thorin_return_1:1
+#: conversationlist_thorin.json:thorin_search_1:3
+#: conversationlist_thorin.json:thorin_search_c_2:1
+msgid "Do you have anything to trade?"
+msgstr "Heb je iets te verhandelen?"
+
+#: conversationlist_alynndir.json:alynndir_3
+msgid "Oh, there is not much around here. Vilegard to the west and Brightport to the east."
+msgstr "O, er is hier niet veel te beleven. Vilegard in het westen en Brightport in het oosten."
+
+#: conversationlist_alynndir.json:alynndir_4
+msgid "Up north is just forest. But there are some strange things happening there."
+msgstr "In het noorden is enkel woud. Maar er gebeuren daar vreemde dingen."
+
+#: conversationlist_alynndir.json:alynndir_5
+msgid "I have heard terrible screams coming from the forest to the northwest."
+msgstr "Ik heb ijselijke schreeuwen gehoord, komend uit het woud ten noordwesten van hier."
+
+#: conversationlist_alynndir.json:alynndir_6
+msgid "I really wonder what is up there."
+msgstr "Ik vraag me echt af wat daar aan de hand is."
+
+#: conversationlist_alynndir.json:alynndir_6:0
+#: conversationlist_elwyl.json:elwel_1:1
+#: conversationlist_foamingflask_guards.json:ff_captain_rincel_4:1
+#: conversationlist_lodarfg.json:lodar_fg1_18:0
+#: conversationlist_prim_inn.json:laecca_7:0
+msgid "Goodbye."
+msgstr "Tot ziens."
+
+#: conversationlist_ambelie.json:ambelie_1
+msgid "Oh my, a commoner. Get away from me. I might catch something."
+msgstr "O, iemand uit het plebs. Ga weg, vooraleer ik iets opdoe."
+
+#: conversationlist_ambelie.json:ambelie_1:1
+#: conversationlist_ambelie.json:ambelie_3:0
+msgid "What is a noble woman such as yourself doing in a place like this?"
+msgstr "Wat doet een edele dame zoals u op een plek als deze?"
+
+#: conversationlist_ambelie.json:ambelie_1:2
+msgid "I would be glad to get away from a snob like you."
+msgstr "Ik ga graag weg van een snob als u."
+
+#: conversationlist_ambelie.json:ambelie_10
+msgid "Thank you. Now please leave before someone sees me talking to a commoner like you."
+msgstr "Bedankt. Ga nu alstublieft weg voor iemand me met een gewone burger als u ziet praten."
+
+#: conversationlist_ambelie.json:ambelie_10:0
+msgid "Commoner? Are you trying to insult me? Goodbye."
+msgstr "Plebs? Probeer je me te beledigen? Vaarwel."
+
+#: conversationlist_ambelie.json:ambelie_10:1
+msgid "Whatever, you probably wouldn't even survive a forest wasp."
+msgstr "Wat dan ook, je zou waarschijnlijk zelf een boswesp niet overleven."
+
+#: conversationlist_ambelie.json:ambelie_2
+msgid "I am Ambelie of the house of Laumwill in Feygard. I am sure you must have heard of me and my house."
+msgstr "Ik ben Ambelie van het huis van Laumwill in Feygard. U hebt toch zeker wel gehoord van mij en mijn huis."
+
+#: conversationlist_ambelie.json:ambelie_2:0
+msgid "Oh yes.. um.. House of Laumwill in Feygard. Of course."
+msgstr "O ja, .. euhm .. Huis van Laumwill in Feygard. Natuurlijk."
+
+#: conversationlist_ambelie.json:ambelie_2:1
+msgid "I have never heard of you or your house."
+msgstr "Ik heb nog nooit van u of uw huis gehoord."
+
+#: conversationlist_ambelie.json:ambelie_2:2
+msgid "Where is Feygard?"
+msgstr "Waar is Feygard?"
+
+#: conversationlist_ambelie.json:ambelie_3
+msgid "Feygard, the great city of peace. Surely you must know of it. Northwest in our great land."
+msgstr "Feygard, de stad van vrede. Natuurlijk heb je er als van gehoord. In het noordwesten van ons geweldige land."
+
+#: conversationlist_ambelie.json:ambelie_3:1
+msgid "No, I have never heard of it."
+msgstr "Nee, ik heb er nog nooit van gehoord."
+
+#: conversationlist_ambelie.json:ambelie_4
+msgid "Pfft. That just proves everything I have heard of you savages here in the southern land. So uneducated."
+msgstr "Pfff. Dat bewijst enkel alles dat ik gehoord heb van de wilden die jullie, hier in de zuidelijke landen, zijn. Zo ongeletterd."
+
+#: conversationlist_ambelie.json:ambelie_5
+msgid "I, Ambelie, of the house of Laumwill in Feygard, am on an excursion to the southern Nor City."
+msgstr "Ik, Ambelie, van het huis van Laumwill in Feygard, ben op een excursie naar de zuidelijke stad Nor."
+
+#: conversationlist_ambelie.json:ambelie_6
+msgid "An excursion to see if Nor City really is all that I have heard about it. If it really can compare itself to the glamour of the great city of Feygard."
+msgstr "Een excursie om te zien of de stad Nor echt is wat ik ervan gehoord heb. Of ze zich echt kan vergelijken met de grote, prestigieuze stad Feygard."
+
+#: conversationlist_ambelie.json:ambelie_6:0
+#: conversationlist_ambelie.json:ambelie_9:0
+msgid "Nor City, where is that?"
+msgstr "Stad Nor, waar is dat?"
+
+#: conversationlist_ambelie.json:ambelie_6:1
+msgid "If you like it so much in Feygard, why would you even leave?"
+msgstr "Als je zo van Feygard houdt, waarom ga je er dan weg?"
+
+#: conversationlist_ambelie.json:ambelie_7
+msgid "Don't you know of Nor City? I will take note that the savages here haven't even heard of the city."
+msgstr "Ken je de stad Nor niet? Ik noteer dat de wilden hier, zelfs nog niet van de stad gehoord hebben."
+
+#: conversationlist_ambelie.json:ambelie_8
+msgid "I am beginning to be even more certain that Nor City will never, even in my wildest dreams, be comparable to the great city of Feygard."
+msgstr "Ik begin er meer en meer overtuigd van te geraken dat de stad Nor nooit, zelfs niet in mijn stoutste dromen, vergelijkbaar zal zijn met de grote stad Feygard."
+
+#: conversationlist_ambelie.json:ambelie_8:0
+#: conversationlist_ambelie.json:ambelie_9:1
+msgid "Good luck on your excursion."
+msgstr "Veel geluk met je excursie."
+
+#: conversationlist_ambelie.json:ambelie_9
+msgid "All the noblewomen in Feygard keep talking about the mysterious Shadow in Nor City. I just have to see it myself."
+msgstr "Alle edelvrouwen in Feygard blijven praten over de mysterieuze 'Schaduw' in de stad Nor. Ik moet het gewoon met mijn eigen ogen zien."
+
+#: conversationlist_arghes.json:arghes_1
+msgid "You will find no business here, child."
+msgstr "Je hebt hier niets te zoeken, jongen."
+
+#: conversationlist_arghes.json:arghes_2
+msgid "How interesting. The child from Fallhaven, here in Remgard?"
+msgstr "Interessant. De jongen van Fallhaven, hier in Remgard?"
+
+#: conversationlist_arghes.json:arghes_2:0
+msgid "I'm not from Fallhaven, I am from Crossglen, west of Fallhaven."
+msgstr "Ik ben niet van Fallhaven, ik kom uit Crossglen, ten westen van Fallhaven."
+
+#: conversationlist_arghes.json:arghes_2:2
+msgid "How do you know where I am from?"
+msgstr "Hoe weet jij waar ik vandaan kom."
+
+#: conversationlist_arghes.json:arghes_3a
+msgid "Is that so? Hm, most interesting. It does not change anything, however."
+msgstr "Is dat waar? Hm, zeer interessant. Maar dat verandert echter niets."
+
+#: conversationlist_arghes.json:arghes_3b
+msgid "Who I am is of no importance in this situation. You on the other hand, are most important."
+msgstr "Wiek ik ben is in deze van geen belang. Jij daarentegen bent zeer belangrijk."
+
+#: conversationlist_arghes.json:arghes_3c
+msgid "I know .. a great deal of things."
+msgstr "Ik weet .. veel af van bepaalde dingen."
+
+#: conversationlist_arghes.json:arghes_4
+msgid "$playername - yes, that is what they call you."
+msgstr "$playername - yes, dat is hoe ze je noemen."
+
+#: conversationlist_arghes.json:arghes_4:0
+msgid "How do you know my name? Who are you?"
+msgstr "Hoe weet je mijn naam? Wie ben jij?"
+
+#: conversationlist_arghes.json:arghes_5
+msgid "Let's just say that I am a .. friend. You would do well to keep your .. friends close."
+msgstr "Laat ons zeggen dat ik een .. vriend ben. Ik raad je aan om je .. vrienden in de buurt te houden."
+
+#: conversationlist_arghes.json:arghes_6
+msgid "Now, how may I help you? Equipment? Information?"
+msgstr "Nu, hoe kan ik je helpen. Uitrusting? Informatie?"
+
+#: conversationlist_arghes.json:arghes_6:1
+msgid "What information do you have?"
+msgstr "Welke informatie heb je?"
+
+#: conversationlist_arghes.json:arghes_7
+#: conversationlist_rothses.json:rothses_imp_s0
+msgid "Hm, let me see."
+msgstr "Hm, laat me eens kijken."
+
+#: conversationlist_arghes.json:arghes_8
+msgid "No, I cannot tell you anything at this time. You are welcome to return once your path has become .. clearer."
+msgstr "Nee, ik kan je op dit moment niets vertellen. Je bent hier opieuw welkom eens je pad .. duidelijker geworden is."
+
+#: conversationlist_arghes.json:arghes_shop
+#: conversationlist_ervelyn.json:ervelyn_shop
+msgid "Certainly."
+msgstr "Zeker."
+
+#: conversationlist_aulowenn.json:aulowenn1
+msgid "Halt! Do not come any closer. The contents of these crates is property of Feygard."
+msgstr "Halt! Kom niet dichterbij. De inhoud van deze kratten is eigendom van Feygard."
+
+#: conversationlist_aulowenn.json:aulowenn1:0
+msgid "I mean you no harm. Who are you?"
+msgstr "Ik heb geen slechte bedoelingen. Wie ben jij?"
+
+#: conversationlist_aulowenn.json:aulowenn1:1
+msgid "Sure. I'll just stay right here. Who are you?"
+msgstr "Zeker, ik blijf hier staan. Wie ben jij?"
+
+#: conversationlist_aulowenn.json:aulowenn1:2
+#: conversationlist_prim_fulus.json:bjorgur_bandit:0
+msgid "Fine. I will leave."
+msgstr "Goed, ik ben al weg."

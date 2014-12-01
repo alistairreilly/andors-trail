@@ -2,22 +2,24 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Andors Trail\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: Sat Oct 26 09:46:51 CEST 2013\n"
-"PO-Revision-Date: 2013-10-26 08:31+0000\n"
-"Last-Translator: Launchpad Translations Administrators <Unknown>\n"
+"POT-Creation-Date: Sun Nov 10 11:14:56 CET 2013\n"
+"PO-Revision-Date: 2014-03-16 08:29+0000\n"
+"Last-Translator: Rodrigo Borges Freitas <rodrigo.borges.freitas@gmail.com>\n"
 "Language-Team: \n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-10-26 09:06+0000\n"
-"X-Generator: Launchpad (build 16810)\n"
+"X-Launchpad-Export-Date: 2014-05-28 22:14+0000\n"
+"X-Generator: Launchpad (build 17017)\n"
 
 #: [none]
 msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
-"  Oskar Wiksten https://launchpad.net/~oskar-wiksten"
+"  Oskar Wiksten https://launchpad.net/~oskar-wiksten\n"
+"  Rodrigo Borges Freitas https://launchpad.net/~rodrigo-borges-freitas\n"
+"  yakup https://launchpad.net/~mutouk"
 
 #: actorconditions_v0610.json:chaotic_curse
 msgid "Chaotic curse"
@@ -49,7 +51,7 @@ msgstr "Veneno Irdegh"
 
 #: actorconditions_v0611.json:stunned
 msgid "Stunned"
-msgstr "Assustado"
+msgstr "Paralisado."
 
 #: actorconditions_v0611_2.json:concussion
 msgid "Concussion"
@@ -69,11 +71,11 @@ msgstr "Podridão de Kazaul"
 
 #: actorconditions_v0611_2.json:shadowbless_acc
 msgid "Blessing of Shadow accuracy"
-msgstr "Bênção de precisão da Sombra"
+msgstr "Bênção da precisão Sombria"
 
 #: actorconditions_v0611_2.json:shadowbless_guard
 msgid "Shadow guardian blessing"
-msgstr "Bênção de proteção da Sombra"
+msgstr "Bênção do guardião Sombrio"
 
 #: actorconditions_v0611_2.json:shadowbless_heal
 msgid "Blessing of Shadow regeneration"
@@ -81,7 +83,7 @@ msgstr "Bênção de regeneração da Sombra"
 
 #: actorconditions_v0611_2.json:shadowbless_str
 msgid "Blessing of Shadow strength"
-msgstr "Bênção de força da Sombra"
+msgstr "Bênção da força Sombria"
 
 #: actorconditions_v069.json:bless
 msgid "Bless"
@@ -113,7 +115,7 @@ msgstr "Atordoado"
 
 #: actorconditions_v069_bwm.json:fatigue_minor
 msgid "Minor fatigue"
-msgstr "Fadiga menor"
+msgstr "Fadiga leve"
 
 #: actorconditions_v069_bwm.json:feebleness_minor
 msgid "Minor weapon feebleness"
@@ -130,6 +132,22 @@ msgstr "Fúria menor"
 #: actorconditions_v069_bwm.json:speed_minor
 msgid "Minor speed"
 msgstr "Velocidade menor"
+
+#: actorconditions_v070.json:fear
+msgid "Fear"
+msgstr "Medo"
+
+#: actorconditions_v070.json:shadow_acc
+msgid "Shadow's accuracy"
+msgstr "Precisão Sombria"
+
+#: actorconditions_v070.json:shadow_dmg
+msgid "Shadow's strength"
+msgstr "Força Sombria"
+
+#: actorconditions_v070.json:shadow_prot
+msgid "Shadow's protection"
+msgstr "Proteção Sombria"
 
 #: conversationlist_agthor.json:agthor_guard0:0
 #: conversationlist_ambelie.json:ambelie_1:0
@@ -201,7 +219,7 @@ msgstr "Ok, deixe-me ver o que você tem."
 
 #: conversationlist_ailshara.json:ailshara_2:1
 msgid "I should really not get involved in this. Goodbye."
-msgstr "Eu realmente não deve se envolver nisso. Tchau."
+msgstr "Eu realmente não devo me envolver nisso. Tchau."
 
 #: conversationlist_ailshara.json:ailshara_completed_n_1
 msgid "Sigh, it's you. What do you want?"
@@ -212,15 +230,15 @@ msgstr "Ugh, é você. O que você quer?"
 #: conversationlist_arghes.json:arghes_6:0
 #: conversationlist_ervelyn.json:ervelyn_d:0
 msgid "Let me see what you have to trade."
-msgstr "Deixe-me ver o que você tem que trocar."
+msgstr "Deixe-me ver o que você tem para trocar."
 
 #: conversationlist_ailshara.json:ailshara_completed_y_1
 msgid "Hello again my Shadow friend. How may I help you?"
-msgstr "Olá novamente meu amigo na Sombra. Como posso ajudá-lo?"
+msgstr "Olá novamente meu amigo Sombrio. Como posso ajudá-lo?"
 
 #: conversationlist_ailshara.json:ailshara_deliver_1
 msgid "Hello again. Did you deliver those items to the smith in Vilegard?"
-msgstr "Olá novamente. Será que você entregou esses itens para o ferreiro em Vilegard?"
+msgstr "Olá novamente. Você entregou aqueles itens para o ferreiro em Vilegard?"
 
 #: conversationlist_ailshara.json:ailshara_deliver_1:0
 #: conversationlist_blackwater_throdna.json:throdna_purify_1:0
@@ -231,12 +249,12 @@ msgstr "Sim, está feito."
 #: conversationlist_ailshara.json:ailshara_deliver_1:1
 #: conversationlist_ailshara.json:ailshara_interested_1:0
 msgid "Never mind that, let me see what you have to trade."
-msgstr "Não importa que, deixe-me ver o que você tem que trocar."
+msgstr "Não ligue pra isso, deixe-me ver o que você tem para trocar."
 
 #: conversationlist_ailshara.json:ailshara_deliver_1:2
 #: conversationlist_ailshara.json:ailshara_interested_8:1
 msgid "No. I will help Feygard instead."
-msgstr "Não. Eu vou ajudar Feygard ao invés."
+msgstr "Não. Eu prefiro ajudar Feygard."
 
 #: conversationlist_ailshara.json:ailshara_deliver_1:3
 #: conversationlist_prim_guthbered.json:guthbered_killharl_1:0
@@ -253,7 +271,7 @@ msgstr "Bom. Você também deve tentar convencer Gandoren a pensar que você o a
 
 #: conversationlist_ailshara.json:ailshara_deliver_3
 msgid "Excellent! You do indeed walk with the Shadow my friend. I am glad to hear that there are at least a few decent folk still around."
-msgstr "Excelente! Você realmente andar com a Sombra, meu amigo. Estou feliz em saber que existem pelo menos algumas pessoas decentes ainda por aí."
+msgstr "Excelente! Você realmente andar com a Sombra, meu amigo. Estou feliz em saber que ainda existem algumas pessoas decentes por aí."
 
 #: conversationlist_ailshara.json:ailshara_delivered_1
 msgid "Your help will be most appreciated by the people of Nor City, and you will be welcome among us."
@@ -261,11 +279,11 @@ msgstr "Sua ajuda será muito apreciada pelo povo de Nor City, e você será bem
 
 #: conversationlist_ailshara.json:ailshara_fg_1
 msgid "By the Shadow, you sound like one of those deceptive snobs from Feygard."
-msgstr "Pela Sombra, você soa como um daqueles esnobes enganosos de Feygard."
+msgstr "Pela Sombra, você soa como um daqueles esnobes traiçoeiros de Feygard."
 
 #: conversationlist_ailshara.json:ailshara_fg_2
 msgid "Shadow help you, child. You should question yourself whether you really are making the right choice here."
-msgstr "a Sombra o ajude, filho. Você deve questionar-se se você realmente está fazendo a escolha certa aqui."
+msgstr "Que a Sombra o ajude, filho. Você deve questionar-se se realmente está fazendo a escolha certa aqui."
 
 #: conversationlist_ailshara.json:ailshara_interested_1
 msgid "Psst, hey you! I saw you talking to Gandoren over there, and I happened to notice that you exchanged some items. Anything interesting?"
@@ -281,11 +299,11 @@ msgstr "Gandoren especificamente me pediu para não falar com você sobre isso."
 
 #: conversationlist_ailshara.json:ailshara_interested_1:3
 msgid "Yes, Gandoren wants me to deliver some equipment for Feygard. Do you want a part of the deal?"
-msgstr "Sim, Gandoren quer-me para entregar alguns equipamentos para Feygard. Você quer uma parte do negócio?"
+msgstr "Sim, Gandoren deseja que eu entregue alguns equipamentos para Feygard. Você quer uma parte do acordo?"
 
 #: conversationlist_ailshara.json:ailshara_interested_2
 msgid "Hah, of course. Gandoren would not like it if I were to get a glimpse into his business. I assume you are helping him deliver those items somewhere. Tell me this, what did he promise you in return? Gold? Honor? No?"
-msgstr "Ah, claro. Gandoren não gostaria que eu tivesse oportunidade para atrapalhar seu negócio. Presumo que o está ajudando a entregar os itens em algum lugar. Diga-me isso, o que ele prometer-lhe em troca? Ouro? Honra? Não?"
+msgstr "Ah, claro. Gandoren não gostaria que eu tivesse a oportunidade de vislumbrar seus negócios. Presumo que o está ajudando a entregar esses itens em algum lugar. Me diga uma coisa, o que ele lhe prometeu em troca? Ouro? Honra? estou certo?"
 
 #: conversationlist_ailshara.json:ailshara_interested_2:0
 msgid "Now that you mention it, he didn't actually say there would be a reward."
@@ -293,7 +311,7 @@ msgstr "Agora que você mencionou, ele não chegou a dizer que haveria uma recom
 
 #: conversationlist_ailshara.json:ailshara_interested_2:1
 msgid "I am doing this for the glory of Feygard."
-msgstr "Eu estou fazendo isso para a glória de Feygard."
+msgstr "Eu estou fazendo isso pela glória de Feygard."
 
 #: conversationlist_ailshara.json:ailshara_interested_2:2
 msgid "Helping Feygard seems like the right thing to do."
@@ -305,7 +323,7 @@ msgstr "O que você propõe, ao invés?"
 
 #: conversationlist_ailshara.json:ailshara_interested_3
 msgid "As usual, Feygard keeps all its riches to itself. What if I were to tell you there was a way for you to gain from all this as well?"
-msgstr "Como de costume, Feygard mantém todas as suas riquezas para si. E se eu lhe dissesse que haveria uma maneira para que você ganhar com tudo isso também?"
+msgstr "Como de costume, Feygard mantém todas as suas riquezas para si. E se eu lhe dissesse que há uma maneira de você ganhar com tudo isso também?"
 
 #: conversationlist_ailshara.json:ailshara_interested_3:0
 msgid "Sounds interesting, please go on."
@@ -321,15 +339,15 @@ msgstr "É melhor eu não me envolver nisso, adeus."
 
 #: conversationlist_ailshara.json:ailshara_interested_4
 msgid "Let me tell you my plan. As you might know, everyone believes there will be some coming conflict between the deceptive snobs of Feygard and the glorious people of Nor City."
-msgstr "Deixe-me dizer-lhe o meu plano. Como você deve saber, todo mundo acredita que vai haver algum conflito entre os esnobes enganosos de Feygard e as pessoas gloriosas da Cidade Nor."
+msgstr "Deixe eu lhe dizer meu plano. Como você deve saber, todo mundo acredita que haverá um conflito entre os esnobes traiçoeiros de Feygard e as gloriosa população de Nor City."
 
 #: conversationlist_ailshara.json:ailshara_interested_5
 msgid "Any help we can bring to Nor City in this matter is welcome. These items that Gandoren gave you would be useful to our people in the southern lands."
-msgstr "Qualquer ajuda que pode trazer para a Nor City neste assunto é bem-vinda. Esses itens que Gandoren lhe deu  seriam útil para o nosso povo nas terras do sul."
+msgstr "Qualquer ajuda que possamos trazer para Nor City neste assunto é bem-vinda. Esses itens que Gandoren lhe deu  seriam útil para o nosso povo nas terras do sul."
 
 #: conversationlist_ailshara.json:ailshara_interested_6
 msgid "These items, if you were to deliver them to our allies down in Vilegard, then the Shadow would look favorably upon you."
-msgstr "Se você entregar esses itens aos nossos aliados em Vilegard, a Sombra certamente estaria mais favorável a você."
+msgstr "Esses itens, se fossem entregues aos nossos aliados em Vilegard, então a Sombra certamente estaria mais favorável a você."
 
 #: conversationlist_ailshara.json:ailshara_interested_7
 msgid "This way, the people could get back some piece of the riches that Feygard has stolen from all of us."
@@ -349,11 +367,11 @@ msgstr "Que seja, eu escolho o meu próprio caminho."
 
 #: conversationlist_ailshara.json:ailshara_interested_9
 msgid "Shadow be with you. May the Shadow guide you on the clouded paths that you walk."
-msgstr "A Sombra esteja com você. Que a Sombra o oriente sobre os caminhos nebulosos que você anda."
+msgstr "Que a Sombra o acompanhe e o oriente por esses caminhos nebulosos que percorres."
 
 #: conversationlist_algangror.json:algangror_1
 msgid "Oh my, a child. He he, how nice. Tell me, what brings you here?"
-msgstr "Oh, uma criança. há há, que legal. Diga-me, o que o traz aqui?"
+msgstr "Minha nossa, uma criança. he he, que bom. Diga-me, o que o traz aqui?"
 
 #: conversationlist_algangror.json:algangror_1:0
 msgid "I am looking for my brother."
@@ -361,7 +379,7 @@ msgstr "Eu estou procurando meu irmão."
 
 #: conversationlist_algangror.json:algangror_1:1
 msgid "I just entered to see if there's any loot to be found here."
-msgstr "Eu só entrei aqui para ver se há alguma grana que eu pudesse obter aqui."
+msgstr "Só entrei para ver se encontrava algo de útil por aqui."
 
 #: conversationlist_algangror.json:algangror_1:2
 msgid "I'm an adventurer, looking to help anyone in need of help."
@@ -375,7 +393,7 @@ msgstr "Eu prefiro não dizer."
 #: conversationlist_algangror.json:algangror_return_1:4
 #: conversationlist_algangror.json:algangror_return_d2:0
 msgid "I am sent by Jhaeld to end whatever it is you do to the people of Remgard."
-msgstr "Fui enviado por Jhaeld para acabar com tudo o que você fez para o povo de Remgard."
+msgstr "Fui enviado por Jhaeld para acabar com o que quer que você esteja fazendo para o povo de Remgard."
 
 #: conversationlist_algangror.json:algangror_2a
 msgid "Run away, has he? He he."
@@ -383,7 +401,7 @@ msgstr "Fugindo, não é? He he."
 
 #: conversationlist_algangror.json:algangror_2b
 msgid "Oh sure, you think you can just pick up anything and claim it as yours?"
-msgstr "Ah, claro, você acha que pode simplesmente pegar qualquer coisa e reivindicaro como seu?"
+msgstr "Ah, claro, você acha que pode simplesmente pegar qualquer coisa e se apropriar?"
 
 #: conversationlist_algangror.json:algangror_2c
 msgid "How noble. Maybe you can be of use to me."
@@ -407,11 +425,11 @@ msgstr "Talvez, isso depende de qual seja o problema."
 
 #: conversationlist_algangror.json:algangror_3:2
 msgid "Maybe, it depends on what type of reward we are talking about."
-msgstr "Talvez, isso depende de que tipo de recompensa que você esteja falando."
+msgstr "Talvez, isso depende de que tipo de recompensa estamos falando."
 
 #: conversationlist_algangror.json:algangror_3:3
 msgid "No way. You are acting way too creepy for me."
-msgstr "De jeito nenhum. Você está agindo maneira muito assustadora para mim."
+msgstr "De jeito nenhum. Você está agindo de uma maneira muito assustadora para meu gosto."
 
 #: conversationlist_algangror.json:algangror_3c
 msgid "Reward? No, no, I don't have anything to give you, unfortunately."
@@ -419,16 +437,16 @@ msgstr "Recompensa? Não, não, eu não tenho nada para lhe dar, infelizmente."
 
 #: conversationlist_algangror.json:algangror_3c:0
 msgid "I guess you won't get any help either then."
-msgstr "Eu acho que você também não irá obter quaisquer ajuda."
+msgstr "Então acho que você também não irá conseguir ajuda."
 
 #: conversationlist_algangror.json:algangror_3c:1
 msgid "Fine, what's the problem you want help with?"
-msgstr "Certo, qual é o problema que você quer ajuda?"
+msgstr "Certo, qual é o problema que você precisa de ajuda?"
 
 #: conversationlist_algangror.json:algangror_3c:2
 #: conversationlist_algangror.json:algangror_8:2
 msgid "Something feels wrong here. I better not get involved in this."
-msgstr "Alguma coisa parece errada por aqui. É melhor eu não me envolver nisso."
+msgstr "Sinto algo estranho por aqui. É melhor não me envolver nisso."
 
 #: conversationlist_algangror.json:algangror_4
 msgid "You see, I have this slight problem with .. ahem .. vermin."
@@ -1285,6 +1303,10 @@ msgstr "Parece fácil. Eu vou fazer isso."
 #: conversationlist_ulirfendor.json:ulirfendor_helmet_keep3:0
 msgid "Attack!"
 msgstr "Atacar!"
+
+#: conversationlist_aulowenn.json:aulowenn_k0
+msgid "Excellent. Maybe now my brethren can rest peacefully. Thank you so much for helping me."
+msgstr "Excelente. Talvez agora meus irmãos possam descansar em paz. Muito obrigado por me ajudar."
 
 #: conversationlist_aulowenn.json:aulowenn_ms0:0
 #: conversationlist_blackwater_harlenn.json:harlenn_killguth_1:1
@@ -21316,11 +21338,25 @@ msgstr "Eu trouxe o leite para Arghest. Ele concordou em deixar-me usar o quarto
 msgid "I have explained to the cook that I have permission by Arghest to use the back room."
 msgstr "Eu expliquei para o cozinheiro que eu tenho permissão de Arghest por usar o quarto de dormir."
 
-#~ msgid "Lodar? He is one of our famous potion makers in the Thieves' Guild. He can make all sorts of strong sleeping potions, healing potions and cures."
-#~ msgstr "Lodar? Ele é um dos nossos famosos fabricantes de poção da Corja dos Ladrões. Ele pode curar e fabricar todos os tipos de poções fortes para dormir e poções de cura."
+#: questlist_v070_lodar.json:lodar_pots:41
+msgid "Lodar can create a defensive potion if I bring him two White wyrm claws and a Ruby gem."
+msgstr "Lodar é capaz de produzir uma poção defensiva caso eu lhe traga duas garras de Wyrm branco uma gema de ruby."
 
-#~ msgid "Thank you. Next, I need the heart of that lich."
-#~ msgstr "Obrigado. Agora, eu preciso que o coração do lich."
+#: questlist_v070_lodar.json:lodar_pots:42
+msgid "Lodar can create a potion of strength if I bring him a dead spider and the wings of an insect."
+msgstr "Lodar é capaz de produzir uma poção de força caso eu lhe traga uma aranha morta e as asas de um inseto."
 
-#~ msgid "Here is the helmet."
-#~ msgstr "Aqui está o capacete."
+#: questlist_v070_lodar.json:lodar_pots:43
+msgid "Lodar can create a potent defensive potion if I bring him two Arulir skins and a claw from some monster. The Arulir beasts can be found somewhere up in the north, and the claws can apparently be found from creatures that dwell underground and in caves somewhere outside Fallhaven."
+msgstr "Lodar é capaz de produzir uma potente poção defensiva caso eu lhe traga duas peles de Arulir e uma garra de monstro. A besta Arulir pode ser encontrada ao norte, e a garra, aparentemente, pode ser obtida das criaturas que habitam o subterrâneo e nas cavernas fora de Fallhaven."
+
+#: questlist_v070_lodar.json:xulviir:20
+msgid "I have restored the Xul'viir. I had to threaten the smith in Vilegard to get it restored."
+msgstr "Eu restaurei o Xul'viir. Tive que ameaçar o ferreiro em Vilegard para que o restaurasse."
+
+#: questlist_v070_misc.json:antifoodp:10
+msgid "I should visit the potion-maker in Fallhaven and ask for something to help against food poisoning."
+msgstr "Eu devo visitar o produtor de poções em Fallhaven e perguntar por alguma coisa que ajude a tratar a intoxicação alimentar."
+
+#~ msgid "Ahem. As I've told you several times, Elwyl, since it's YOU that is causing all the trouble, I think it would be best for both our sakes if YOU moved out."
+#~ msgstr "Ahem. Como eu já disse várias vezes, Elwyl, já que é você que está causando todos os problemas, acho que seria o melhor para nosso bem, se você se mudasse."

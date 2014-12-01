@@ -132,7 +132,7 @@
  </layer>
  <layer name="Above" width="29" height="30">
   <data encoding="base64" compression="zlib">
-   eJzNVkEKwzAMKzuvsN/1BWuf01PpoZ8dOwSCcWzJdtl8jSLFSiI8Tf9R26tuL8q1GDiPYxXrFlfPKfcha+gZWE7kzGx5nL/Q7D14G/5HNUecDMcd+AqO/cFrSC81jmvmODyM1lfmThGM1tcdd/rFnIZfjCaaM56fqKaXeX1puIXUrMjYhsl4haxl8Fb+sH8W1YxkQQVXZjaQ+ytmA6TWwbu19FFPvOyUmsicEK3+LMz84vl7AD2yFblT1JtRPjfN7enPCU0r+8+YPqvmsaxm5A0yPmmalXmGaqL1AWx4Lws=
+   eJzNlkEOwyAMBKOeGym/ywtKntNT1UM+W+WAhIixd21Hja+YHbwGi2m6R6xL3l5US8uzNIqDuS3nfcgaegZWM+K5V/MfzNaDl+K/lznSZDSuyM/QeD94Ru+lpLHPnIYUbS1SXZGeIjlSXVf09Mj5Kn4xTHTOWH6iTI3Xa0h5Vo8ZHlp7zYl4haxF8rX5w75ZlOmZBRla7DvW9qNa0VlbBvdW00U9sWZnz0H+Cd5oz8L8Xyx/P0CNbHh6inozms+VuT3tf0JlRd8ZU2fWfyzK9NxBxieJmTnPUCYaP/etLps=
   </data>
  </layer>
  <layer name="Walkable" width="29" height="30" visible="0">
@@ -140,7 +140,7 @@
    eJzlktEJgDAMRB3Bpbr/SuKHUEp7fZeUihgQQZO85HLlPI7y4+eOrzCfuvadYTpR589YozzVW+VQnmKq2chcqueqPSmX1irm7FZUX+o/d0/qN+dGdM8IL+MjosXomzsvyX+L2eZFmfSOO5jEEy6z7uEwezNQrWqWo4vaU2nSy1vBdG65k+neYjVTBfFxljn719NG9SFc4nMS9J6E6dzE1VYxM953mLP6iO8jda5ndz4XMR3MNA==
   </data>
  </layer>
- <objectgroup name="Mapevents" width="29" height="30">
+ <objectgroup name="Mapevents" width="0" height="0">
   <object name="up lostmine7" type="mapchange" x="192" y="64" width="32" height="32">
    <properties>
     <property name="map" value="lostmine6"/>
@@ -154,7 +154,7 @@
    </properties>
   </object>
  </objectgroup>
- <objectgroup name="Spawn" width="29" height="30" visible="0">
+ <objectgroup name="Spawn" width="0" height="0" visible="0">
   <object name="ash4" type="spawn" x="192" y="128" width="32" height="32"/>
   <object name="fire1" type="spawn" x="96" y="160" width="160" height="256">
    <properties>
@@ -203,5 +203,5 @@
    </properties>
   </object>
  </objectgroup>
- <objectgroup name="Keys" width="29" height="30"/>
+ <objectgroup name="Keys" width="0" height="0"/>
 </map>

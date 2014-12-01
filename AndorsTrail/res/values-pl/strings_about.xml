@@ -8,43 +8,43 @@
 <h1>Ikony interfejsu</h1>
 
 <div><b>Skrzynia</b><img alt="chest" src="chest.png" /></div>
-<p>Szybki slot [Przytrzymaj dłużej palec na przedmiocie, żeby go przypisać]</p>
+<p>Slot ekwpipunku [Przytrzymaj dłużej palec na slocie, aby przypisać mu przedmiot]</p>
 
 <div><b>Bohater</b><img alt="hero" src="char_hero.png" /></div>
-<p>Menu [Status, Zadania, Umiejętności &amp; Inwentarz *]</p>
-<p>* (Gdy jesteś w inwentarzu kliknij przedmiot, żeby otrzymać info &amp; "przytrzymaj dłużej" po więcej opcji)</p>
+<p>Menu [Przegląd, Zadania, Umiejętności oraz Inwentarz *]</p>
+<p>* (Gdy jesteś w inwentarzu kliknij przedmiot, żeby otrzymać informacje lub przytrzymaj dłużej palec na przedmiocie aby uzyskać więcej opcji)</p>
 
-<div><b>Potwór</b><img alt="monster" src="monster.png" /></div>
-<p>Informacja [Pokazywana przy walce]</p>
+<div><b>Przeciwnik</b><img alt="monster" src="monster.png" /></div>
+<p>Informacja [Wyświetlana podczas walki]</p>
 
 
 
 <p>________________</p>
 <h1>Walka</h1>
 
-<p>Akcje wykonane podczas walki kosztują wytrzymałość WT...</p>
+<p>Akcje wykonane podczas walki kosztują Punkty Akcji (PA)...</p>
 
-<div><b>Atak</b> - [3WT] *</div>
+<div><b>Atak</b> - [3PA] *</div>
 <img alt="attacking" src="doubleattackexample.png" />
-<p>* (Equipping Gear &amp; Korzystanie z przedmiotów może wpłynąć na ilość WT &amp; koszt użycia)</p>
+<p>* (Ekwipunek oraz użycie przedmiotów może wpłynąć na ilość PA i(lub) koszt użycia)</p>
 
-<div><b>Używanie Przedmiotów</b> - [5WT]</div>
-<div><b>Ucieczka</b> - [6WT]</div>
+<div><b>Użycie Przedmiotu</b> - [5PA]</div>
+<div><b>Ucieczka</b> - [6PA]</div>
 
 
 
 <p>________________</p>
 <h1>Zaawansowana Walka</h1>
 
-<div>Podczas walki kliknij na ikone bohatera...</div>
+<div>Podczas walki przytrzymaj dłużej palec na polu sąsiadującym z Bohaterem...</div>
 
-<div><b>Jak uciec</b></div>
+<div><b>Aby uciec</b></div>
 <p>(Wybrana podświetlona ikona zamienia koszt ataku na koszt ruchu)</p>
 <img alt="flee" src="flee_example.png" />
 <p>[Tryb ucieczki aktywowany - Przytrzymaj dłużej palec na wrogu by powrócić do trybu walki]</p>
 
-<div><b>Jak zmienić cel</b></div>
-<p>(Podświetlony na czerwono cel to atakowany obecnie wróg przsuń palcem tą poświate na innego wroga)</p>
+<div><b>Aby zmienić cel</b></div>
+<p>(przełącz czerwone podświetlenie celu między poszczególnymi przeciwnikami)</p>
 <p>[Cel został zmieniony]</p>
 
 ]]></string></resources>
