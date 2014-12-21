@@ -127,17 +127,32 @@
  </layer>
  <layer name="Objects" width="15" height="15">
   <data encoding="base64" compression="zlib">
-   eJxjYKANmMbIwLCLF7+adkbs4pNwiKOD7UDzO6FqdZgYGEDMBF4IDQMZrAwM27C4QxuofiYjRB8ICDIg6GSoWAUrqh4vAQaGXAFUsTo0s29yQegyoDgHNwPDVix2+wpgisEAJzeCDXOHLBMkPGHgNQ+qObVIdsD0m7MgxNKA8m94cNv5CioHU/MaTS2MP5UZIRaFww+WLNjFNZH85S2AMLMUye3STAh2uAB2t3gj2QuSQ9aDC4DCr40XohdEE6MHGSQg6SUVpPGiuhkbAACF1R5C
+   eJxjYKANmMbIwLCLF7+adkbs4pNwiKOD7UDzO6FqdZgYGEDMBF4IDQMZrAwM27C4QxuofiYjRB8ICDIg6GSoWAUrqh4vAQaGXAFUsTo0s29yQegyoDgHNwPDVix2+wpgisEAJzeCDXOHLBMkPGHgNQ+qObVIdsD0m7MgxNKA8m94cNv5CioHU/MaTS2MP5UZIRaFww+WLNjFNZH85S2AMLMUye3STAh2uAB2t3gj2QuSQ9aDC8gyoeolRg8ymMYL0XsfTxjiAst4Ud2MDQAAEuAd6g==
+  </data>
+ </layer>
+ <layer name="Objects_replace" width="15" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2DoAG8ByvS+5iFdXxkv+fa+4oHofYPHXgCuPgTV
   </data>
  </layer>
  <layer name="Above" width="15" height="15">
   <data encoding="base64" compression="zlib">
-   eJxjYKA+CBcgT186UF8amXqx6bPlJs+s4QbSyQxTECA3LinVK8uEKebNy8Dgw0ueedFAfTFk6gWFny9Qrx8Z+kFhEAvUF4dHLwCUogdh
+   eJxjYKA+CBcgT186UF8amXqx6bPlJs+s4QbSyQxTECA3LinVK8uEKebNy8Dgw0ueedFAfTFA3EaGflD4+QL1+ZGhFxQGsUB9cXj0AgDpkQf0
+  </data>
+ </layer>
+ <layer name="Above_replace" width="15" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AU4APpAuTrDSdCLwA+gADf
   </data>
  </layer>
  <layer name="Walkable" width="15" height="15">
   <data encoding="base64" compression="zlib">
    eJxzFWBgcB1BGAbQxZBpdHF0vfgAujpS9GIzi1z9uPxNqn50MVLsJddOUsN7qGMAZL8uKA==
+  </data>
+ </layer>
+ <layer name="Walkable_replace" width="15" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDCQAAAOEAAE=
   </data>
  </layer>
  <objectgroup name="Mapevents" width="0" height="0">
@@ -151,6 +166,19 @@
    <properties>
     <property name="map" value="blackwater_mountain6"/>
     <property name="place" value="south"/>
+   </properties>
+  </object>
+  <object name="south" type="mapchange" x="192" y="448" width="96" height="32">
+   <properties>
+    <property name="map" value="blackwater_mountain5c"/>
+    <property name="place" value="north"/>
+   </properties>
+  </object>
+  <object name="quest:queststage" type="replace" x="192" y="352" width="96" height="128">
+   <properties>
+    <property name="Above" value="Above_replace"/>
+    <property name="Objects" value="Objects_replace"/>
+    <property name="Walkalbe" value="Walkalbe_replace"/>
    </properties>
   </object>
  </objectgroup>
@@ -169,4 +197,5 @@
    </properties>
   </object>
  </objectgroup>
+ <objectgroup name="Replace" width="15" height="15"/>
 </map>
